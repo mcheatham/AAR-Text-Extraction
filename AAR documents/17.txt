@@ -1,0 +1,327 @@
+
+
+Incident Management Notification and Assembly Laboratory Water Leaks Incident After-Action Report / Improvement Plan Jan 2014
+
+February 20, 2014       After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Incident Jan 2014                                                                                        2
+
+Incident Name Incident Management Notification and Assembly Laboratory Water Leaks Incident Jan 2014
+
+Incident Dates January 6, 2014
+
+Start time:  10:22 AM Stop time: 11:00 AM Scope
+
+This after action report evaluates only the notification and assembly of Incident Management in response to the Laboratory Water Leaks. The full incident response is evaluated in a separate AAR/IP.
+
+Mission Area(s)
+
+Response Capabilities
+
+Emergency Operations Coordination Objectives 1. Notify and assemble unannounced/without prior notice the command and general staff required for response to the Laboratory Water Leaks incident.  2. Achieve the Performance Target of assembly in less than or equal to 60 minutes.
+
+Threat or Hazard Natural
+
+Extreme Weather -
+
+Cold Temperatures Infrastructure Damage Incident Description Extremely cold overnight temperatures in Minnesota resulted in the Public Health Laboratory Heating, Ventilation and Cooling (HVAC) system shutting down.  Water leaks resulted due to pipeline freeze up.  Leakage threatened water damage to equipment. Laboratory staff could not work in the building when the entire HVAC system was shut down for repairs.
+
+Sponsor Minnesota Department of Health Participating Organizations Lead Role -
+
+Minnesota Department of Health staff
+
+Point of Contact Elizabeth Tangwall    After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Incident Jan 2014                                                                                        3
+
+INCIDENT SUMMARY On January 6, 2014 the heat exchangers in the Public Health Laboratory building went down between 3:00 and 4:00 AM during a night when temperatures across Minnesota were extremely cold.  The alarm system in the building did not activate. There was significant damage to the heating system.  As a result, the water in the radiator pipes in the building froze.  The situation was discovered after 7:00 AM and the heat was reinstated; however, many pipes were damaged and began leaking water. Staff responded by moving equipment and using tarps to cover equipment.  The infectious disease lab, environmental lab and the newborn screening lab were most significantly affected.  Areas of the lab had standing water and were not habitable so many staff were sent home on emergency leave granted by Minnesota Management and Budget (MMB).
+
+PHL initiated ICS with the Assistant Commissioner for the Health Protection Bureau at MDH as Incident Manager.  The Director of Emergency Preparedness was notified by phone at 10:22 AM. 
+
+As the Deputy Incident Manager, she identified and began notifying staff to fill the required ICS positions and directed them to (physically) assemble in the first level lobby of the Public Health Laboratory.
+
+Notifications were completed using a combination of direct request of staff in the Office of Emergency Preparedness and Public Health Laboratory Staff, phone calls and email.
+
+The Initial Briefing was conducted at 11:00 AM in the PHL first floor lobby.
+
+Staff Assembled: (see Initial Briefing meeting notes).
+
+Those in red * are trained for position.
+
+Incident Manager -
+
+Aggie Leitheiser*
+
+Deputy Incident Manager -
+
+Jane Braun*
+
+Public Information Officer Doug Schultz*
+
+Safety Officer Stefan Saravia*
+
+Operations Chief -
+
+JoAnne Bartkus*
+
+Branch Director Newborn Screening Mark McCann Branch Director Environmental Lab Paul Moyer*
+
+Planning Chief Cheryl Petersen-Kroeber*
+
+Deputy Planning Chief Deb Radi*
+
+Documentation Unit Megan Thompson*
+
+Situation Unit Janice Maine*
+
+Finance/Admin Chief
+
+Virginia Davis*
+
+Human Resource Unit Barbara Wills*
+
+Legal Unit Arden Fritz*
+
+Logistics Chief Mike Convery*
+
+Tactical Communications Bill Schmidt* (no
+
+Liaison officer required)
+
+Plant Management -
+
+Chris Gram The incident command staff roles continued until the incident response was scaled down to be managed by only Public Health Laboratory staff on January 14, 2014.
+
+Continuous Quality Improvement:   a.
+
+Completed improvements prior to response:
+
+Command and general staff lists and points of contact have been updated recently in December 2013. b. 
+
+No improvement items from the Lab Water Leaks Jan 2014 response related to notification and assembly were identified.
+
+Barriers to Assembly:
+
+Communication (PHL computers were down) requiring direct person to person notification. After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Incident Jan 2014                                                                                        4
+
+ANALYSIS OF CAPABILITIES Aligning exercise objectives and capabilities provides a consistent taxonomy for evaluation that transcends individual exercises to support preparedness reporting and trend analysis.  Table 1 includes the exercise objectives, aligned capabilities, and performance ratings for each capability as observed during the exercise and determined by the evaluation team.
+
+Table 1 Summary of Capability Performance The following sections provide an overview of the performance related to each exercise or incident objective and the associated HPP, PHEP, or Core Capability, highlighting strengths and areas for improvement.
+
+Objective
+
+Capability Performed without Challenges (P)
+
+Performed with Some Challenges (S)
+
+Performed with Major Challenges (M)
+
+Unable to be Performed (U)
+
+Notify and Assemble Emergency Operations Coordination S
+
+Assembly within 60 minutes
+
+Emergency Operations Coordination P
+
+Ratings Definitions:
+
+Performed without Challenges (P):  The targets and critical tasks associated with the capability were completed in a manner that achieved the objective(s) and did not negatively impact the performance of other activities.  Performance of this activity did not contribute to additional health and/or safety risks for the public or for emergency workers, and it was conducted in accordance with applicable plans, policies, procedures, regulations, and laws.
+
+Performed with Some Challenges (S):  The targets and critical tasks associated with the capability were completed in a manner that achieved the objective(s) and did not negatively impact the performance of other activities.  Performance of this activity did not contribute to additional health and/or safety risks for the public or for emergency workers, and it was conducted in accordance with applicable plans, policies, procedures, regulations, and laws.  However, opportunities to enhance effectiveness and/or efficiency were identified.
+
+Performed with Major Challenges (M):  The targets and critical tasks associated with the capability were completed in a manner that achieved the objective(s), but some or all of the following were observed:  demonstrated performance had a negative impact on the performance of other activities; contributed to additional health and/or safety risks for the public or for emergency workers; and/or was not conducted in accordance with applicable plans, policies, procedures, regulations, and laws.
+
+Unable to be Performed (U):  The targets and critical tasks associated with the capability were not performed in a manner that achieved the objective(s).
+
+Capability 1
+
+Emergency Operations Coordination Objectives:  1. Notify and assemble unannounced/without prior notice the command and general staff required for response to the Laboratory Water Leaks incident.  2. Achieve the Performance Target of assembly in less than or equal to 60 minutes. After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Incident Jan 2014                                                                                        5
+
+Gap Addressed:
+
+This real incident response verifies that the notification and assembly times recorded for drills accurately reflects real incident response times during normal working hours.
+
+The strengths and areas for improvement for each capability aligned to this objective are described in this section.
+
+Strengths
+
+The full capability level can be attributed to the following strengths:
+
+Strength 1:
+
+Pre-identified staff were available and either physically present or were connected by their Blackberries.
+
+Strength 2:
+
+Most of the required staff had previously received ICS training and had participated in exercises.
+
+Areas for Improvement The following areas require improvement to achieve the full capability level:
+
+Area for Improvement 1:
+
+Primary communication in the Public Health Laboratory uses the computer system which was not operable during this incident requiring direct face to face communication to some of the staff to notify and request to assemble in the lobby.
+
+Reference:  none
+
+Analysis:
+
+Not all MDH staff have work cell phones.  Many staff were already in the lab and assisting in rescuing equipment as their normal workstations were not habitable or functional.
+
+Use of the MIR 3 system to notify staff as previously exercised would have been ineffective for some of the PHL staff.
+
+Area for Improvement 2:
+
+A sign-in sheet was not completed to record the attendance; however, the Documentation person recorded the attendees in her meeting minutes.
+
+Reference:
+
+Incident Initial Briefing meeting minutes.
+
+Analysis:
+
+This initial gathering occurred on scene at the Public Health Laboratory lobby rather than in the Department Operations Center.
+
+The information required was adequately documented in the minutes.     After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Incident Jan 2014                                                                                        6                       After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP)
+
+Laboratory Water Leaks Jan 2014                                                                                        1
+
+APPENDIX A:
+
+IMPROVEMENT PLAN This Improvement Plan (IP) has been developed for the Minnesota Department of Health as a result of the Laboratory Water Leaks occurring on January 6, 2014.
+
+Capability Issue/Area for Improvement Corrective Action Capability Element1
+
+Primary Responsible Organization Organization Point of Contact Start
+
+Date Completion Date Capability 1.
+
+Emergency Operations Coordination 1.1
+
+Computers were not available nor were staff near their phones at the time of the incident. 1.1.1
+
+Identify another method of notification in the PHL building.
+
+Planning PHL Assistant Division Director January 7, 2014
+
+Due by July 6, 2014
+
+Draft After Action Report submitted by:
+
+Jane Tangwall Date:
+
+February 20, 2014
+
+AAR/IP approved by designated agency representative:  Deb Radi Date:
+
+February 21, 2014___________                                                           1
+
+Capability Elements are : Planning, Organization, Equipment, Training or Exercise After-Action Report Incident Management Notification and Assembly Improvement Plan (AAR/IP Laboratory Water Leaks  Jan  2014
+
+APPENDIX B:
+
+EXERCISE PARTICIPANTS Participating Organization Type of Organization Minnesota Department of Health Public Health Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item.
+
+Choose an item. After-Action Report                                                                                                         [Exercise/Incident Name]
+
+Improvement Plan (AAR/IP)                                                                      [Exercise/Incident Name Continued]
+
+For additional participants copy the table on the previous page and paste here

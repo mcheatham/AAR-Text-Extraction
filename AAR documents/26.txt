@@ -1,0 +1,503 @@
+Homeland Security Exercise and Evaluation Program (HSEEP) After Action Report/Improvement Plan Tropical Storm Isaac   (AAR/IP)
+
+TROPICAL STORM ISAAC STATE ESF8 AFTER ACTION REPORT/IMPROVEMENT PLAN  March 25, 2013      Homeland Security Exercise and Evaluation Program (HSEEP) After Action Report/Improvement Plan Tropical Storm Debby   (AAR/IP) ] Handling Instructions Florida Department of Health 1ADMINISTRATIVE HANDLING INSTRUCTIONS 1. The title of this document is Tropical Storm Isaac State ESF8 After Action Report and Improvement Plan  2. This is a public document Œ no special handling instructions are required.  3. Points of Contact:
+
+Samantha Cooksey-Strickland ESF8 Planner Florida Department of Health 4052 Bald Cypress Way Tallahassee, FL 32399 850-245-4444 ext. 3696 (office) 850-257-2553 (cell) Samantha_Cooksey@doh.state.fl.us
+
+Sara Bourdeau ESF8 Planner Florida Department of Health 4052 Bald Cypress Way Tallahassee, FL 32399 850-245-4444 x 4404 (office) 850-545-0223 (cell)
+
+Sara_Bourdeau@doh.state.fl.us     Contents Florida Department of Health 2 CONTENTS ADMINISTRATIVE HANDLING INSTRUCTIONS ...............................................................1 CONTENTS ...............................................................................................................2 EXECUTIVE SUMMARY ..............................................................................................3 SECTION 1: INCIDENT OVERVIEW ..............................................................................5 SECTION 3: ANALYSIS OF CAPABILITIES ....................................................................8 SECTION 4: CONCLUSION ...................................................................................... 20 APPENDIX A: IMPROVEMENT PLAN ......................................................................... 21 APPENDIX B: ACRONYMS ...................................................................................... 29                       Executive Summary Florida Department of Health 3 EXECUTIVE SUMMARY The purpose of this report is to analyze State ESF8™s response to Tropical Storm Isaac, identify strengths to be maintained and built upon, identify potential areas for improvement, and support the development of corrective actions.
+
+In late August, Isaac was named the ninth storm of the 2012 Atlantic Hurricane Season. 
+
+Hurricane Isaac struck parts of Florida as a Tropical Storm before heading west toward
+
+Louisiana.  Heavy rainfall from Isaac spread up the Florida coast.  On August 27, a tornado touched down in Indian River County for about two minutes, damaging 95 houses. 
+
+The State Emergency Operations Center (SEOC) elevated to a Level 1, Full Activation, from August 25-29.  The Governor signed Executive Order 12-199 proclaiming a State of Emergency on August 25.  On October 18, 2012, after appeal by the Governor, the Federal Emergency Management Agency (FEMA) approved a Disaster Declaration (DR-4084-FL) for public assistance in the following counties: Bay, Collier, Escambia, Franklin, Glades, Gulf, Martin, Monroe, Okaloosa, Palm Beach, St. Lucie, and Santa Rosa.
+
+State ESF8 supported the needs of the State Emergency Response Team (SERT) and county health departments (CHDs) from August 23-September 1. 
+
+Isaac also posed a threat to the 2012 Republican National Convention (RNC), which was held in
+
+Tampa during the week of August 27, 2012.  A significant number of local, state and federal resources were committed to the RNC as a National Security Special Event and the storm prompted the SERT and ESF8 to manage the event and incident simultaneously. 
+
+Major Strengths Major strengths identified during this incident are as follows:
+
+The ESF8 Incident Management Team (IMT) was established efficiently, staffed appropriately, and was able to produce the initial Incident Action Plan within 24 hours of activation. 
+
+Thorough advanced planning was conducted to address the needs of the delegates and visitors in the Tampa area and the concurrent potential for dual impact to the State in response to both the RNC and a hurricane.  ESF8 was able to put this planning to use when threatened by Tropical Storm Isaac.  An Incident Command System (ICS) complex structure was used to manage the RNC and Tropical Storm Isaac simultaneously. 
+
+The process for conducting healthcare facility status verification was improved from the process used during Tropical Storm Debby earlier in 2012.    Executive Summary Florida Department of Health 4  Primary Areas for Improvement Throughout the incident, several opportunities for improvement in the State ESF8™s ability to respond were identified.  The primary areas for improvement are as follows:
+
+The process for reporting County Health Department open/closed status was not consistent or efficient.  This deficiency was also noted in the Tropical Storm Debby After-Action Review. 
+
+The process for reporting special needs shelter census information was inconsistent.   ﬁDual populationsﬂ of Functional Needs Support Services (FNSS) and special needs shelter (SpNS) designations continues to cause confusion.   Section 1: Incident Overview Florida Department of Health  5 SECTION 1: INCIDENT OVERVIEW Incident Details Incident Name Tropical Storm Isaac Type of Incident Tropical Storm Incident Start Date August 23, 2012 Incident End Date September 1, 2012 Duration 8 days Location Region 1: Bay, Escambia, Gulf, Okaloosa, Santa Rosa, and Walton Region 2: Franklin and Leon Region 4: Pinellas, Hillsborough, Pasco, Hernando and Citrus Region 5: St. Lucie, Martin and Indian River Region 6: Manatee, Sarasota, Charlotte, Lee, Collier, Okeechobee,
+
+Region 7: Monroe, Miami-Dade, Broward, and Palm Beach. Mission Areas Prevent, protect, respond and recover. 
+
+Capabilities The following core capabilities, identified in the September 2011 release of the National Preparedness Goal, will be discussed in this report as they related to the State ESF8
+
+Response to Tropical Storm Isaac. 
+
+Operational Coordination Operational Communications Public Health and Medical Services Public Information and Warning Mass Care Services Threats and Hazard Identification Situational Assessment  Section 1: Incident Overview Florida Department of Health  6 Participating Organizations Many local, state and federal agencies participated in the response to Tropical Storm Isaac. 
+
+The following is a list of those agencies with which the State ESF8 coordinated while responding to the incident.
+
+Local:  Bay County Health Department Broward County Health Department Charlotte County Health Department Citrus County Health Department Collier County Health Department Escambia County Health Department Franklin County Health Department Gulf County Health Department Hernando County Health Department Hillsborough County Health Department Indian River County Health Department Lee County Health Department Leon County Health Department Manatee County Health Department Martin County Health Department Miami-Dade County Health Department Monroe County Health Department Okaloosa County Health Department Okeechobee County Health Department Palm Beach County Health Department Pasco County Health Department Pinellas County Health Department Santa Rosa County Health Department Sarasota County Health Department St. Lucie County Health Department Walton County Health Department State:  Agency for Healthcare Administration (AHCA)
+
+Agency for Persons with Disabilities (APD)
+
+Florida Division of Emergency Management (DEM)
+
+Florida Healthcare Association (FHCA)
+
+Florida Hospital Association (FHA)
+
+Federal  U.S. Department of Health and Human Services (DHHS)
+
+Number of State-Level FDOH Participants: 28 Section 2: Incident Summary Florida Department of Health  7  SECTION 2: INCIDENT SUMMARY Incident Objectives and Capabilities The National Preparedness Goal Core Capabilities listed below form the foundation for the organization of all objectives and observations in this incident.  Each capability is linked to several corresponding observations and recommendations to provide additional detail. 
+
+Objective 1:  Establish and maintain a State ESF8 Incident Management Team (IMT) to support the incident. o Operational Coordination Capability o Operational Communication Capability Objective 2: Verify pre-incident facility status, support post-impact assessment and verification of facility status in impacted counties. o Public Health and Medical Services Capability Objective 3: Coordinate with ESF6 (Mass Care) regarding the sheltering of vulnerable populations and Special Needs Shelters (SpNS).   o Mass Care Capability Objective 4: Assess the needs of and provide support to the county health departments (CHDs) and Local ESF8 within the impacted counties. o Public Health and Medical Services Capability Objective 5: Disseminate public health and medical information. o Public Information and Warning Capability Objective 6: Identify potential threats and hazards and conduct advanced planning to address the potential consequences. o Threats and Hazard Identification Capability Objective 7: Gather/analyze incident information and disseminate to key stakeholders to create a common operating picture. o Situational Assessment Capability   Section 3: Analysis of Capabilities Florida Department of Health 8 SECTION 3: ANALYSIS OF CAPABILITIES This section of the report reviews the performance of the capabilities, activities, and tasks.  The capabilities linked to the incident objectives of the State ESF8 response to Tropical Storm Isaac are listed below, followed by corresponding activities.  Each activity is followed by related observations, which include references, analysis, and recommendations. 
+
+Capability 1: Operational Coordination Capability Summary: The operational coordination capability is defined as establishing and maintaining a unified and coordinated operational structure and process that appropriately integrates all critical stakeholders and supports the execution of core capabilities.  This includes: executing operations with functional and integrated communications, establishing and maintaining partnerships, establishing command, control and coordination structures and maintaining National Incident Management System (NIMS) compliancy. 
+
+Activity 1.1:
+
+Establish and maintain a State ESF8 Incident Management Team (IMT) to support the incident.  Observation 1.1.1:  Strength Œ The Incident Management Team was established efficiently, staffed appropriately, and was able to produce the initial Incident Action Plan within 24 hours of activation. 
+
+Reference:
+
+ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+Many deficiencies were noted in the activation process for Tropical Storm Debby earlier in the year.  In establishing the IMT for Tropical Storm Isaac, the following improvements were noted. 
+
+The Staffing Unit activated staff efficiently and actively. 
+
+Although staff responded to the activation orders in a timely manner, recommendations were made to amend the current FDOH Emergency Duty Guidelines to create a formal Emergency Duty Policy to reinforce the emergency duty requirement noted in personnel position descriptions. 
+
+In previous responses, the Planning Section did not always activate the appropriate number of staff within the section, thereby overburdening the unit leads with multiple responsibilities.  During this response, the
+
+Planning Section activated additional personnel which not only reduced the workload on the unit leads, but also offered an opportunity for more staff to obtain training during a real-world incident.  Activating the
+
+Technical Specialist Coordinator proved to be especially useful, as doing so allowed the Planning Coordinator to focus on supporting the State Emergency Response Team and rather than coordinating assignments with the technical specialist. 
+
+Staff reported that they had a clear understanding of their assigned roles based on guidance provided by the section coordinators, ESF8 SOP and job actions sheets.  Section 3: Analysis of Capabilities Florida Department of Health 9  Recommendations:   1. Update the Emergency Duty Guidelines to establish policy regarding response expectations for identified FDOH staff.  This policy should include consequences for refusing to report for duty. 2. Once approved, ensure FDOH staff are aware of general staffing and activation expectations and all Divisions understand the expectations for approving staff to participate in emergency duty. 3. All ESF8 activations should be used as training opportunities, placing new personnel under the instruction of a person who is experienced in their role rather than relying on a core group of experienced staff. 
+
+Observation 1.1.2:  Area of Improvement Œ Some ESF8 personnel did not understand the role of the federal responders. 
+
+Reference:
+
+ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+During the response, a Health and Human Services Regional Emergency Coordinator and United States Public Health Services Officer were deployed to the State Emergency Operations Center (SEOC).  Some ESF8 staff did not understand the roles of these federal responders and how they should be integrated into the response. 
+
+Recommendations:   1. Provide ESF8 staff with training regarding the role of federal responders and how they integrate into a state response. 2. Include federal personnel and their role on the ICS 203 Form (Organizational Assignment List). 
+
+Observation 1.1.3:  Area of Improvement Œ Staffing rosters from SERVL (Florida™s electronic Responder Management System) and the ICS 203 Form did not match up. 
+
+Reference:
+
+ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+The Logistics Staffing Unit uses SERVFL to recruit and activate staff. 
+
+Currently, all staff and teams are not registered in SERVFL.  This issue caused a discrepancy between the SERVFL daily staffing reports and the Incident Command System (ICS) Form 203 (Organizational Staffing List). 
+
+The ESF8 SOP outlines the process for activating staff, yet does not include procedures specific to SERVFL.  Personnel have been encouraged to register in SERVFL, yet registration has not been mandatory.  This will also be included in the recommended revisions to the current Emergency Duty Guidelines. 
+
+Recommendation:  If SERVFL is the designated system for recruiting and activating staff, all staff should be required to register and maintain current information in the system.     Section 3: Analysis of Capabilities Florida Department of Health 10 Observation 1.1.4:  Area of Improvement Œ Staff hours dedicated to responding to Tropical Storm Isaac were not recorded as directed. 
+
+Reference:
+
+ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+The People First human resource system is the primary method designated for tracking hours related to response.  Staff members were provided with a specific tracking number that was used to code all payroll hours that were spent on activities related to the response to Tropical Storm Isaac.  Staff reported that they were confused about whether or not they should be recording their hours in this system. 
+
+Recommendation:  Develop a timekeeping compliance system and implement it for the 2013 Hurricane Season.  The system should include employee accountability for not complying with the directive, as non-compliance could result in the loss of cost reimbursement for funded incidents/events.
+
+Activity 1.2:
+
+Maintain dual response efforts for ESF8 responses to Tropical Storm Isaac and the Republican National Convention.  Observation 1.2.1:  Strength Œ Advanced planning led to a successful implementation of an ICS complex structure to manage both the response to Tropical Storm Isaac and the Republican National Convention. 
+
+References:   1. ESF8 Contingency Staffing Plan for Tropical Incidents during the week of the Republican National Convention 2. ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+The RNC was scheduled during the peak of hurricane season.  Given the potential for tropical weather during this time, contingency planning was a priority for the Incident Management Team.  Planning considerations were developed based on the demographics of Hillsborough and Pinellas counties, for the following scenario:
+
+Hurricane category III -V on the west coast of Florida. 
+
+Landfall or trajectory: Hillsborough/Pinellas Co. 
+
+Planning time frame: First 72 hours before landfall - First 72 hours after landfall  Operational Period: August 24-31 (27 -31, 2012)
+
+Additionally, a plan for ESF8 Contingency Staffing for Tropical Incidents during the week of the Republican National Convention was developed.  The purpose of this contingency plan was to document staffing coverage for ESF8 in the event that Florida was impacted by a tropical weather system in the days leading up to and during the Republican National Convention.  Contingencies were based on the following factors:
+
+State ESF8 assumed the RNC would take place unless a significant tropical cyclone impacted the Tampa area prior to the RNC. 
+
+ESF8 resources, including key members of ESF8™s IMT, were designated to deploy to the RNC or had been placed on standby for the RNC.   Section 3: Analysis of Capabilities Florida Department of Health 11
+
+Resources would be applied to the incident with the greatest need; therefore, standby resources for the RNC may be re-called to support a hurricane response, if necessary.  However ESF8, would make all efforts not to do so. 
+
+ESF8 resources designated to the RNC would be unavailable from August 24th through September 3rd (includes deployment and rehab period). 
+
+Four scenarios were examined and staffing patterns were established for each. 1. RNC takes place without incident. No tropical system impacts Florida during RNC period. 2. RNC takes place without incident. Tropical system impacts Florida during RNC triggering a SERT Activation. 3. Incident occurs during RNC. No tropical system impacts Florida during RNC period.  4. Incident occurs during RNC. Tropical system impacts Florida during RNC triggering a SERT Activation.
+
+The week of the RNC, Florida was faced with the threat of Tropical Storm Isaac and used the staffing plan for scenario number 2 above.  State ESF8 operated under an ICS complex structure. 
+
+Recommendations:  Conduct an incident hazard vulnerability analysis for special events.  Contingencies should be developed for high probability, high impact threats.
+
+Observation 1.2.2:  Strength Œ Despite the rigorous meeting schedules for the RNC and TS Isaac, ESF8 provided representation for all meetings called by the State Emergency Response Team (SERT).  Reference:
+
+Florida™s Comprehensive Emergency Management Plan (CEMP)
+
+Analysis:  The SERT was activated for response to both Tropical Storm Isaac and the RNC.  The dual response caused a surge in the number of daily SERT meetings ESF8 was expected to attend.  The Planning Section developed a master meeting calendar to ensure all meetings were covered. 
+
+Recommendations:  None Activity 1.3:
+
+Prepare for potential ESF8 support to neighboring states through the Emergency Management Assistance Compact (EMAC). 
+
+Observation 1.3.1:  Strength Œ ESF8 was prepared to support other states through EMAC if requested. 
+
+References:  1. Emergency Management Assistance Compact (EMAC) 2. FEMA Region IV Unified Planning Coalition Bylaws   Section 3: Analysis of Capabilities Florida Department of Health 12 Analysis:  After it was determined Florida would not take a direct hit from Isaac, ESF8 checked the status of the FEMA Region IV ESF8 partners and identified the resources that would be available to support other states through EMAC if requested. 
+
+Recommendations:  None  Capability 2: Operational Communications Capability Summary: The Operational Communications capability is defined as ensuring the capacity for timely communications.  This includes communicating with both the emergency response community and affected populations. 
+
+Activity 2.1:
+
+Ensure the capacity to communicate with local, state and federal response partners.  Observation 2.1.1:  Area of Improvement Œ Personnel assigned to Logistics Staffing did not have the capability to perform assignments remotely. 
+
+References:  1. ESF8 Standard Operating Procedure (SOP)
+
+Analysis:
+
+The personnel assigned to Logistics Staffing were asked to recruit and activate staff after hours and were expected to perform these tasks remotely.  The laptops these personnel had been assigned did not have the configurations/capabilities to remotely access and utilize SERVFL, Florida™s responder management system. 
+
+Recommendation:  Provide Logistics Staffing personnel with the equipment and necessary software permissions they need to complete their assigned duties. 
+
+Observation 2.1.2:  Area of Improvement Œ Personnel relied too heavily on email for communication.
+
+References:
+
+None  Analysis:
+
+ESF8 staff relied too heavily on email (passive requests) for soliciting staff status/information. 
+
+Recommendation:  If information is needed quickly, emails should be followed-up with a phone call. 
+
+Observation 2.1.3:  Strength Œ Overall communication was improved. 
+
+References:
+
+None   Section 3: Analysis of Capabilities Florida Department of Health 13 Analysis:
+
+Improved communication was noted throughout various areas which included: with non-government partners, among ESF8 units, and between responders during shifts changes.
+
+Recommendations:  None  Observation 2.1.4:  Area of Improvement Œ The ESF8 Technical Specialist Listing was out-of-date.
+
+References:
+
+ESF8 Standard Operating Procedure (SOP), Attachment H Œ Public Health and Medical Technical Specialist Listing  Analysis:
+
+The technical specialist listing was last updated in May, 2011. 
+
+Recommendations:  Conduct a semi-annual review and update the Public Health and Medical Technical Specialist Listing. 
+
+Capability 3: Public Health and Medical Services Capability Summary: The Public Health and Medical Services capability is defined as providing lifesaving medical treatment and avoiding additional disease and injury by providing targeted public health and medical support.  This includes epidemiological surveillance and investigation, laboratory testing, mass prophylaxis, medical supplies management and distribution, and medical surge.
+
+Activity 3.1: Verify pre-incident facility status, support post-impact assessment and verification of facility status in impacted counties. 
+
+Observation 3.1.1:  Area of Improvement Œ At the time of the response, all facility information listed in the Emergency Status System (ESS) was not updated and the system was therefore not an effective or accurate means for determining facility status. 
+
+References: None  Analysis:
+
+The Agency for Healthcare Administration (AHCA) requires the facilities under its regulation to use ESS, a web-based system for reporting and tracking health care facility status before, during and after an emergency.
+
+In response to Tropical Storm Debby earlier this year, it was determined the facility status data in ESS was incomplete and outdated.  To verify facility status, telephone calls were made to 3,169 facilities within 14 counties.
+
+The facility status verification process worked much better during this response than it did during Debby.  The following recommendations were made during the Tropical Storm Debby After-Action Review.  The same recommendations apply for response to Tropical Storm Isaac.  Section 3: Analysis of Capabilities Florida Department of Health 14
+
+It was determined during the telephone outreach process and verified during after-action reviews that facilities received multiple telephone calls from Local and State ESF 8, as well as from the private corporate office, healthcare associations, and others. The number of calls received often totaled 5-7 per facility, per day. 
+
+Recommendations:   1. Support the efforts of AHCA to increase facility compliancy for entering facility status data into the ESS. 2. Improve the process for conducting outreach to facilities to determine or verify facility status information.  Include the following:
+
+Ensure facility status verification through electronic reporting and standard local ESF 8 and local Emergency Management pre-storm preparedness and post-storm assessment procedures. 
+
+Initiate State ESF 8 calls, by exception, to facilities that do not provide electronic data, as requested. 
+
+Utilize our local and state ESF 8 partners, i.e. CHDs, AHCA, Florida Hospital Association (FHA), Florida Healthcare Association (FHCA), and the Agency for Persons with Disabilities (APD) to conduct coordinated outreach to healthcare facilities. 
+
+Ensure corrected and emergency phone numbers reported during outreach get input into ESS. 
+
+Provide scripts in Spanish if no translator is available. 
+
+Provide information to facilities about how the questions being asked relate to ESS requirements and purpose. 
+
+Determine incident triggers and timeframes for facility status verification procedures. 3. Determine the role of the Attorney General's office in conducting outreach to healthcare facilities and ensure outreach is coordinated, so as to reduce the burden of inquiry on the facilities. 4. Assess operational readiness of State ESF8 to meet core missions prior to hurricane season. 
+
+Annually, during the month of March, work with AHCA to ensure all facility data listed in ESS is current and accurate. 
+
+Activity 3.2: Assess the needs of and provide support to the county health departments (CHDs) and Local ESF8 within the impacted counties.
+
+Observation 3.2.1:  Area of Improvement Œ The process for reporting County Health Department facility closures was not consistent or efficient. 
+
+References: None   Section 3: Analysis of Capabilities Florida Department of Health 15 Analysis:
+
+There was no consistent process for collecting information regarding CHD open/closed status.  This caused confusion and prohibited ESF8 from having an accurate picture of the status of county health departments statewide. 
+
+Recommendation:  Establish a coordinated process for collecting information regarding the status of county health departments during an incident.  Work with the Statewide Services Director and Executive Staff to determine how notifications of CHD facility closures should be made.
+
+Capability 4: Public Information and Warning Capability Summary: The Public Information and Warning capability is defined as delivering coordinated, prompt, reliable and actionable information to the community.  This includes sharing messages with the public and other stakeholders. 
+
+Activity 4.1: Disseminate public health and medical information.
+
+Observation 4.1.1:  Area of improvement Œ Information was not disseminated in a timely manner. 
+
+Reference:
+
+Florida™s Comprehensive Emergency Management Plan (CEMP)
+
+Analysis:
+
+When the SERT goes to a Level 1, ESF14 takes lead on dissemination of all information to the public.  The ESF8 Information Management Unit (IMU) then provides support to ESF14.  Although the IMU provided public health messaging to ESF14 within appropriate lead time for dissemination, delays occurred once the messaging was received in ESF14 for final approval and dissemination. This delayed release of the information to the public. 
+
+Recommendations:  Continue to actively coordinate with ESF14 staff for more timely dissemination of public health messaging and information via various platforms (TV, Radio, Print, Web, Social Media). The DOH Office of Communications will be utilized as a redundancy for information dissemination if/when ESF14 causes delays in current
+
+SERT information dissemination process. 
+
+Observation 4.1.2:  Area of Improvement Œ Some of the pre-scripted public health messages were out-of-date or contained incorrect information. 
+
+References:
+
+Crisis and Emergency Risk Communications (CERC) Portal Œ Pre-scripted messaging templates
+
+Analysis:
+
+The Information Management Unit was asked to prepare public information messaging ﬁSafety Tips after a Stormﬂ (carbon monoxide poisoning, wound care, etc.) for dissemination by ESF14.  The following messages were drafted: Displaced Animals after Flooding, Medication Re-supply, Flood Waters Pose Health Risks, Water Well  Section 3: Analysis of Capabilities Florida Department of Health 16 Safety, Health Risks After a Storm, and Behavioral Health Tips.  When these messages were reviewed by subject matter experts, it was determined that some of the information was out-of-date or incorrect. 
+
+Recommendations:   1. Public health message templates must be kept up-to-date with current letterhead and have 'editable' versions ready for last minute updates and changes. a. Office of Communications should have documents reviewed by subject matter experts annually, by April 1, to ensure they are ready for hurricane season.  The BPR Medical Director should be included in these reviews and in the pre-release review. b. Templates should be provided in a Word document format rather than Portable Document Format (PDF). 
+
+Capability 5: Mass Care Services Capability Summary: The Mass Care Services capability is defined as providing life-sustaining services to the affected population primarily through hydration, feeding and sheltering.  ESF8 is responsible for managing special needs shelters and assisting ESF6 with special needs patients that report to general shelters. 
+
+Activity 5.1:
+
+Coordinate with ESF6 (Mass Care) regarding the sheltering of vulnerable populations and special needs shelters (SpNS).
+
+Observation 5.1.1:  Area of Improvement Œ The process for reporting census information for special needs shelters was inconsistent. 
+
+Reference:   1. Florida™s Comprehensive Emergency Management Plan (CEMP), Appendix 8, Public Health and Medical (ESF8) 2. ESF8 Standard Operating Procedure (SOP) 3. Technical Assistance Guideline, Special Needs Shelters Planning 4. Guidelines for completion of Shelter Data Forms: 5. SpNS Daily Census Report Analysis:
+
+Regional Special Needs Consultants (RSpNC) are responsible for collecting shelter census data from the local ESF8 upon the opening of the SpNS and twice daily until the shelter is closed.
+
+The RSpNC are required to submit twice daily reports to the designated State ESF8 SpNS Technical Specialist.  The designated report times are 10:00 AM and 10:00 PM.
+
+Both ESF8 and ESF6 were reporting shelter census at the SEOC evening briefings.  At times, the census numbers provided were in conflict.  The schedule set for reporting census data did not mirror the SERT reporting times, therefore the information provided at the SERT briefings was not always current.   Section 3: Analysis of Capabilities Florida Department of Health 17 The Florida Red Cross uses the National Red Cross National Shelter System (NSS) to report general population shelter census.  ESF6 has access to this system and uses it to determine overall general population census data.  Not all shelters and Red Cross units report electronically.  Direct phone verification remains the only way to verify actual shelter counts. 
+
+Recommendation:  Develop an online reporting and verification process.  Observation 5.1.2:  Area of Improvement Œ ﬁDual populationsﬂ of Functional Needs Support Services (FNSS)/SpNS designations continues to cause confusion. 
+
+References:   1. FEMA Guidance on Planning for Integration of Functional Needs Support Services in General Population Shelters Analysis:
+
+Co-locating general, functional and special needs clients with different equipment creates dissent among shelter clients.  Staff members servicing Functional Needs Shelters versus Special Needs Shelters have different skill sets and designations to handle populations with different needs.  Local jurisdictions have struggled to implement FEMA FNSS "guidance" and the actual operations have been well documented along the entire Eastern Seaboard from the Hurricane Irene response to the present.  The guidance appears problematic in that it does not account for local citizen choices regarding sheltering decisions, how shelter residents perceive "medical" personnel, and obtaining nurses to perform the tasks associated with the new designation.
+
+Ultimately, the sheltering configuration is a local decision. 
+
+Recommendations:   1. Continue to work with the Division of Emergency Management (DEM) to provide guidance to local emergency management agencies and CHDs regarding the requirement for all shelters to be Americans with Disabilities (ADA) compliant. a. Evaluate the dynamics of ﬁdual populationsﬂ FNSS/SpNS. b. Consider keeping SpNSs that are separate from the general and functional needs clients in order to better address their special equipment and supplies needs. 
+
+Capability 6: Threats and Hazard Identification Capability Summary: The Threats and Hazard Identification capability is defined as identifying threats and hazards and incorporating the information into analysis and planning processes. 
+
+Activity 6.1:
+
+Identify potential threats and hazards and conduct advanced planning to address the potential consequences.   Section 3: Analysis of Capabilities Florida Department of Health 18 Observation 6.1.1:  Strength Œ Advanced planning was conducted to develop plans addressing post-impact public health issues related to private well sampling and mosquito control. 
+
+References: None  Analysis:
+
+Advanced planning for consistent bacterial water testing on private wells was conducted to include developing a policy for waiving private well water sampling fees.  Guidance was drafted for the county health departments on how to request mosquito spraying services and a decision brief was prepared for Executive Leadership recommending methods for mosquito control. 
+
+Recommendations:  None Capability 7: Situational Assessment Capability Summary: The Situational Assessment Capability is defined as providing all decision makers with decision-relevant information regarding the nature and extent of hazards, any cascading effects, and the status of planning and response efforts. 
+
+Activity 7.1: Gather/analyze incident information and disseminate to key stakeholder to create a common operating picture. 
+
+Observation 7.1.1:  Strength Œ Situation reports were developed and disseminated as scheduled. 
+
+References:  1. Tropical Storm Isaac Daily Situation Reports 2. National Incident Management System Analysis:
+
+Daily reports were consistent and helpful.  Some staff noted difficulty in understanding clinical terms used in the situation reports. 
+
+Recommendations:  When writing situation reports, use common terminology and plain language to ensure information is clear and understood by all recipients.
+
+Observation 7.1.2:  Area of Improvement Œ Non-activated Bureau of Preparedness and Response (BPR) staff were not aware of what was going on with the response. 
+
+Reference: Tropical Storm Isaac Daily Situation Reports Analysis:
+
+Although daily situation reports were disseminated to all employees within the bureau, BPR staff reported feeling ﬁout of the loopﬂ regarding what was going on in the incident response.    Section 3: Analysis of Capabilities Florida Department of Health 19 Recommendations:   1. Create a webpage/portal for internal DOH staff to view incident information. 2. Coordinate with the Director of Internal Marketing to determine the most appropriate means of disseminating event / incident information department wide.   Section 4: Conclusion Florida Department of Health 20 SECTION 4: CONCLUSION The response to Tropical Storm Isaac presented many areas in which staff could benefit from additional training. 
+
+In November 2012, the Bureau of Preparedness and Response instituted mandatory ﬁFirst Friday Trainingﬂ to be held the first Friday of every month.  The training has been designed to meet the following ICS Core Competencies which have been adopted by State ESF8 as the standard for response roles.    1. Assume position responsibilities 2. Lead assigned personnel 3. Communicate effectively 4. Ensure completion of assigned actions to meet incident objectives
+
+These sessions include both awareness and technical level training and include ESF8 Section and Unit level breakout sessions to address position specific training.
+
+First Friday Training™s have proved to be an effective forum for addressing necessary training and conducting workshops to improve ESF8 processes.  Many of the corrective actions listed in the following Improvement Plan will be integrated into First Friday Training Sessions, as this has proved to be a very effective means to communicate information to ESF8 staff.  Corrective actions shaded in blue will be addressed in the awareness level training and those shaded in green will be addressed in the technical level training/workshops.
+
+Many of the recommendations contained in this Improvement Plan are linked back to recommendations made during the after action review for Tropical Storm Debby.  ESF8 will continue to use lessons learned in exercises and real world responses to improve processes and practices.     Appendix A: Improvement Plan Florida Department of Health   21 APPENDIX A: IMPROVEMENT PLAN This Improvement Plan has been developed specifically for the Florida Department of Health as a result of the response to Tropical Storm Debby.  These recommendations draw on the recommendations made in the After Action Report.
+
+Corrective Actions shaded will be addressed during the Bureau of Preparedness and Response First Friday Training Sessions. 
+
+Actions shaded in blue will be addressed in the Awareness Level Training and actions shaded in green will be addressed in the
+
+Technical Level Training/Workshops. Capability Observation Recommendation Corrective Action Description Capability Element Primary Resp Agency Agency POC Due Date Operational Coordination Observation 1.1.1:
+
+Strength Œ The IMT was established efficiently, staffed appropriately, and was able to produce the initial IAP within 24 hours.  Link to Tropical Storm Debby Corrective Action 1.1.1 and RNC AAR Corrective Action 2.1.2. Recommendation 1.1.1a: Update the Emergency Duty Guidelines to establish policy regarding response expectations for identified FDOH staff.  This policy should include consequences for refusing to report for duty. 
+
+Once approved, ensure all staff are aware of general staffing and activation expectations and all Divisions understand the expectations for approving staff to participate in emergency duty. 
+
+Corrective Action 1.1.1.a.a: Finalize and obtain approval for the updated Emergency Duty Policy. 
+
+Process / Planning BPR ESF8 Unit Samantha Cooksey-Strickland March 31, 2013 Corrective Action 1.1.1.a.b: Present the updated policy at a mandatory BPR First Friday Training. Training BPR Training and Exercise Unit David Harding May 3, 2013 Corrective Action 1.1.1.a.c: Work with the Division Director to ensure the policy is reviewed at a Senior Management Team Meeting. Process / Training BPR ESF8 Unit Mike McHargue May 3, 2013 Recommendation 1.1.1b: All ESF8 activations should be used as training opportunities, placing new personnel under the instruction of a person who is experienced in their role rather than relying on a Corrective Action 1.1.1b: When feasible during activations, assign staff members in need of training to shadow experienced staff in their assigned roles. 
+
+Training ESF8 ECO Mike McHargue May 31 2013   Appendix A: Improvement Plan Florida Department of Health   22 core group of experienced staff. 
+
+Operational Coordination Observation 1.1.2:
+
+Area of Improvement Œ Some ESF8 personnel did not understand the role of federal responders. Recommendation 1.1.2a: Provide ESF8 staff with training regarding the role of federal responders and how they integrate into response. 
+
+Corrective Action 1.1.2a: Provide an awareness level training regarding Federal Integration Œ how federal partners are integrated into ESF8 response efforts Training BPR ESF8 Unit Samantha Cooksey-Strickland Feb 1, 2013 Recommendation 1.1.2b: Include federal personnel on the ICS 203 Form Corrective Action 1.1.2b: Update the ICS 203 template to include a section for federal responders Planning BPR ESF8 Unit Samantha Cooksey-Strickland May 31, 2013 Operational Coordination Observation 1.1.3:
+
+Area of Improvement Œ Staffing rosters from SERVFL and the ICS 203 Form didn™t match up.  Recommendation 1.1.3:
+
+If SERVFL is the designated system for recruiting and activating staff, all staff should be required to register and maintain current information in the system. 
+
+Corrective Action 1.1.3: During a BPR First Friday Training Workshop, develop a policy outlining the requirements of staff to register and keep their information current in the designated responder management system.  Link this policy to the Emergency Duty Policy. Process BPR Responder Management  and Training and Exercise Units John DeIorio and David Harding May 31, 2013 Observation 1.1.4:
+
+Area of Improvement Œ Staff hours dedicated to responding Tropical Storm Isaac were not recorded as directed. Recommendation 1.1.4: Develop a timekeeping compliance system and implement it for the 2013 Hurricane Season.  The system should include employee accountability for not complying with the directive, as non-compliance could result in the loss of cost reimbursement for funded incidents/events.
+
+Corrective Action 1.1.4.a:  Develop a compliance system for tracking hours as directed when part of a response or activation. 
+
+This process should include a means to validate the People™s
+
+First Report against the ICS 203™s and CHD rosters. 
+
+Process BPR Admin Unit Kelley Waters April 30 2012   Appendix A: Improvement Plan Florida Department of Health   23 Link to RNC Corrective Action 1.2.2 Corrective Action 1.1.4.b: Incorporate this process as an attachment to the ESF8 SOP. Process BPR ESF8 Unit Samantha Cooksey Strickland May 31 2012 Operational Coordination Observation 1.2.1: Strength Œ Advanced planning led to a successful implementation of an ICS complex structure to manage both the response to Tropical Storm Isaac and the Republican National Convention. Recommendation 1.2.1 Conduct an incident hazard vulnerability analysis for all special events.  Contingencies should be developed for high probability high impact threats. 
+
+Corrective Action 1.2.1: Incorporate this recommendation into the Special Events Planning Guide.
+
+Link to RNC Corrective Action 1.3.2 Planning BPR ESF8 Unit Sara Bourdeau Dec 19 2012 Operational Communications Observation 2.1.1:
+
+Area of Improvement Œ Personnel assigned to Logistics Staffing did not have the capability to perform assignments remotely. Recommendation 2.1.1: Provide Logistics Staffing personnel with the equipment and necessary software permissions they need to complete their assigned duties. 
+
+Corrective Action 2.1.1:  Provide Logistics Staffing personnel with the equipment and necessary software permissions they need to complete their assigned duties. Equipment BPR Logistics Unit Bobby Bailey May 31, 2013 Operational Communications Observation 2.1.2:
+
+Area of Improvement - Personnel relied too heavily on email for communication. 
+
+Link to Tropical Storm Debby Corrective Action 2.1.1. Recommendation 2.1.2: If information is needed quickly, emails should be followed-up with a phone call. 
+
+Corrective Action 2.1.2: Incorporate this information into a mandatory First Friday Training. 
+
+Training BPR Training and Exercise Unit David Harding May 3, 2013 Operational Communications Observation 2.1.4:
+
+Area of Improvement Œ The Technical Specialist Listing was out-of-date. 
+
+Recommendation 2.1.4: Conduct a semi-annual review and update the Public Health and Medical Technical Specialist Listing. 
+
+Corrective Action 2.1.4: Complete review and update of the Public Health and
+
+Medical Technical Specialist Listing. 
+
+Planning BPR ESF8 Unit Samantha Cooksey-Strickland May 3, 2013   Appendix A: Improvement Plan Florida Department of Health   24 Public Health and Medical Services Observation 3.1.1:
+
+Area of Improvement Œ At the time of the response, all facility information listed in the Emergency Status System (ESS) was not updated and the system was therefore not an effective or accurate means for determining facility status. 
+
+Link to RNC Corrective Action 4.3.2.c and Tropical Storm Debby Corrective Action 4.2.1 Recommendation 3.1.1.a: Support the efforts of the Agency for Healthcare Administration (AHCA) to increase facility compliancy for entering facility status data into the ESS. 
+
+Corrective Action 3.1.1.a: Support the efforts of the Agency for Healthcare Administration (AHCA) to increase facility compliancy for entering facility status data into the ESS. 
+
+Link to RNC Corrective Action 4.3.2.c Process BPR Med Surge Unit Kay Croy June 30, 2013 Recommendation 3.1.1.b: Improve the process for conducting outreach to facilities to determine or verify facility status information.
+
+Corrective Action 3.1.1.b: Revise the process for conducting outreach to healthcare facilities during response to include:
+
+Ensure facility status verification through electronic reporting and standard local ESF 8 and local Emergency Management pre-storm preparedness and post-storm assessment procedures. 
+
+Initiate State ESF 8 calls, by exception, to facilities that do not provide electronic data, as requested. 
+
+Utilizing our local and state ESF 8 partners, i.e. CHDs,
+
+Agency for Process / Planning BPR Med Surge Unit Kay Croy June 30, 2013   Appendix A: Improvement Plan Florida Department of Health   25 Healthcare Administration (AHCA), Florida Hospital Association (FHA), Florida Healthcare Association (FHCA), and the Agency for
+
+Persons with Disabilities (APD) to conduct coordinated outreach to healthcare facilities. 
+
+Ensuring corrected and emergency phone numbers reported during outreach get input into ESS. 
+
+Providing scripts in Spanish if no translator is available. 
+
+Providing information to facilities about how the questions being asked relate to ESS requirements and purpose. 
+
+Determine incident triggers and timeframes for facility status verification procedures Recommendation 3.1.1.c: Assess operational readiness of State ESF8 to meet core missions prior to Corrective Action 3.1.1.c: Annually, during the month of March, work with AHCA to ensure all facility data Planning / Systems BPR Med Surge Unit Kay Croy March 29, 2013   Appendix A: Improvement Plan Florida Department of Health   26 hurricane season.   listed in ESS is current and accurate. 
+
+Public Health and Medical Services Observation 3.2.1:
+
+Area of Improvement Œ The process for reporting County Health Department facility closures was not clear. 
+
+Link to Tropical Storm Debby Corrective Action 4.1.1 Recommendation 3.2.1: Establish a coordinated process for collecting information regarding the status of county health departments during an incident. 
+
+Corrective Action 3.2.1.a: Work with the Statewide Services Director and Executive Staff to determine how notifications of CHD facility closures should be made. 
+
+Process / Planning BPR ESF8 Unit Mike McHargue March 29, 2013 Corrective Action 3.2.1.b: Provide an update to staff at the BPR First Friday Training. Training BPR ESF8 Unit Mike McHargue April 5, 2013 Public Information and Warning Observation 4.1.1:
+
+Information was not disseminated in a timely manner Recommendation 4.1.1:
+
+Continue to actively coordinate with ESF14 staff for more timely dissemination of public health messaging and information via various platforms (TV, Radio, Print, Web, Social Media). 
+
+Corrective Action 4.1.1:  The DOH Office of Communications will be utilized as a redundancy for information dissemination if/when
+
+ESF14 causes delays in current SERT information dissemination process. Process Office of Communications Ann Rowe-McMullen April 30, 2013 and ongoing Public Information and Warning Observation 4.1.2:
+
+Area of Improvement Œ Some of the pre-scripted public health messages were out of date or contained incorrect information.  Link to Tropical Storm Debby Corrective Action 5.1.4 Recommendation 4.1.2: Public health message templates must be kept up-to-date with current letterhead and have 'editable' versions ready for CHDs to fill in their contact info. Corrective Action 4.1.2.a:  Office of Communications should have documents reviewed by subject matter experts annually, by April 1, to ensure they are ready for hurricane season.  The BPR Medical Director should be included in these reviews and in the pre-release review. 
+
+Planning DOH Office of Communication Ann Rowe-McMullen March 29, 2013 Corrective Action Planning DOH Ann Rowe-March   Appendix A: Improvement Plan Florida Department of Health   27 4.1.2.b:  Templates should be provided in a
+
+Word document format rather than PDF. 
+
+Office of Communication McMullen 29, 2013 Mass Care Services Observation 5.1.1:
+
+The process for reporting census information for special needs shelters was inconsistent. 
+
+Recommendation 5.1.1: Develop an on-line reporting and verification process. 
+
+Corrective Action 5.1.1: Draft a proposal for an online SpNS census reporting and verification process and present to the ECO for review. 
+
+Planning BPR Community Resilience Unit Bonnie Gaughn-Bailey and Michelle Sheffield May 31, 2013 Mass Care Services Observation 5.1.2:
+
+Area of Improvement Œ ﬁDual populationsﬂ of Functional Needs Support Services (FNSS)/SpNS designations caused confusion among DOH shelter staff.
+
+Link to Tropical Storm Debby Corrective Action 7.1.2 Recommendation 5.1.2:
+
+Continue to work with the
+
+Division of Emergency Management (DEM) to provide guidance to local emergency management agencies and CHDs regarding the requirement for all shelters to be Americans with Disabilities (ADA) compliant. 
+
+Corrective Action 5.1.2:
+
+Develop and guidance which:
+
+Evaluates the dynamics of ﬁdual populationsﬂ FNSS/SpNS. 
+
+Considers keeping SpNSs that are separate from the general and functional needs clients in order to better address their special equip needs/supplies. 
+
+Planning BPR Community Resilience Unit Bonnie Gaughn-Bailey and Michelle Sheffield May 31, 2013 Situational Assessment Observation 7.1.1 Œ Strength Œ Situation Reports were developed and disseminated as scheduled. Recommendation 7.1.1: When writing situation reports, use common terminology and plain language to ensure information is clear and understood by all recipients. 
+
+Corrective Action 7.1.1 Œ Review this information at a BPR First Friday Training Session. 
+
+Training BPR Training and Exercise Unit David Harding April 5, 2013 Situational Assessment Observation 7.1.2:
+
+Area of Improvement Œ Non-activated BPR staff were not aware of what was going on with the response. 
+
+Recommendation 7.1.1: Improve internal communications by providing appropriate incident/event information Corrective Action 7.1.1.a: Develop and test the implementation of an Electronic Incident Display Board to serve as a real-time display of Process / System BPR ESF8 Unit Samantha Cooksey-Strickland March 29, 2013   Appendix A: Improvement Plan Florida Department of Health   28  Link to Tropical Storm Debby Corrective Action 9.1.1. to non-activated staff within BPR and throughout the department.  incident information for the State ESF8 IMT. 
+
+Corrective Action 7.1.1.b:  Coordinate with the Director of Internal Marketing to determine the most appropriate means of disseminating event / incident information department wide. Process / System Office of Communications Ann Rowe-McMullen May 3, 2013  Appendix B: Acronyms Florida Department of Health  29 APPENDIX B: ACRONYMS  Acronym Meaning ADA Americans with Disabilities AHCA Agency for Healthcare Administration APD Agency for Persons with Disabilities ARC American Red Cross ASPR Assistant Secretary for Preparedness and Response BPR Bureau of Preparedness and Response CEMP Comprehensive Emergency Management Plan CERC Crisis and Emergency Risk Communications CHD County Health Department DEM Division of Emergency Management DHHS U.S. Department of Health and Human Services ECO Emergency Coordinating Officer EOC Emergency Operations Center EOP Emergency Operations Plan ESF Emergency Support Function ESF8 Public Health and Medical ESF10 Environmental Protection ESF14 Public Information ESF16 Law Enforcement ESS Emergency Status System FDOH Florida Department of Health FEMA Federal Emergency Management Agency FHA Florida Hospital Association FNSS Functional Needs Support Services IAP Incident Action Plan ICS Incident Command System IT Information Technology IMT Incident Management Team IMU Information Management Unit NSS National Shelter System NIMS National Incident Management System PDF Portable Document Format RSpNC Regional Special Needs Shelter Consultant SEOC State Emergency Operations Center SERT State Emergency Response Team SERVFL State Emergency Responders and Volunteers of Florida SOG Standard Operating Guideline SOP Standard Operating Procedure SpNS Special Needs Shelters  

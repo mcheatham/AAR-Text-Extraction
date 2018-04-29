@@ -1,0 +1,141 @@
+   2008 Mid-Year California Fires  After Action/Corrective Action Report October 2009  Arnold Schwarzenegger Governor  Matthew R. Bettenhausen Acting Secretary California Emergency Management Agency      i   CALIFORNIA EMERGENCY MANAGEMENT AGENCY  2008 MID-YEAR CALIFORNIA FIRES (FEMA-3287-EM) AFTER ACTION / CORRECTIVE ACTION REPORT EXECUTIVE SUMMARY In California, as part of the Standardized Emergency Management System (SEMS), statute requires the California Emergency Management Agency (Cal EMA) to produce an After Action Report (AAR) within 120 days after each declared disaster indicating that, ﬁThis report shall review public safety response and disaster recovery activities.ﬂ  The supporting SEMS regulations require jurisdictions ﬁdeclaring a local emergency for which the governor proclaims a state of emergency, and any state agency responding to that emergency, shall complete and transmit an after action report to Cal EMA within ninety (90) days of the close of the incident period.ﬂ  The close of the incident period for the 2008 Mid-Year California Fires was August 20, 2008.  The purpose of this reporting requirement is to capture response and recovery efforts, lessons learned, and corrective action recommendations before critical data is lost due to the passage of time. 
+
+The 2008 Mid-Year California Fires event tested Northern California™s emergency management capabilities, systems, and resources, specifically in the areas of interagency coordination, wildfire suppression, mass evacuation, and mass care and sheltering in rural environments.  The overall evaluation of the state™s response to the event was very positive, from both the public™s point of view and the responding governmental, private, and federal entities.  California™s strong and established SEMS that includes the Fire Mutual Aid System, coupled with robust and well-organized local government operations, proved vital to the success in responding to this event. 
+
+Note:  Effective January 1, 2009, the Governor™s Office of Emergency Services (OES) and the
+
+Office of Homeland Security (OHS) were merged into a single agency called the California Emergency Management Agency.  However, since this incident occurred prior to the merger, this document will continue to reference OES. 
+
+Description of Event On Friday, June 20, 2008, the first of many lightning-caused fires began in drought-stricken northern and central California.  Driven by summer storms in the mountainous area of northern and central California, the prolonged drought conditions along with a severe thunderstorm system helped fan over 2000 lightning-caused fires in 26 counties within a few days.  By  June 21, 2008, OES fully activated the Inland Regional Emergency Operation Center (REOC) and the State Operation Center (SOC) to assist with the coordination of firefighting efforts.  Prior to these fires, the Summit Fire in Santa Clara County on May 22, 2008 signaled the beginning of an unusually early 2008 fire season.  The large number of fires resulting from this lightning storm was unprecedented especially for such an early fire siege.   1 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES The 2008 Mid-Year California Fires, which was originally known as the June Lightning Fires, involved over 6,000 lightning strikes over a wide area of Northern California and the Central Valley.  The adverse conditions caused by the prolonged drought resulted in more than 2,000 fires over a short period of time beginning June 20, 2008.  Due to the extremely dry terrain and the vast number of lightning strikes, a multitude of fires raged out of control almost simultaneously.  These fires occurred in multiple jurisdictions, including areas of private and public land protected by the California Department of Forestry and Fire Protections (CAL FIRE), National Forests and Parks throughout California, federal land managed by the Bureau of Land Management and Fish and Wildlife Services, and lands occupied by Tribal Nations. 
+
+Because of extreme fire conditions in thirteen of the affected counties, the Governor issued a declaration of emergency for these mostly rural counties as they were facing raging firestorms caused by the multitude of lightning strikes.  These fires were not brought under full containment until July 29, 2008.  California requested and was granted a federal Emergency Declaration (FEMA-3287-EM) for eleven of the most severely impacted counties.  According to the federal declaration, any wildland fire that occurred between June 20, 2008 and August 20, 2008 in one of the eleven declared counties was considered part of the original emergency conditions and thus eligible for federal funding according to the Federal Emergency Management Agency (FEMA).  NOTE:  This event did not meet the federal damage-related requirements under Title V of the Stafford Act for the declaration of a major disaster because of the limited nature of damage sustained as a result of the fires.  These fires only qualified for Category B, emergency protective measures funding, due to the small number of homes that were destroyed on a county by county basis.
+
+On August 13, 2008, Governor Schwarzenegger sent a letter requesting the President amend the original emergency declaration and declare a major disaster in the State of California for eleven impacted counties effective May 22, 2008, the date the siege of wildfires actually began.  This request was aimed at including four additional devastating fires, the Summit Fire in Santa Clara County (May 22, 2008), the Ophir (June 10, 2008) and Humboldt (June 11, 2008) fires in Butte County, and the Martin Fire in Santa Cruz County (June 11, 2008).  These four fires burned an additional 29,734 acres, destroyed 446 structures and damaged another 16 structures.  The President did not agree to the request for an amendment of the existing federal emergency declaration.
+
+Due to the unprecedented number of fires that occurred over a short period of time and covering a large area of the state, there were not enough firefighting resources available to control the fires.  Many of the fires, especially in remote areas away from communities, grew rapidly into extremely large fires.  Orders for resources to manage these fires exceeded what was available in
+
+California and nationally.  As a result, CAL FIRE convened the California Multi-Agency Coordination Group (CALMAC) on June 25, 2008 when competition for scarce resources emerged in all jurisdictions. 
+
+CALMAC assisted with the coordination and deployment of resources in an organized manner to effectively manage the vast number of fires as expeditiously as possible utilizing lessons learned from prior events.     2 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES Just as the number of lightning caused fires was unprecedented for such an early fire siege, so was the response.  CAL FIRE joined local and federal firefighting agencies to send over 21,000 firefighters to battle the blazes across the state.  Firefighting personnel were brought in from around the nation and even the world.  Forty-one (41) of the 50 states responded to California™s fire siege as resources from areas such as New York, Florida and Alaska were utilized. 
+
+Countries like Australia, New Zealand and Greece even offered assistance and provided fire managers.
+
+The large number of fires throughout northern and central California caused serious smoke-related problems for communities located near the fires.  To meet the needs of the impacted communities, the California Environmental Protection Agency (Cal/EPA) deployed staff from its Air Resources Board (ARB), the Department of Toxic Substances Control (DTSC), and the California Integrated Waste Management Board (CIWMB) into the field to assess the situation regarding the smoke™s effect on air quality throughout the Central Valley.  In addition, the effect of the fire relative to hazardous waste management and debris removal was also reviewed.  ARB subsequently established monitoring sites in five severely impacted areas during the fires, including Butte, Trinity, Humboldt, Mendocino, Santa Barbara and Monterey Counties.  ARB managed and analyzed the data and advised local health officials and air quality control districts of these results to ensure the necessary level of protection for public health and the environment was readily available.
+
+OES, in conjunction with CAL FIRE, established Multi-Agency Support Teams to assist with the following issues:  providing housing to displaced residents, expediting the safe removal of disaster-related debris, and assisting impacted tribal governments with locating supplemental resources, including Public and Individual Assistance.  In addition, OES, the California Resources Agency and the Cal/EPA collaborated to establish a multi-state agency State Emergency Assessment Team (SEAT) Operational Support Group.  This group convened at OES Headquarters on July 23, 2008 and maintained responsibility for coordinating and deploying SEAT teams to assess burn areas and assist with recovery efforts by addressing, in an environmentally sensitive manner, flooding, erosion, and debris flow concerns that were a direct result of the declared fires.
+
+Dates of Operations:
+
+Response:  June 20 through August 20, 2008  Recovery:
+
+Concluded January 31, 2009  Total Fire Incidents:  2,096 fires in 26 counties; 13 counties received a Gubernatorial proclamation, while eleven counties received a Federal declaration of emergency
+
+Counties Involved:  Butte, Humboldt, Inyo, Kern, Mariposa, Mendocino,  Monterey, Plumas, Santa Barbara, Santa Clara, Santa Cruz,
+
+Shasta, and Trinity Counties  Total Acres Burned:  1.2 million acres     3 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES Total Number Firefighters:     21,244 at height of the event (July 13, 2008)
+
+Over 25,000 firefighters, from across the state, nation, and world
+
+Human Fatalities:  15, including 9 firefighters
+
+Structures Destroyed: 511 structures, including residences, businesses, and outbuildings
+
+Residences Destroyed:
+
+June 20 Œ August 20, 2008   306
+
+Proclamations and Declarations Local Proclamation: Butte, Humboldt, Inyo, Kern, Mariposa, Mendocino, Monterey, Plumas, Santa Barbara, Santa Clara, Santa Cruz, Shasta, and Trinity counties.
+
+Governor™s Proclamation:  Issued a declaration of emergency for Santa Cruz County on May 22, 2008.  On June 21, 2008, the Governor declared a state of emergency for Butte, Humboldt, Kern, Mariposa, Mendocino, Monterey, Plumas, Santa Barbara, Santa Clara, Shasta, and Trinity counties.  In addition, on July 11, 2008, the Governor declared a state of emergency for Inyo County.
+
+Presidential Declaration:  On June 28, 2008, the President issued a proclamation of emergency, FEMA-EM-3287, for Butte, Kern, Mariposa, Mendocino, Monterey, Plumas, Santa Barbara, Santa Clara, Santa Cruz, Shasta, and Trinity counties
+
+Summary of Successes Successful operations were highlighted in the following areas:  efficient resource deployment, effective fire suppression and control, very effective notification and alert, and well organized and easily accessed sheltering operations; and very effective and rapid communications with smooth coordination between state agencies and local governments, public/private partners, and the state/federal partnership.
+
+State and local agencies throughout California responded in a very timely and efficient manner.  Operations were consistently described as being well-managed, supervised and organized throughout the affected regions.
+
+The ﬁWildfire Smoke: A Guide to Public Health Officialsﬂ has become a national model for public health emergency response to wildfires. 
+
+Emergency Management Mutual Aid (EMMA) was requested as designed and effectively used to assist rural counties with staffing of their Emergency Operations Centers (EOCs).    4 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES The California Department of Socials Services (CDSS) in conjunction with OES deployed Field Onsite Observation Teams (FOOT) consisting of various state agencies™ qualified staff to assist with shelter service assessments and communications opportunities.  In addition, there was a well-coordinated volunteer identification and deployment that supported local shelter efforts.
+
+There was a strong inter-agency coordination and relationships between local, state, and federal agencies that played an instrumental role in response to this emergency.  Access to all key agencies in one location (SOC/REOC) was extremely valuable.  Unified command concepts were applied and state personnel were matched with their federal counterparts.
+
+The State Emergency Assessment Teams were able to identify emergency protective measures needed that were implemented quickly and effectively.  This program has consistently demonstrated its value and benefit to the State and the impacted local governments.  It is now being recognized by its federal counterparts as a worthwhile effort in early identification of protective measures. 
+
+The Local Assistance Centers (LACs) provided a central place for disaster survivors to talk face-to-face with numerous state and local agency representatives, elected and local officials, and insurance companies.
+
+There was effective federal military coordination allowing for timely deployment of their military assets during disasters.  NOTE:  As a result of the 2007 Southern California Wildland Fires, a Memorandum of Understanding (MOU) was signed with the United States Marine Corps in January 2008 and the Governor has met with the North American Aerospace Defense Command (NORAD) and the United States Northern Command (USNORTHCOM) to build on California™s successful partnership with the US military in continued coordinated efforts in response to emergencies. 
+
+The CNG, in coordination with the United States Forest Service (USFS), was able to train 2,400 personnel to conduct Type II Hand Crew Operations.  At that time, the USFS could only sustain 25 crews (500 personnel) at one time per location. 
+
+The CNG was able to establish the Military Resource Advisory Group (MRAG) at the SOC to support the State Incident Command System.  The purpose of the MRAG was to facilitate coordination and economy of effort within the military community and was able to access Department of Defense capabilities that do not exist within the California National Guard (CNG).
+
+The CALMAC was able to make effective use of the Emergency Management Assistance Compact (EMAC) to obtain assistance from numerous states that would often have resources available to respond quickly in meeting California™s firefighting needs.  In addition to interstate cooperation, California received international firefighting assistance from several different countries that provided additional firefighting resources.  5 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES Summary of Areas Needing Improvements In general, the management of this disaster went very well, especially considering the effect felt by the impacted counties and the massive number of fires that occurred over a relatively short period of time.  Only eleven counties were included in the emergency declaration, but several additional counties were also impacted by fires during the same time frame.  However, as in any disaster, improvements can be made to bolster California™s future response to disasters.
+
+Improvements are recommended in the following areas:
+
+Additional staffing and training at state, local, and regional levels.
+
+Additional fire fighting resources.
+
+Additional funding for emergency response operations. 
+
+Enhanced data and information management tools. 
+
+Better pre-positioning of state resources for fire suppression and evacuation and sheltering operations. 
+
+Improved regional Emergency Operations Center (EOC) facility conditions.
+
+The following are examples of some of the issues that need to be resolved to improve future disaster response:
+
+There was minimal planning and preparedness for sheltering people with disabilities (i.e. lack of non-medical personal assistance, accessible cots, accessible transportation, and specialized equipment).  There was a lack of planning for evacuation and sheltering of animals and veterinary care. 
+
+There is a need for advance planning related to identifying trained personnel, including volunteers, supplies and alternate locations for sheltering pets and their owners at the same site.
+
+Several state agencies reported a shortage of trained staff, making it difficult to maintain expected staffing levels for an extended period of time.
+
+State resources were deployed in a ﬁleaning forwardﬂ strategy that at times caused confusion at the local level.  This was especially true of the Field Onsite Observation Team (FOOT) personnel.  The FOOT members were deployed very quickly to assess whether the needs of populations with access and functional needs were being met in local shelters, but local governments were not aware of their deployment.     6 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES During the Gap Fire response, volunteer firefighters were issued radios that could not communicate with any other responders.  In addition, CHP communications were poor to non-existent in remote locations. 
+
+The mission resource tasking process remains slow and cumbersome because field requests were not made in writing and as result were not filled in a timely manner.  In addition, mission requests for medical/health personnel were not always documented and tracked properly via the Response Information Management System (RIMS). 
+
+Current data management tools, especially RIMS, are inadequate to meet the demands of today™s emergency management needs.
+
+There is a need for California to prioritize funding for directives issued via the Governor™s Executive Orders as they relate to emergency response, recovery and mitigation activities of state agencies and departments.
+
+There is a need to address mitigation to avoid or reduce fire emergencies.  Addressing building restrictions, building codes, defensible space, and public education will help to prevent fires from starting and spreading. 
+
+OES engines were critical in getting in place in the first stages of the fires, but there are a limited number of engines that can be deployed to a large number of fires. 
+
+Inability to track emergency resources affected the state™s ability to re-deploy emergency equipment.  CAL FIRE™s tracking system does not have the ability to track flight times of aerial assets in order to re-deploy them effectively. 
+
+Summary of Corrective Action Recommendations Recommendations to address some of these needed improvements may require legislative actions and budget change proposals to address additional staffing, equipment, and funding. 
+
+Training is critical at both the state and local levels in part due to turnover in emergency management staff that results in the continual need for training new staff.  In addition, large disasters requiring multi-agency coordination can be infrequent in nature, and it is difficult and  expensive to simulate exercises that achieve the desired coordination.  The following are examples of some of the recommended measures that need to be taken to resolve existing problems:
+
+CNG needs to continue to work with the US Military to enhance communication and coordinate assets in response to emergencies.     7 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES Emergency management training, including SEMS/National Incident Management System (NIMS)/Incident Command System (ICS), at all levels of state and local government needs to be enhanced.  NOTE:
+
+During the last twelve months, Cal EMA™s Training Branch has offered a number of SEMS/NIMS courses to approximately 700 state and local agency staff.
+
+Suggest using an enhanced operating system to replace RIMS.  NOTE:  Cal EMA updated the existing RIMS system in June 2009 pending replacement of RIMS.  The procurement process related to replacing RIMS with an enhanced operating system is currently being developed.
+
+Communicate the "leaning forward" approach and philosophy to local government stakeholders.  NOTE:  Cal EMA Regional staff is informing local government of this approach during Mutual Aid Regional Advisory Committee (MARAC) meetings. 
+
+Additional training and clarification is needed for all agencies to ensure a broader understanding of Mission Resource Tasking.
+
+NOTE:  Cal EMA™s Training Branch is developing more in depth position and process-oriented training for state and local agencies. 
+
+Develop and implement better land use planning and prevention templates, laws, and ordinances to address fire mitigation. 
+
+California must update the Wild Fire Agreement to include ground training.  This includes determining the number of Type II Hand Crews that CAL FIRE and the USFS agree that the CNG must have trained and available at any one time with consideration of the number of Type II Hand Crews the USFS can sustain.  This information would determine the number of Type II Hand Crews that need to be trained annually.  California needs to budget for annual and recertification training for Type II Hand Crews that are determined to be needed.  NOTE:  Cal EMA, CAL FIRE, and CNG have coordinated their efforts to produce flexible, cost-effective, and acceptable options to deploy CNG troops for firefighting purposes.  A draft Memorandum of Understanding (MOU) outlines the parameters for training and using CNG members as Type II hand crews during future Wildland fires. 
+
+The state should pursue methods to address development of comprehensive local sheltering plans for residents that include meeting the needs of people with disabilities and older adults.  These should include a clear definition of roles and responsibilities. 
+
+NOTE:  Cal EMA™s Office for Access and Functional Needs has published a guidance document to assist local governments with their planning efforts to integrate the needs of people with disabilities and older adults into emergency management systems.  In addition, Cal EMA has purchased durable medical equipment for use in shelter facilities to meet the functional needs of this underserved population.    8 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES Preliminary Disaster Assessments (PDAs) should be attempted when it is actually safe to do so and when the damage sites can really be visited.  This will prevent over or under reported estimates. 
+
+Governor's Executive Orders should provide necessary funding and/or a statewide fund should be established for future emergency response, recovery and mitigation activities of state agencies and departments.  NOTE:
+
+The Governor has proposed an Emergency Response Initiative to fund critical emergency resources without impacting the State™s
+
+General Fund.  The Initiative would place a small fee on residential and commercial insurance policies.  9 STATEWIDE AAR 2008 MID-YEAR CALIFORNIA FIRES    10 ORGANIZATIONS CONTRIBUTING TO THIS REPORT State Agencies and Departments California Conservation Corps California Department of Conservation, California Geological Survey California Department of Corrections and Rehabilitation  California Department of Fish and Game California Department of Forestry and Fire Protection (CAL FIRE) California Department of Health Care Services California Department of Public Health California Department of Rehabilitation California Department of Social Services California Department of Transportation California Environmental Protection Agency California Highway Patrol California National Guard California Resources Agency CaliforniaVolunteers Department of Motor Vehicles Department of Water Resources Emergency Medical Services Authority Governor™s Office of Emergency Services University of California, Davis Œ Veterinary Department Local Government/Operational Areas (OAs)
+
+Butte County Kern County Monterey County  

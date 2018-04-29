@@ -1,0 +1,607 @@
+AFTER ACTION REPORT Westport Fire Department Westport Emergency Management TROPICAL STORM IRENE Preparation, Response and Recovery August 27 -
+
+September 5, 2011  
+
+Acknowledgements The following individuals and agencies contributed information to this report
+
+National Weather Service Douglas Glowacki, Conn DEMHS Westport Human Services Westport Highway Department Westport Police Department Westport Weston Health District Members of the Westport Fire Department contributing
+
+Lieutenant Matthew Cohen Assistant Chief Lawrence Conklin Assistant Chief William Dingee Inspector
+
+Terrance Dunn Inspector
+
+Nathanial Gibbons Deputy Chief
+
+Jonathan Gottfried Lieutenant Joseph Izzo Lieutenant Peter Janulis Assistant Chief Robert Kepchar
+
+Lieutenant Brett Kirby
+
+Lieutenant Micheal Kronick Lieutenant Kenneth Lombardi Lieutenant James Lupo
+
+Lieutenant Brian Meadows Assistant Chief John Plofkin Lieutenant
+
+Thomas Richmond Mechanic Timothy Reilly Lieutenant Ernest Ruot Lieutenant
+
+Richard Stone Administrative Assistant Jean Tighe Administrative Assistant Kim Weigle Firefighter
+
+James Workman Assistant Chief Robert Yost Fire Marshal Edward Zygmant
+
+Report compiled by Chief Andrew Kingsbury/EMDAfter Action Report Hurricane Irene Executive Summary On August 28, 2011, at 11:00 AM,
+
+Tropical Storm Irene made landfall just west of Westport, Connecticut.
+
+The Emergency Management Team had been tracking Hurricane Irene the week prior and extensive planning had been put in place.  All indications were this hurricane could be the most devastating seen in Connecticut in decades. 
+
+An extensive public information campaign lead up to the day of the storm utilizing:
+
+Press Releases, CodeRed Announcements, News Conferences, and Internet Outlets.
+
+A local declaration of emergency was declared, and a voluntary evacuation of low lying areas was stated.  -to-door in the Comp Beach, Hillspoint and Compo Mill areas of town, while Westport Police patrolled Saugatuck Shores announcing the evacuation. 
+
+It was made clear to all residents who decided to stay that once the hurricane hit, emergency responders may not be able to respond.
+
+Long Lots Shelter was opened Saturday afternoon through a cooperative effort of many agencies including:
+
+Human Services, CERT, Red Cross, BOE, Health District, and the Fire Marshal Office. 
+
+Chartwell Food Service provided meals to the shelter which saw 72 occupants at the height of operations.  This was somewhat of an uncharted area as Westport had not opened a shelter with this number of residents even for Hurricane Gloria in 1985.
+
+As the storm hit on the morning of the 28th, the expected call volume picked up.  Staffing in all departments had been supplemented, with 3 shifts of Firefighters on-duty that Sunday morning.  The bulk of the calls for service were the expected wires down, flooding, trees into buildings and several minor electrical fires.  In all, the Westport Fire Department responded to almost 400 incidents before the storm and its aftermath subsided.  Fortunately, the predicted Hurricane
+
+Category I winds had subsided to 50 mph tropical storm strength, but flooding was as predicted.  Striking just as spring high tide hit, flooding was extensive in the Saugatuck Shore, Compo, Hillspoint, and Main Street areas.  A decision was made to cut power to the downtown area around 11:00 AM on Sunday.  This decision did not come easily, but was necessary to prevent the potential of an electrical fire downtown.  Flooding downtown was extensive, and several stores still remain closed at the writing of this report.
+
+Power outages and road closures were widespread, with approximately 70% of Westport dark.
+
+As the focus switched from response to recovery, Westport was fortunate to sustain 15-17 line crews and 10 tree crew daily throughout the recovery.  Although power restoration was slow for many,
+
+Westport fared much better than most of its surrounding communities.
+
+The EOC remained in operation until the last customers were restored 8 days later.  Luckily we saw no loss of life or serious injuries due to the storm.  Aggressive damage assessments data gathering allowed FEMA to visit Westport very early on.  Preliminary Damage Assessments (PDA) were conducted with FEMA representatives almost jumping over chain saws as the cleanup continued.  Connecticut was declared a Presidential Disaster (4023-DR-CT) on September 2, 2011, and Westport Emergency Management has been assisting residents and businesses recover losses they incurred since the storm.
+
+Preparation and a strong cooperative spirit of all Westport Department Heads were critical in having a successful response to Tropical Storm Irene.  Lessons learned and actions implemented from the Severe Storm and Flooding event of March 2010 and response to 10, led to a smoother and safer operation during Irene.
+
+I would be remiss if I did not take the opportunity in this report to thank all the hardworking members of the Westport Fire Department.  I cannot tell you how many times I was publicly complimented on your actions.  Your compassion, dedication and efforts put forth have not gone unnoticed.
+
+Chief Andrew Kingsbury Emergency Management Director    Background The Westport Fire Department is staffed with 15 line personnel working 24 hour shifts. 
+
+Administrative staff consists of an Assistant Chief of Training, Deputy Chief of Operations, Chief of Department, and currently 2 Administrative Assistants. 
+
+The Fire Marshals Division has 2 Fire Inspectors and a Fire Marshal.  The towns Emergency Operations Center (EOC) is located at Fire Headquarters, and the Emergency Management Director (EMD) is the Fire Chief.
+
+Westport has had a history of dealing with severe weather events, and is very proactive in planning and responding to them.  Recent weather events effecting Westport include the January 2011 Snow Emergency, The 2010 Bridgeport Tornado, Severe Wind event of August 2010, Severe Storm and Flooding event of
+
+March 2010 (1904-DR-CT), and many other dating back to Hurricane Gloria.  Westport has been designated a Storm Ready community by the National Weather Service, and remains committed to meeting the challenges faced by a coastal community.
+
+Overview
+
+On August 20, 2011,
+
+Tropical Depression Irene formed in the Atlantic Ocean approximately 190 miles east of Dominica in the Eastern Caribbean.  Irene intensified and reached hurricane status on August 22, 2011.
+
+Hurricane Irene then moved across Puerto Rico and the Bahamas to become the first Major (Category III) Hurricane of the 2011 Season on August 24th.
+
+Irene then turned north toward the U.S. East Coast and made landfall at 8:00 AM on August 27th near Cape Lookout, North Carolina, as a Category I hurricane.  Irene moved north northeast along the U.S. East Coast and made a second landfall as a Tropical Storm at 11:00 AM on August 28, 2011, just east of New York City.  Irene moved through Southeastern New York, Western Connecticut and Western Massachusetts before dissipating in Northern New England near the Canadian Border at 11:00 PM on August 28, 2011.
+
+Although Irene was a tropical storm when it made landfall near New York City, several factors combined to account for the high degree of damage caused in Connecticut.  The first factor was that Irene made landfall during a spring high tide.  The second factor was the saturation of soils across nearly the entire state during the month of August as a result of rainfall amounts averaging 200% above normal.  The third factor is Connecticut-urban interface; it is the 4th most densely populated state and the 13th most densely forested state. 
+
+The final factor was the large physical size of Irene which significantly contributed to both coastal flooding as a result of a large fetch and riverine flooding resulting from very heavy rainfall.  These factors combined to account for a record number of power outages (829,130 customers) which blacked out 53.2% of the state, killed three people and injured two fire fighters.  Heavy structure damage to coastal as well as inland buildings along rivers occurred.    The large envelope of wind associated with Tropical Storm Irene pushed water into Western Long Island Sound resulting in moderate to major coastal flooding, wave damage and erosion which damaged or destroyed over 100 homes in East Haven, Milford, Westport, Fairfield and Stratford.  Heavy damage to public beaches and other public and private facilities also occurred.
+
+Tropical Storm Irene resulted in total preliminary public assistance damages statewide of 40  50 million dollars.  Private insurers have estimated that insured losses were 2  4 times greater. 
+
+A very aggressive public outreach and warning effort combined with local evacuations of flood prone areas and voluntary travel bands in the days and hours prior to the tropical storm minimized deaths and injuries from Irene.
+
+Westport suffered major flooding and moderate wind damage from Tropical Storm Irene.  The Saugatuck River overflowed its banks early Sunday morning well before high tide.  A decision was made to cut power to the downtown area at approximately 11:00 AM as the water continued to rise and flood Main Street.  The Compo Beach area quickly became impassible and flood water reached as far north as the exit road of Longshore Club Park.
+
+Saugatuck Shores also became impassable early on with widespread tidal flooding.  Preliminary damage assessments indicated that at least 16 houses were struck by trees, 3 suffering moderate damage.  Approximately 100+ homes and 30 businesses were also flooded during the storm. 
+
+The majority of the flooding was in the low lying Bradley Street neighborhood and its surrounding streets, as well as Hillspoint Road and side streets, and the entire Saugatuck Shores.
+
+Rough estimates for damages to Town of Westport property are listed below. 
+
+It should be noted that damage to buildings and vehicles were minimal. 
+
+FEMA public assistance reimbursement for declared disasters is 75% of approved costs, and some repairs may be disallowed:
+
+Compo Beach Reset boardwalk and replace concrete landing; Rebuild seawall and repair roadway.
+
+Estimated Cost: $55,000
+
+Longshore Club Park Replace seawall behind Longshore Pool and Sailing School.
+
+Estimated cost: $150,000
+
+Burying Hill Beach Repair and replace seawall.
+
+Estimated cost: $30,000
+
+Hillspoint Road Repair roadway, Rebuild sidewalk, Reset rip-rap slope.
+
+Estimated cost $25,000
+
+Total Damage estimates: $260,000  The following are preliminary expenses incurred during Hurricane Irene preparation, response and recovery to date
+
+Building Department Overtime costs:  $753
+
+Board Of Education (Sheltering)
+
+Janitorial OT costs: $1,295
+
+Food expenses:  $1,534
+
+Food workers labor: $2,060    $4,889
+
+Fire Department and EOC Overtime costs:  $39,806
+
+Equipment expenses: $  2,459
+
+Damaged equipment $     750    $43,015
+
+Highway Department OT & contract services: $ 70,000
+
+Debris removal:  $ 70,000    $140,000
+
+Human Services Overtime costs:  $3599
+
+Food and expenses: $   800    $4,399
+
+Parks & Recreation Storm preparation and cleanup costs:  $40,000
+
+Police Department (Including EMS)
+
+Overtime costs:  $25,877
+
+Equipment Damage:  $  1,500    $27,377
+
+Total equipment & labor expenses: $255,544
+
+Total estimates damage, equipment & labor: $515,544
+
+The Westport Fire Department saw almost 400 calls for service during Irene and its recovery. 
+
+The highest volume day was
+
+Sunday,
+
+August 28th with 134 incidents. 
+
+Call volume had tapered off as the week progressed, changing in nature from wires down, electrical emergencies and flooding, to numerous smoke in the building and service type calls.  A significant structure fire did occur on September 3rd, but this fire has not been determined to be storm related.
+
+Structure Type Fires: 8
+
+Hazardous Conditions: 172
+
+Vehicle Fires:  0
+
+Service Calls:   33 Vegetation Fires: 1
+
+Good Intent:  23
+
+Refuse/Other Fires: 0
+
+Malicious False:  0
+
+Other Fires:  3
+
+Other False:  90
+
+Total Fires:  12
+
+Rescue & EMS:  35
+
+Mutual Aid Rcvd: 10
+
+Fire Service Injuries: 1
+
+Mutual Aid Given: 2
+
+Fire Dollar Loss Property: $313,200
+
+Fire Dollar Loss Content: $150,000
+
+Analysis of Capabilities
+
+Apparatus Early notification of a potential storm to the Mechanic is important, any out of service apparatus need to be returned to service well before landfall. 
+
+Drivers and officers should be educated autious of air intakes.  Utilize Utility-1 rather than our new 1.2 million Ladder Tower when possible. 
+
+Documenting damages, and rinsing all vehicles exposed to salt water is very important.
+
+Rear end, axles, fluids, etc., need to be checked for water infiltration post storm.
+
+Business Restoration Early notification was made to the Downtown Merchants Association (DMA) and other business about the impending hurricane.  A cut sheet of tips with a map of flood prone areas near the Saugatuck River was provided.  Most businesses took our advice moving stock and sandbagging. 
+
+Even with these preparations, flooding was severe and power had to be cut to the downtown area around 11:00 AM.  As soon as the flood waters receded, a tremendous effort was put forth to restore power to the area.  Fire Marshal
+
+Zygmant, Building Official Smith, Fire Department members, and an electrician went building to building making safe in preparation for power restoration.  By midnight CL&P was ready to restore power when they were called off on an emergency; restoration was completed at 1:30 in the morning.  FD personnel and FEMA made several site visits in the days following. 
+
+FM Zygmant and Chief Kingsbury have also met with the DMA after the storm.
+
+CERT Team activated prior to hurricane landfall to assist with shelter set-up.  Shelter was opened at 6 PM on Saturday and CERT had 11 volunteers on hand to assist and were very helpful.  CERT continued assisting with sheltering operations through the next day.  CERT no longer had any available volunteers on Monday to assist with deactivation of the shelter.
+
+CL&P Liaison Operations -
+
+During Hurricane Irene and its recovery, Westport from CL&P was
+
+Chris Swan. 
+
+Mr.
+
+Swan, a local resident, worked closely with all members of the Town Departments, and his presence in the EOC was key.
+
+In the days following the storm, Mr. 
+
+Swan would meet in the EOC at 8
+
+AM, 12
+
+PM, 4
+
+PM to bring members of the Town Departments up to speed on the status of power restoration. 
+
+This was quite helpful as our call takers were then able to provide real information to resident that called in.  Also, Mr. 
+
+Swan was able to field some of the complaints directly and explain the local issues that CL&P was dealing with.
+
+This generally would satisfy the complainant whether they agreed with the answer or not.
+
+Dispatch/Communications -
+
+Communications is often an overlooked, but vital aspect of how an event will unfold. Effective call handling and proper case entry are vital in directing an appropriate response in a timely manner.   o
+
+Call volume was assessed on an ongoing basis and the number of required dispatchers was determined.  Personnel made themselves available on an almost continuous basis. o
+
+Proper scheduling resulted in very few occasions where anyone was allowed to work beyond 16 hours before having a minimum of 8 hours off.  This occurred only twice and in one case the individual was placed in the third position and used more as an overflow dispatcher.  In both occasions the dispatcher was allowed to work no more than an additional 4 hours before being relieved. o
+
+Dispatch supervision assisted in the streamlining of operations.  Not in the sense that a communications background facilitated
+
+Supervision relieved the need to repeatedly contact the shift commander for permission to alter responses. o
+
+CL&P sheets resulted in a substantial decrease in dispatcher workload.
+
+Much of their time is normally dedicated to continuously calling CL&P. o
+
+Defined roles need to be pre-established. Although this was successfully completed on an informal basis, dispatchers must be assigned primary call taking, radio, and clerical duties. After this storm there will be policy developed. o
+
+All Assistant Chiefs and above are issued portable radios. Very few of the officers issued radios brought them in. 
+
+A radio shortage was compounded when people issued radios had to sign spares out of dispatch. o
+
+Weaknesses were discovered in the marking and dissemination of road closures and lines down. I believe this will be remedied with the employment of the new mapping system. o remain focused on emergency calls and not fielding calls from upset residents.
+
+EOC Call Taking -
+
+The flow of information made available from CL&P at daily meetings as well as throughout the day was very useful. In most cases, the data was far more accurate and detailed than anything the residents were obtaining from news outlets and the CL&P 1-800 number.
+
+Most residents were very appreciative just to have solid info,
+
+Call Log Forms were laid out in terms of prompting the call takers to obtain pertinent info. However, they could be reformatted slightly for ease of tracking and follow-up.
+
+EOC Operations EOC was set-up and ready to go well in advance of the storm.
+
+Several meetings and briefings were held in the center prior to the official opening on Saturday, August 27, at noon. 
+
+The center remained in operation until it officially closed on Saturday, September 3rd at 1700 hours.  Regular meetings were held at 0800, 1200 and 1600 hours each day with participants from CL&P, EMS,
+
+FD, Human Services, PD, Public Works .  Other department heads attended as necessary, and FD Officers and call takers were also included when available. 
+
+As the week progressed, phones were manned by on-duty Firefighters at night, and administrative phones were forwarded to dispatch. 
+
+New forms implemented since the March 2010 storm seemed helpful, although a master ride list was lacking due to the implementation of an electronic version, the handwritten list should have been maintained.  Our new generator worked flawlessly allowing full operation of the building.  We did suffer several computer issues including loss of our CAD server, and intermittent e-mail and internet problems.
+
+FEMA PDA Distributing Preliminary Damage Assessment (PDA) forms in all apparatus proved to be tremendously beneficial.  Firefighters documented homes and businesses that were damaged in the field, eliminating backtracking in the storms aftermath. 
+
+Forms were collected and forwarded to DEMHS very early on.
+
+If time had allowed, damage assessment training and photo documentation would have been helpful.
+
+All Town Don.
+
+Fire Station Hardening Early on it was identified that all 4 fire stations needed to be protected from hurricane force winds and flying debris.   o
+
+Headquarters:
+
+Because of the large bay doors, it was recognized that the possibility of high winds could blow in these doors; reinforcement was needed and fabricated to protect this from happening.  Cars need to be relocated away from tree line. 
+
+The propane bin was emptied, and the dumpster left in place due to its weight. o
+
+Station 4:
+
+Cars were relocated to higher ground across the street; Engine 9 was relocated to Gaults maintenance garage.  Exterior items were secured. o
+
+Station 5:
+
+Roof covering basement staircase was secure with ratchet straps to railings.
+
+Recycling bin, garbage can and gas grill (minus propane) where moved in the station. 
+
+Extra propane bottles brought to Headquarters. o
+
+Station 6:
+
+The picnic table placed upside down.  Grill, garbage, etc secured.
+
+Food & Lodging Logistics Although pre-storm planning was extensive, we failed to realize Firefighters would not have time to prep any meals.  We should have taken advantage of the Senior Center for food during the height of the storm. o
+
+Three to four days prior to the storm strike non-perishable food supplies were purchased for Headquarters and outstations.  The focus being high nutritional content and taste with a long shelf life in case the storm missed us.  Outstation supplies were kept in the EOC closet until day before storm strike so that it could be kept in reserve. 
+
+Two days prior to the storm strike perishable food supplies purchased such as milk, eggs, bread, and meat.  Extra linen supplies were ordered, laundry service was able to deliver extra sheets but towels would not arrive until after the storm.  Personnel were prepped and given advice on having extra dry uniforms, food and other comforts for a long deployment.   o
+
+During the storm the plan was to rotate crews resting and those responding to incidents.  This did not happen to the extent that we would have liked but the intention was there. 
+
+We did not hear of any crews not being fed or resupplied during operations.   o
+
+Post storm was the period where it became difficult to resupply.  All of the markets in town were out of power and now throwing out perishable food items.  This is when we need to plan on having non-perishable foods on hand and not during the storm.
+
+Hiring/Staffing Hiring was pre-determined prior to the storm to have adequate personnel on hand prior to landfall, while trying to avoid having members travel through the storm.  With landfall predicted late morning, an off-duty shift was brought in at midnight.  The oncoming shift reported for duty at 0700 the morning of the storm, and the members scheduled to be relieved were held over. 
+
+The fourth shift was told to remain home and be fresh for the day after the storm. 
+
+Also, a second command car was established in Saugatuck to handle the anticipated call volume. 
+
+Although we generally had adequate staffing, mutual-aid from Weston was required for 2 Engine Companies during the afternoon of the storm. 
+
+Additional personnel were hired as needed and a return to normal staffing was seen later in the week.  Recommendations include establishing a rehab sector, establish work time limits, and be sure members do not have to travel to work through the storm.
+
+Mapping -
+
+One of the deficiencies identified pre-storm is the inability to have up to the minute road closure / flooding / hazard information reflected on our MDTs and also in the EOC. Also, this information could be made available through a web portal for the general public to view in order to be kept abreast of hazards in town.
+
+Damion Vassell product that would give us limited one way functionality to indicate this information.  In reality this was functional, but unwieldy, slow to respond, and was only able to be updated from the EOC to the field. 
+
+Since the storm Lt. Cohen found that the State of Vermont is using Google Maps to achieve what we have been attempting to provide. 
+
+Google Map offers an efficient GUI that results in a detailed yet easy to use mapping and plotting interface.
+
+Lt. Cohen is currently in the process of refining the application, with Damion Vassell assisting with street data.
+
+Outstation Storm Operations Food and supplies were delivered pre-storm to outstations.
+
+Stations made storm ready and vehicles moved/relocated as necessary. 
+
+Staffing at all outstations were upped with a Lieutenant and additional Firefighter assigned to all Engine Companies.
+
+Payroll/Cost & Expense Tracking -
+
+Due to the high volume of call backs and shift holdovers, the paper work was a challenge to organize. 
+
+A memo was sent out pre-storm asking the Lieutenants to be specific in recording callbacks and holdovers on the overtime slips. 
+
+A new system to record overtime during storms or other disasters would be helpful.
+
+Also, an assigned computer in the EOC for an Administrative Assistant would allow them to keep up with their duties.
+
+Special account numbers set up by Finance to track storm expenses early on was quite helpful.
+
+Post Storm Recovery Operations -
+
+Better communications between Westport Police, Public Works and Connecticut Light & Power to the EOC to constantly monitor road closures/openings.
+
+As a road is cleared this information must get to the E.O.C. immediately, and a person should be available to keep maps updated.
+
+Police need to report road closures to the E.O.C. when a tree is down where no wire involved occurs.
+
+Current road condition information has to be communicated to responding apparatus/station .
+
+Public Information Numerous press releases and Code Red messages warning of the impending storm were conducted pre-storm landfall, also radio link to WWPT checked and OK.  Starting on Aug 29th a continuous loop recording was broadcast on Staples WWPT radio station with current storm information and safety tips. 
+
+The broadcast was updated twice daily with focus shifting to areas of power restoration as week dragged on.  Informative Code Red announcements were made at least daily by First Selectman Joseloff.
+
+Town Website front page updated with timely information, 22-POWER message updated daily, and First information seemed to calm people down.  Suggestions include a formal PIO integrated into the EOC team, a third noontime update of the FM radio loop, and release of a current road closure/power map on the town website.
+
+Rapid Response Vehicle/RIT -
+
+During the hurricane a 1st
+
+Responder RIT, consisted of two FD personnel, one PD officer and one member of EMS, all rescue divers, were available to respond in two vehicles, an FD expedition and EMS fly car.
+
+They were given standing orders and responded on numerous calls, all without incident.
+
+A standardized tool list, a vehicle with higher ground clearance (Hummer), and have all disciplines report to one boss (IC) would be helpful improvements.
+
+Resident Notification A pre-storm assessment of residents in the Compo Beach and Compo Mill area was done jointly by FD and EMS with good coordination.  A head count of residents evacuating or staying was compiled and returned to EOC.  The larger Saugatuck Shores area was covered by PD largely utilizing patrols.  All residents were told no emergency personnel would be able to respond during the hurricane and should seek relocation to the Long Lots shelter.  Post storm Utility-1 did a damage survey of the Compo area, many residents were concerned about their properties and sought to return.
+
+Ride List/Accountability -
+
+An area that proved to be problematic was creating an accurate ride list to be used during the storm.  We had planned to use our normal ride list on the morning of August 28th, but an announcement was made over the station page not to check in by phone.  This was likely due to dispatch being overloaded, Had there been a fire or other significant incident it would have been difficult to determine who was where during the morning of the storm. 
+
+A solution to this would be to assign an Officer to the role of Resource Unit Leader/Accountability Officer.  Also, all town personnel,
+
+Police, EMS, Public Works and CERT should be in our accountability system.
+
+Rte. 136 & Saugatuck Shores Operations -
+
+Prior to the storm Engine-4 visited Cedar Point Yacht Club to verify that contact information and keys were up to date.  It was decided not to stage an Engine Company on the shores during the height of the hurricane. 
+
+Almost a repeat of the March 2010 storm, Rte 136 south of Ferry Lane became impassible; the only way to reach this location was via I-95 thru Norwalk. 
+
+Because of this Engine-4 spent an inordinate amount of time staged or stuck on the Norwalk side of the road closure.  Arrangements should be made with Norwalk FD to provided coverage, and even arrange alternate shelter at a Norwalk Fire Station should this situation repeat itself.
+
+Sheltering Sheltering was a joint effort spearheaded by Human Services, CERT, Red Cross, Fire Prevention and BOE.  It should be noted all agencies worked extremely well together.  Some highlights and areas of improvement are listed below. o
+
+Pre-Storm -
+
+Friday walk-meet one another for the first time; a pre-plan of the building and the layout of the shelter and other logistics were planned without being under duress.
+
+Privatize registration area, Registration in the open made some people feel uncomfortable.
+
+Do not allowing reporters to wander around the shelter, They were approaching people and making them feel uncomfortable.
+
+Need to have Ground Rules posted at the front door. (ie. NO guns or alcohol allowed) o
+
+During the Storm -
+
+Having a white board at the front door with a greeting and periodic updates worked well.
+
+Have a uniformed police officer on site at all times; some appeared impaired.
+
+Special needs cots from the DHEMS trailer were very useful.
+
+No storm updates and a lack of communication to the outside world was a hindrance o
+
+Post Storm -
+
+BOE has restrictions governing the use of certain cleaning products; the cots were not able to be disinfected properly. Better coordination needed for the future. Either a list of approved cleaning agents or a plan to take the cots outdoors for cleaning.
+
+There was lack of manpower for cleaning cots and putting them away.   Storm Logistics Storm preparations began in earnest the week prior to Hurricane Irene.  Some important steps included: o
+
+A review of the Emergency Operation Plan, EOC prepped. o
+
+All generators town wide serviced and topped off. o
+
+All portable power equipment checked. o
+
+Apparatus under repair placed back in-service. o
+
+Personnel put on notice, advised to take care of any business at home now. o
+
+Department Heads met and their  storm preparation initiated.    o
+
+Participate in conference calls and webinars from the National Weather Service. o
+
+Food and supplies procured.  o
+
+Shelter toured and Red Cross/DEMHS trailers mobilized.
+
+Storm Operation Several thing that worked well during the storm were:  o
+
+Rapid Response Vehicle/RIT. o  2nd
+
+Command Car on the West Side. o
+
+Weston mutual-aid Engine Companies.  o
+
+Damage Assessment forms in vehicles.   o
+
+Smoke/CO detectors for residents. o
+
+Use of ICS and Incident Action forms. o
+
+Including Officers in EOC briefings. o
+
+Ambulance at HQ and Station 4.
+
+Areas that could be improved upon include; use of an Incident Action Plan and ICS forms, use of Administrative Assistants rather than Firefighters to answer phones.
+
+Utility 1 Operations/Damage Assessments -
+
+Utility  1 was utilized to survey the flooded areas in the Compo Beach area to include: property damage, pollution release, and town infrastructure damage. 
+
+This is the only safe vehicle to transverse deep water
+
+Response personnel included 1 Lieutenant and 4 Firefighters.  Additional equipment included; Stokes, 2 Cold Water Suits, Rope, First Aid bag, etc. 
+
+Survey starting at the Minute Man statue going down through Compo Beach Road, reports of an oil sheen due to a leaking oil tank was unfound.
+
+Quentin Rd was extremely low as the water quickly came up to the top of the fenders.  Extreme low areas also include; Bradley St. in the area of Danbury and Fairfield -1 as well as the end of Apple Tree Trail.  Owenoke Park was washed over with sand and debris.
+
+It should be noted that sewage is most likely mixed into the flood/standing water in this area. 
+
+Proper precaution and decontamination of equipment is a must.
+
+A snorkel kit is recommended for the air intake system for added insurance in tight conditions such as unforeseen sink holes.
+
+West Side Operations In preparation for the hurricane,
+
+West Side Operations was set-up out of Saugatuck Station 4.  Staffing was
+
+Engine-4 with a Lieut and 3 Firefighters, and
+
+Car 7 with an
+
+Assistant
+
+Chief and Aide serving as a Second command car.
+
+Being that Station 4 territory encompasses flood prone areas, this allowed a dedicated Commander to Saugatuck, while freeing up the regular
+
+Shift Commander to respond to the rest of the town.
+
+It was felt the Department was better equipped to handle emergencies and it reduce wea
+
+Conclusions
+
+What Worked Well
+
+Below are several areas that have been identified as strengths or areas that listed in no particular order.
+
+Our CL&P Liaison worked closely and effectively with the EOC team.  Daily meetings at 0800, 1200 and 1600 hours kept everyone updated.  Having the call takers and available FD Officers sit in on the meetings kept all informed on progress and what could be expected for the day.
+
+Establishing a Rapid Response Vehicle or 1st
+
+Responder RIT was a great idea.  Many people mentioned they thought this was a proactive idea, and it provided a level of security for those working in the field.  Several suggestions regarding this are documented in this report and should be implemented.
+
+A priority was given to restoring businesses downtown.  This was achieved through an all-hands on deck approach as soon as the flood water subsided.  Private contractors working alongside firefighters worked together to pump and make safe flooded out cellars, ultimately allowing restoration of power late that day.
+
+Purchase of battery operated Smoke/CO detectors to give to residents.  Since many resident were without power for several days, most no longer had functioning alarm systems.  We also noted a high instance of CO problems due to portable generators.
+
+Preliminary damage assessment forms distributed in all apparatus prior to the storm were helpful in detailing property damage. 
+
+Being able to document homes and businesses that were
+
+Training on completing these forms would have been helpful, although most were completed correctly without any training at all.
+
+Tracking and documenting expenses from Irene was simplified by assigning special account numbers set-up by the Finance Department.  Documentation becomes very important when trying to recoup funds from FEMA for a disaster declaration.
+
+Public Information was delivered through numerous means.  CodeRed telephone and e-mail messaging, Press releases, Staples FM radio station, Twitter, and various other internet outlets. 
+
+In the past we had been criticized for excessive CodeRed announcements, I believe for this storm we reached an appropriate balance.  Sheltering was successful through cooperative efforts of all agencies involved.  Providing warm meals, a kind attitude and periodic updates to the residents went a long way.
+
+Providing adequate staffing levels before the storms onset, rather than reacting to an increasing call volume which would cause firefighters to have to travel through the storm to report in.
+
+Operating a 2nd
+
+West Side Commandpervisor allowed for a safer span of control, and had the Saugatuck area been isolated due to flooding, allowed a dedicated commander to the area.
+
+Areas for Improvement Rotation of personnel was not always adequate.  At time firefighters worked for 18-20 hours straight without a break.  Closer tracking and assigning a Resource Leader should be helpful in the future.
+
+Although food was delivered to most stations before the storm, preparation time was not taken into consideration.  During the height of activity, rotation through the Senior Center for meals would have been helpful.
+
+Accurate tracking of road closures and wires down between agencies was troublesome at times. 
+
+A plan for a better mapping system is in the works.
+
+Utilize
+
+ICS functions and paperwork.  Incident Action Plans were not always completed and shared.  Also, establishing formal ICS positions for future incidents would be beneficial.
+
+Retain a Press Releases/Media Log for reference.  Also, retain a copy of all Ride Lists.  Our new electronic format does not archive, it simply overwrites them.
+
+Accountability was an issue; implementing a Resource Unit Leader function should be helpful. 
+
+Also a master handwritten list of personnel was not kept updated in the EOC as in the past.
+
+EOC training in general would be useful for all Firefighters and Officers.  Call Taking in particularly can be challenging for the untrained.
+
+Officers also  need to be trained in the operation of Web EOC.
+
+Privatization of the shelter, at times reporters were allowed to just wander around the shelter making people uncomfortable.  Posting of ground rules and TV/Media access for storm updates were identified as areas that could be improved upon.   Recommendations  phone number and the ability to place on hold and transfer a call.
+
+Always assign an Officer or to the Dispatch Center during times of high volume.  This relieved the dispatcher from continually having to contact the shift commander to make decisions, etc.
+
+Have a computer workstation available for Administrative Assistants in the EOC.  This would allow them to keep up on their daily work when assigned to the EOC.  A recently installed wireless access point should facilitate this.
+
+Utilize patrol Units or CERT members to free up FD and PD assets on wires down type calls.
+
+Formalization of NIMS/ICS functions.  Utilization of
+
+ICS forms and assignment of a Resource Unit Leader, Logistics Section Chief, Etc.
+
+Hummer for the Rapid Response Vehicle.
+
+Proceed with the development of an interactive Google Maps application.  The State of Vermont and Town of New Canaan used Google Maps successfully.
+
+Lessons Learned Remain flexible, situations are fluid and will change.  Our best plans had to be modified at the last moment due to storm acceleration.  Staffing in both the PD and FD had to be changed from a 5 AM report time to midnight as the storm approached.
+
+Residents want information even if it was bad news.  Many felt they were forgotten about or has got lost in the system.
+
+Social media works, utilize it.
+
+Technology will fail.  Our Dispatch CAD server failed during the storm, in the March 2010 storm our radio system failed.  Always maintain a back-up or paper system.
+
+People get forgotten.  Inevitably an Engine Company or Patrol Unit get stuck on a long duration incident.  This time it was Engine-4 stuck on Rte. 136.  Span of control and better resource tracking should help.  
+
+Attachments Contributed Reports Full
+
+Text   
+
+Attachments Maps, Weather Reports, Etc.  

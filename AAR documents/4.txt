@@ -1,0 +1,941 @@
+
+
+Walt Ekard Chief Administrative Officer W. Harold Tuck, Jr. 
+
+Deputy Chief Administrative Officer/Public Safety Group Deborah Steffen Director, Office of Emergency Services     San Diego County Firestorms 2003  After Action Report  iACKNOWLEDGEMENTS The following County of San Diego Departments and Agencies contributed to this report:  CAO  Community Services Group Animal Services General Services Purchasing & Contracting  Finance and General Government Department of Media and Public Relations Health & Human Services Agency Emergency Preparedness and Disaster Medical Response Mental Health Services Public Health Services  Land Use and Environment Group Agriculture, Weights, & Measures Air Pollution Control District Department of Environmental Health Department of Planning and Land Use Department of Public Works Parks and Recreation  Public Safety Group Executive Office Medical Examiner Office of Emergency Services Probation Sheriff External Agencies American Red Cross Veterinary Medial Assistance Team This report was developed and compiled by the Office of Emergency Services™ Staff Tom Amabile, Principal Author & Editor Susan Asturias Willard Lewis Deborah Steffen  Additional Support Mark Clark Dawn Kay San Diego County Firestorms 2003  After Action Report  iiPREFACE  The intent of this After Action Report is to document the County of San Diego™s response efforts during the Cedar, Paradise and Otay fires beginning on October 25, 2003.  The report will discuss the San Diego County Emergency Operations Center (EOC) efforts to support field response activities as well as those field activities involving County Departments.  The purpose of this report is to analyze the overall effectiveness of the Emergency Operations Center operations. 
+
+Every effort was made to ensure the accuracy of the information contained in this report. We welcome any additional comments, suggestions or guidance that you may feel appropriate to this AAR that will serve to enhance our current state of readiness and our ability to coordinate the County™s response to disasters.  This report covers only the time period of the EOC Activation from October 26, 2003 to November 1, 2003.
+
+Lessons learned from Recovery Operations are being developed and will be added to this report when completed.  San Diego County Firestorms 2003  After Action Report  iii TABLE OF CONTENTS TOPIC PAGE ACKNOWLEDGEMENTS i
+
+PREFACE TABLE OF CONTENTS  ii  iii EXECUTIVE SUMMARY  1 I.  OVERVIEW AND TIMELINE 4
+
+II.  EOC ACTIVATION AND FACILITY 10 A. Notification B. Access C. Personnel D.  Facilities & Infrastructure 10 11 12 14
+
+III.  EOC OPERATIONS 16 A.  Management/Policy  16 1. Policy Group 2. Public Information Officer (PIO) 3. Safety 4. Liaison/Agency Representative 16 18 20 20
+
+B.  Operations 21 1. Fire Operations 2. Law Enforcement Operations 3. Health and Human Services a. Public Health/EMS b. Mental Health Services 4. Hazardous Materials/Environmental Health 5. Animal Services 6. Construction and Engineering a. Roads/Public Works b. Damage Assessment 7. Medical Examiner 8. Care & Shelter a. Shelter Operations b. Mass Feeding c. Disaster Assistance d. Other Voluntary/Community Agencies  21 21 22 22 25 26 27 29 29 31 34 37 37 38 38 38  San Diego County Firestorms 2003  After Action Report  iv TABLE OF CONTENTS  9. Department of Agriculture, Weights & Measures 10. Utilities C.  Planning & Intelligence   39 40   41 1.
+
+Situation Status (SITSTAT) 2.
+
+Documentation 3.
+
+Advanced Plans 4.
+
+Technical Support 41 41 42 42
+
+D.  Logistics 44 1. Procurement 2. EOC Support 3. Facilities Status  44 44 46 E.  Finance  47   4.  RECOVERY OPERATIONS (To be added at a later date)
+
+IV.  ATTACHMENTS 1. EOC Organization Chart 2. Proclamations of Local Emergency 3. Map of Burn Area 4. Map of Fire Spread 5. List of Press Releases Issued 6. Summary of Recommendations              49 50 52 53 54 56 San Diego County Firestorms 2003  After Action Report 1 ﬁWhen these fires started, the conditions in southern California were set up for adisaster.  The drought had left the vegetation in a stressed condition, much of it alreadydead or dying.  It was ready to explode into flames if any fire escaped initial attackefforts.ﬂ
+
+Tim Duane, Associate Professor, Environmental Engineering University of California, Berkeley ﬁThe Cedar Fire burned 80,000acres in 10 hours. That™s over twoacres per second.ﬂ
+
+Tim Turner, San Diego Area Coordination TeamﬁThey™ve had spread rates of 10 miles in seven hours.  When a fire does that, your effortsare turned from the firefight to firefighter and public safety.  You just hope you can get allthe people out of the way in time.ﬂ
+
+Larry Hood, US Forest Service Fire & Fuels Specialist EXECUTIVE SUMMARY Background  The firestorms that occurred in San Diego County beginning at approximately 5:37 p.m. Saturday, October 25, 2003, were the worst in County history and second in damage statewide, only to the East Bay/Oakland Hills Fire in 1991.  The day the initial fire started, the temperature in Julian reached 99 degrees Fahrenheit and the humidity was 8%.  Santa Ana winds were a major contributing factor to the fire™s unpredictable behavior and rapid progression.  On Sunday, October 26th, humidity levels dropped to 7%.  These hot, dry winds continued to fan the fire. Flames in excess of 200 feet in height were reported. The fire generated thermal convections which produced extreme erratic fire behavior and made it impossible for firefighters to forecast the fire™s path and spread.
+
+The Cedar Fire burned 273,246 acres; claimed the lives of 14 civilians and one firefighter and destroyed 2,820 structures.  The Paradise Fire charred 56,700 acres and resulted in two civilian fatalities with 413 structures destroyed.  The Otay Fire, which consumed 46,291 acres, destroyed six structures but fortunately no lives were lost.  Scope of the Report This After Action Report focuses on the activities in the Operational Area Emergency Operations Center. The purpose of the Emergency Operations Center is centralized emergency management where priorities are established; policy decisions are made; long term planning is carried out and information flow and resource requests are coordinated.  This After Action Report is not intended to provide analysis for fire or law enforcement field response.  Those issues will be discussed in their respective after action reports.  During the activation of the EOC, OES provided the framework for management of the EOC to ensure an effective operation.   San Diego County Firestorms 2003  After Action Report 2 Summary of Operations In response to notification from the Sheriff™s Department Operations Center (DOC), the Office of Emergency Services (OES) activated the San Diego County Operational Area Emergency Operations Center (EOC) at approximately 5:20 a.m., on Sunday, October 26, 2003 and deactivated on Saturday, November 1, 2003.  The EOC was staffed by representatives from various County Departments as well as by agency liaisons.
+
+This was the first time in San Diego County™s history that the County EOC was activated on such an unprecedented scale for an actual event. 
+
+Prior to this, EOC activations had been limited in scope, usually as a precaution during a large special event such as the Republican National Convention, Y2K or the Super Bowl.  Other EOC activations occur on a routine basis as part of scheduled drills or exercises.  EOC training was conducted for County staff prior to each exercise.
+
+County EOC staff truly underwent a ﬁtrial by fireﬂ.  Fortunately, the EOC staff had participated in three dress rehearsal exercises, three federally graded exercises, and a regional Weapons of Mass Destruction exercise within the past 12 months. This provided the EOC with a cadre of well-trained and experienced individuals.  Many of the trained non-OES EOC staff were unavailable for this activation as they were staffing their Department Operations Centers (DOCs).  This resulted in a large number of individuals staffing the EOC with limited training and exposure to EOC operations.  In spite of this, interagency coordination functioned effectively.  Coordination amongst EOC staff was seamless, despite the myriad of disciplines and agencies represented.
+
+This is attributable, in part, to the excellent support received from the various Department Operations Centers throughout the County.
+
+Individuals that served in the EOC are to be commended for their ability, commitment and dedicated efforts in support of those in the field. 
+
+Significant Events Proclamation of a Local Emergency, including a request for a Gubernatorial and Presidential Declaration; Public Information via the dissemination of 31 news releases and/or media advisories and regular press briefings; Delivery of resources to the field including medical supplies, heavy equipment, food and water, communications equipment and personnel; Damage Assessment Team activation provided accurate, timely information on damaged and destroyed homes and property; Documentation of ongoing events through numerous Situation Reports and Action Planning; Appointment of a Recovery Manager during the response phase.       San Diego County Firestorms 2003  After Action Report 3 Lessons Learned The importance of providing timely and accurate information to the public was underscored during the activation.  Additional methods and systems to rapidly notify the public need to be identified and implemented where feasible. 
+
+Drills/Exercises are invaluable for the proper operation of an EOC during a real event. 
+
+People respond during an emergency in the manner they have been trained.  Drills and exercises provide the tools necessary to ensure that EOC staff understand their roles and responsibilities and the actions required of them. 
+
+Interdepartmental Coordination Œ while interdepartmental coordination was excellent, we need to build on this and expand our cadre of trained County staff. OES needs to enlist the support of other County staff to represent them in the field at Incident Command Posts to garner more current information. 
+
+Facility/Infrastructure Œ the County™s Emergency Operations Center is well equipped with networked computers, but the EOC lacked crisis management software.  This gap was filled when E Team, Inc., offered the use of their software during the activation.  In addition, needed enhancements to the telephone and sound systems have been identified and solutions are being explored. Alternate EOC Œ the County™s alternate EOC is located in close proximity to the existing EOC and both facilities were threatened during the firestorms.  OES needs to explore more options for alternative EOC sites. 
+
+Evacuation, sheltering and subsequent claiming of large animals was problematic and at times animal rescue activities placed emergency responders in harm™s way.
+
+In many instances, animal owners did not have sufficient trailers/equipment to evacuate their animals.  The issues of community ingress/egress and the evacuation of animals need to be further explored and solutions identified.
+
+Conclusions  This After Action Report discusses the activities that occurred throughout the activation of the County™s Emergency Operations Center.  The document identifies problems and recommended solutions.  This report will serve as a blueprint for future planning and coordination activities. 
+
+These firestorms have underscored the extreme necessity for the public to be self-sufficient in disasters of this magnitude. 
+
+We intend to better integrate these lessons learned into public forums and educational materials.
+
+Cedar Fire Burns Into Ramona San Diego County Firestorms 2003  After Action Report 4 I.  OVERVIEW AND TIMELINE Saturday, October 25, 2003  1737 The Cedar Fire began.  The fire was human caused in the vicinity of Cedar Creek and Pine Hills Road west of Julian.  The Santa Ana Winds surfaced and carried the fire towards Ramona and the community of San Diego Country Estates.  2350 Radio Amateur Civil Emergency Service (RACES) notified the Office of Emergency Services (OES) Staff Duty Officer (SDO) that there was a precautionary evacuation of San Diego Country Estates, due to a fire that had started around 5:30 p.m. 
+
+Sunday, October 26, 2003  0130 The Paradise Fire began.  The fire was human caused in an area South of Rincon, East of Valley Center and North of Escondido.  0300 Sgt. Billick notified the OES SDO that the Sheriff™s Department Operations Center (DOC) was open for the fire that was burning up near Ramona.  0300 The DCAO for Public Safety, Harold Tuck, was notified by Barry Zuniga (Sheriff™s Office) of the fire and that the Sheriff was activating the Department Operations Center (DOC).  0330 The OES SDO received a call from the American Red Cross (ARC) that they had opened up Olive Pierce Middle School as a shelter.  0500 Undersheriff Drown called DCAO Tuck regarding the fires and stated that 30 homes had been lost in Ramona.  DCAO Tuck called OES Director, Deborah Steffen with this information.  0515 Deborah Steffen, Director of OES, called the OES SDO.  Debby requested the SDO verify this information.     0517 The SDO called the Sheriff™s DOC and verified that some homes were lost but they did not have an exact number.  0520 Deborah Steffen made the decision to activate the San Diego County Operational Area Emergency Operations Center (EOC).
+
+Notification of staff commenced.  0550 The OES SDO arrived at the EOC and began activation procedures, notifying other County and external agencies.  Paradise Fire Burns intoEscondidoSan Diego County Firestorms 2003  After Action Report 5 Summary of Resources Requested and Filled for October 26, 2003 Generator and lighting for Sheriff™sRoad Block in Ramona Filter Masks for EOC staff HEPA Filters on fans for EOC Generator and lighting in Lakeside Mutual Aid for Animal ServicesOfficers 0700 Herman Reddick, EOC staff, requested activation of the County Damage Assessment Teams to respond to the Cedar Fire.  CDF requested activation of the Damage Assessment Teams via established protocols at 0530.  0710 The Otay Fire began.  The fire started in the Mine Canyon area on Otay Mountain.  This fire was reported to the EOC some time after 1300 and the cause remains unknown.  0750 Deborah Steffen, based on intelligence from Charles Maner, San Diego Division Chief for CDF, proclaimed a Local Emergency and notified DCAO Tuck and CAO Ekard.  1120 The initial Proclamation of Local Emergency was modified by Walter Ekard, CAO and Director of Emergency Services, to add the Paradise Fire along with a request that the Governor proclaim San Diego County to be in a State of Emergency and that the Governor request a Presidential Declaration.  1330 The Policy Group discussed the most appropriate format for press conferences and decided that the Chair of the Board of Supervisors would be the spokesperson, supported by the Policy Group and Media & Public Relations.  1400 The Policy Group requested the Courts to consider closing their offices on Monday, to minimize health risks and to reduce traffic congestion to keep the roadways as clear as possible for emergency vehicles.  1500 The Policy Group made the decision to institute a limited operating schedule for County Offices on Monday, October 27th.  The following offices were closed:  all County libraries; Health and Human Services Family Resource Centers; Assessor/ Recorder/Clerk, Treasurer-Tax Collector; public offices of Planning and Land Use; Department of Public Works; Community Development; and General Services, with the exception of facilities services staff.  1530 The Policy Group made the decision to activate two recorded telephone numbers: one that the public could call to receive basic fire-related information and one for County employees to call to receive information about reporting to work.  1853 The EOC received notification from State OES that Governor Davis proclaimed a State of Emergency for Los Angeles and San Diego Counties.  1945 CAO Ekard contacted the San Diego County Superintendent of Schools to inquire if all schools under the supervision of the Office of Education would be closed on Monday.  2000 A representative from the County Office of
+
+Otay Fire at Otay Ranch San Diego County Firestorms 2003  After Action Report 6 Summary of Resources Requested and Filled for October 27, 2003 ASTREA mission to fly GIS personnel for GPS mapping Gloves; goggles and masks U.S. Coast Guard air ship Generator for Crest Fire Station 18 Generator and 50 cots for Campo Community Diesel fuel for Las Colinas Facility Escorts for M. E. to Barona  500 masks for Alpine Project City of San Diego: 1000 particulate masks; 50 medical dose packs; four 02 tanks/ regulators; 50 nebulizers Masks requested by Mira Mesa High School Shelter Flares and masks for Sheriff™s Department Two generators for Lilac Road  Supplies for Red Cross Shelter (eye wash; gloves; Tums; etc.) Education confirmed that all schools operated by the County Office of Education would be closed on Monday.  2355 EOC staff called the Medical Examiner™s office to confirm the number of fatalities.  The M.E. confirms there have been nine fatalities.
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 26, 2003.
+
+Monday October 27, 2003   0038 Sheriff™s Department advised they are evacuating Descanso and the Descanso Detention Facility. 
+
+Prisoners are being relocated to George Bailey Detention Facility.  1000 The Policy Group discussed the issue of how to handle access to the EOC facility as well as minimizing the number of persons in the EOC that were not essential to the operation.  Procedures to this effect were implemented.   1300 The Policy Group discussed the need for updating the County™s web page in order to provide current information on the fire.  1431 The EOC received notification, from State OES, that President Bush issued a federal Disaster Declaration for Los Angeles, San Bernardino, San Diego and Ventura Counties.   1545 State OES provided EOC staff with the FEMA DR # - 1498.  Official name of the fire is the ﬁ2003 Southern California Fires DR 1498ﬂ. 
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 27, 2003.       San Diego County Firestorms 2003  After Action Report 7 Summary of Resources Requested and Filled forOctober 28, 2003 100 Œ 200 masks for Escondido shelter 10 emergency animal evacuation rigs fromNorco Masks for elderly Œ Friendly Care Center Nine radios Œ AMR 800 mhz radios for medical personnel Ambulance for Mountain Empire High Schoolshelter Summary of Resources Requested and Filled for October 30, 2003 County Road Crew to clear North Peak Road 10 gallons of gasoline for two generators 500 5-gallon plastic pails to feed livestock One roll of 4 foot high 1ﬂ chicken wire for Lakeside Rodeo Temporary use of space at County Road stations in Valley Center and along I-8 and Hwy. 94 to store utilityequipment Food for volunteers at Lakeside Fairgrounds Three bulldozers to assist in restoring electricity Public Health nurses at Alpine Shelter Summary of Resources Requested and Filled for October 29, 2003 Generator for Descanso Detention Facility Generator with employees to Julian substation Small generator at Pine Valley Community Center Insulin at Campo Hotel and Meal extensions for Arizona Mutual Aid Staff for Animal Services Six RCS radios programmed for EMS Sandbags for Alpine Fire Ambulance for Mountain Empire Shelter, 3305 Buckman Springs Road Information Technology Coordinator for E Team Two teams of Mental Health cliniciansTuesday October 28, 2003  0900 Board of Supervisors met and ratified Proclamation of Local Emergency.
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 28, 2003. 
+
+Wednesday October 29, 2003  1530  CAO Ekard appointed Chandra Wallar, Department of Public Works, as the Recovery Director. 
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 29, 2003.  Thursday October 30, 2003  San Diego County Firestorms 2003  After Action Report 8 Summary of Resources Requested andFilled for October 31, 2003 Assistance to move plotter(HP880)from Sevilla Plaza to the EOC Summary of Resources Requested and Filled for November 1, 2003 40 birds to be moved from Guatay Œ Animal Services Four-wheel drive pick-ups for SDG&E Œ none available at this time Request for truck with lift-gate to move materials
+
+Public Health nurse at Alpine Shelter  Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 30, 2003.  Friday October 31, 2003  1300 Secretary Tom Ridge visited the EOC and received a briefing on the fire and ongoing operations. 
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Incident Action Plans developed on October 31, 2003.  Saturday November 1, 2003  1600 The County EOC was deactivated.  2000 The County EOC was secured.
+
+Additionally, there were EOC Briefings and Press Conferences conducted; Press Releases issued; Situation Status reports and Demobilization Plans developed on November 1, 2003. 
+
+Fire Recap Cedar Fire:  273,246 acres burned; 2,820 structures destroyed; 2,232 homes; 22 businesses; 566 outbuildings; 15 fatalities (14 civilians; and 1 firefighter). Cost $27,000,000 to fight.
+
+Paradise Fire:  56,700 acres burned; 413 structures destroyed; 221 homes; 192 outbuildings; 2 Civilian fatalities; Cost $10,300,000 to fight.
+
+Otay Fire:  46,291 acres burned; 6 structures destroyed; 1 home; 5 outbuildings; No fatalities; Cost $ 350,000 to fight.
+
+Crest Area San Diego County Firestorms 2003  After Action Report 9  The firestorms in San Diego County resulted in 383,269 total acres burned.  At the height of the fires, 5,754 personnel were assigned to fires in San Diego County.  A total of 2,453 residential structures, 22 commercial properties and 763 outbuildings were destroyed.  Approximately 3,000 large animals (horses and livestock) and 500 small animals were evacuated. There were 17 fatalities including 1 firefighter. 
+
+Cedar Fire ŒView from Helicopter San Diego County Firestorms 2003  After Action Report 10 II. EOC ACTIVATION AND FACILITY A. NOTIFICATION The County of San Diego Operational Area Emergency Operations Center (EOC) was activated on Sunday, October 26, 2003, at 0520.  Initial staffing included the OES Director, the OES Fire Services Coordinator, and the Staff Duty Officer.  Shortly thereafter, additional OES staff reported for EOC activation and support.  The EOC was organized in accordance with the Standardized Emergency Management System (SEMS) Regulations, (Government Code 8607). 
+
+OES staff contacted other off-duty personnel by telephone, using the County Departmental Emergency Contact List.  Each County department subsequently contacted their staff, as requested, to report to the EOC. 
+
+Representatives from the Sheriff™s Office were provided by their Department Operations Center located on the second floor of the EOC/Sheriff™s Communications facility. 
+
+The County Alert Service System (CASS) was not activated during this incident. CASS is a flexible automated notification system that allows for customization and multiple uses. Although some callback lists and notification scenarios had been created, CASS was not fully configured for use in notifying County staff to report to the EOC. This system was originally purchased by the Health and Human Services Agency (HHSA). It was intended for the notification of EMS and the Metropolitan Medical Strike Team during an emergency.
+
+CASS has subsequently been configured for use by OES with eight (8) unique scenarios, involving various levels of Alert and Notification.  At the EOC Notification Level, additional departmental contact names and numbers (that were not previously included) have been input into the CASS.  Points-of-contact now include representatives for each EOC position, even those staffed by non-County departments, such as Red Cross (Care & Shelter), CDF (Area Fire Coordinator) and SDG&E (Utilities). County departments and staff assigned to the EOC have been advised of their roles and responsibilities during EOC activation.
+
+What Worked Well  Use of the telephone to notify Department Heads and EOC Staff. 
+
+Staff responded to EOC rapidly. Emergency Contact List. 
+
+Problem Areas  Many of the County staff that were trained in EOC operations as their departmental EOC representative were unable to serve in the EOC during the fires.  As a result, for many EOC staff, it was their first exposure to EOC operations.
+
+Consequently there was a longer than normal learning curve. 
+
+Additionally, only OES staff was familiar with storage locations of required EOC supplies and equipment.  Finally, the majority San Diego County Firestorms 2003  After Action Report 11 of staff in the EOC were unfamiliar with the use of the EOC Local Area Network and the E Team software. 
+
+There was no formal check-in procedure for EOC staff.  This led to confusion as to where individuals were assigned, what color vest to wear, where to sit, etc.  The result was a seating arrangement in the EOC that did not allow for consolidation of each section. Notification of the public.  This will be addressed in the Public Information portion of this after action report.
+
+Recommendations Request County Executives and Department Heads assign designated staff to EOC Operations.  These designees would attend all training and exercises for consistency. Development of an EOC Activation Binder that includes instructions, forms, and lists of supplies and equipment for use by all EOC staff. 
+
+Complete the configuration of CASS to allow for its use in notifying County staff.  Include appropriate names and contact numbers for all shifts. 
+
+Establish formal EOC Check-in procedures.  This will help ensure staff is assigned to their appropriate function and avoid the confusion seen during the initial EOC activation. All County departments establish current call-back (notification) lists.
+
+B. ACCESS The Emergency Operations Center is located on the County Operations Center (COC) Complex. 
+
+This complex is secured during non-working hours.  The EOC building is secured 24 hours a day, seven days a week.  Access to both the COC Complex and the EOC is via magnetic key-cards.  After hours entry into the complex can also be gained at the west gate (off of Complex Street) by using the intercom at the gate to identify oneself to the Sheriff™s Watch Commander. 
+
+What Worked Well  All personnel who needed access were able to gain access with little delay. 
+
+Access control assisted in minimizing unauthorized personnel. 
+
+Problem Areas  Parking at the EOC has always been problematic.  It was exacerbated during the EOC activation. The front desk in the lobby had to be staffed at all times while the EOC was activated to facilitate access for EOC staff without key cards.  Delays sometimes occurred when front desk staff had to bring materials into the EOC or run other errands. Access to/egress from the COC after hours was difficult for those EOC staff without gate cards.    San Diego County Firestorms 2003  After Action Report 12 Recommendations Consider the use of temporary access cards for EOC staff assigned during activations. 
+
+Improve parking provisions for the EOC. 
+
+Provide the Sheriff™s Watch Commander with a list of authorized EOC staff. 
+
+Request assistance from the Sheriff or Probation departments in staffing the front desk to aid in site security and access control during activations. 
+
+C. PERSONNEL Once the Director of OES made the decision to activate the EOC, the OES Staff Duty  (SDO) Officer and the Fire Services Coordinator reported to the EOC, followed shortly thereafter by additional OES staff.  Upon arrival at the EOC and after a briefing by the Sheriff and Undersheriff, the Director, OES, directed that the EOC be fully staffed. 
+
+The EOC was organized in accordance with the Standardized Emergency Management System. 
+
+This consists of a Policy/Management Group, Operations Section, Planning/Intelligence Section, Logistics Section and Finance Section. The Sections organization is outlined below:
+
+Operations Section: Operations Section Chief Œ  OES/Sheriff Law Enforcement   - Sheriff Area Fire Coordinator  - OES Fire Services Coordinator/CDF Animal Control  - Animal Services Health Services  - Public Health, EMS & Mental Health Environmental Health  - Department of Environmental Health Care & Shelter  - Red Cross Construction & Engineering - Public Works & DPLU Parks & Recreation  - Parks & Recreation Utilities   - SDG&E Agriculture   - Agriculture, Weights & Measures Planning and Intelligence Section: Planning Section Chief - OES/San Luis Obispo Co. (Mutual Aid) Situation Status  - OES/Probation/San Luis Obispo County  Documentation  - OES/DEH Advanced Plans  - LUEG Staff Technical Support  - Air Pollution Control District Demobilization  - EOC Staff Logistics Section: Logistics Section Chief - Purchasing and Contracting/General Services  Purchasing   - Purchasing and Contracting Facilities   - General Services EOC Support   - General Services and other departments  San Diego County Firestorms 2003  After Action Report 13  Finance Section:  Finance Section Chief - Finance Director for the Public Safety Group  Cost Accounting Unit  - OES The EOC had previously been organized along departmental lines. 
+
+Approximately 18 months ago it was determined that organization along functional lines would enhance the ability of the EOC to deal with the myriad of emergencies possible within the San Diego Operational Area.  To this end, the process began to convert the EOC organization to reflect functions and not departments.  This process had not yet been completed when the EOC activated for the fires.  Consequently, the
+
+EOC organization was a hybrid of both functional and departmental units. 
+
+What Worked Well  Excellent cooperation among EOC staff despite multitude of disciplines. 
+
+Use of Emergency Managers Mutual Aid (EMMA) to augment SD-OES staff. 
+
+GIS Support from DPLU and Public Works, as well as SAIC and Pennant Alliance. Senior County management acted as buffer between EOC staff and elected officials.
+
+Problem Areas  EOC was too crowded.  County staff would arrive without being requested or assigned a role in the EOC. 
+
+Many individuals assigned to the EOC for the fires had never been in the EOC before.  They had no training regarding the purpose of the EOC or their roles and responsibilities in it.  This led to confusion on the part of a few over what section to work in, etc.  This pulled OES staff away from their assigned roles to assist in resolving these issues. 
+
+EOC organization was confusing.
+
+Recommendations Develop staffing pattern for EOC and limit access to those with an assigned role. 
+
+Request County departments to assign staff to the EOC in designated roles.
+
+Provide training to County staff assigned a role in the EOC. Complete organization of the EOC according to function, not department.  San Diego County Firestorms 2003  After Action Report 14  D.  FACILITIES AND INFRASTRUCTURE The County EOC is well equipped with computers, printers, faxes, projectors, etc.  The computers are maintained by the Sheriff™s Department and are on the Sheriff™s network.  Two diesel generators provide emergency power.  There are sufficient telephone lines to support both voice and data needs.  E Team emergency management software, previously installed on a trial basis for use during the Super Bowl Activation, was used during the response.  What Worked Well  EOC organization reflected SEMS. E Team software facilitated data collection. 
+
+Use of e-mail to provide Action Plan updates to EOC staff. Layout of EOC allowed informal discussions among EOC staff facilitating problem resolution and response support. Internal EOC communications. 
+
+Problem Areas  There was confusion among EOC staff as to how to log on to the system. 
+
+Staff could not connect to their normal e-mail because the Sheriff and Pennant Alliance do not have a ﬁTrusted Domainﬂ agreement. 
+
+Internet access required setting changes on each individual computer. 
+
+Policy Group/Public Information Officers did not have access to Sheriff™s network. 
+
+Telephone system does not provide voice-mail or rollover capabilities.  This led to the potential for missed calls if individuals were away from their positions. 
+
+Sound system had excessive ﬁfeed-backﬂ during briefings. There were insufficient status boards.  Some status boards that were used were improvised ﬁon the flyﬂ and did not exist prior to the EOC activation. The air quality in the EOC facility was poor.  Outside air, taken in by the air conditioning system, was smoky and ash-ridden.  This made it extremely uncomfortable and required dust masks to be issued to EOC staff. 
+
+Seating in the EOC was inadequate for the excessive number of people who were present.  Recommendations Provide training on the computer system to all staff assigned to the EOC. 
+
+Mark each EOC position with function title, e-mail address and log-on.  Password will be provided at the time of activation. 
+
+Permanently install E Team in the EOC. 
+
+Provide a separate server for the EOC to minimize Internet connectivity and security issues.  This will also allow access to E Team for the Policy Group and PIOs. 
+
+Request PIO Staff bring wireless laptops to provide them access to the Sheriff™s network. San Diego County Firestorms 2003  After Action Report 15 Improve the EOC telephone system to provide for a messaging capability. 
+
+Modify sound system to reduce/eliminate ﬁfeedbackﬂ. 
+
+Develop and install permanent status boards. Provide a filtered air system for the EOC. 
+
+Limit access to the EOC to those individuals with an assigned role. 
+
+Provide copier in or adjacent to EOC. Provide private location for conference calls.   San Diego County Firestorms 2003  After Action Report 16 III. EOC OPERATIONS A. MANAGEMENT/POLICY   1. Policy Group The Chief Administrative Officer (CAO), Deputy Chief Administrative Officer for Public Safety Group (DCAO-PSG), the Deputy Chief Administrative Officer for Land Use and Environment Group, the Chair of the Board of Supervisors, the Director of Media and Public Relations and the OES/EOC Director made up the core Policy Group. 
+
+Also in the Policy group at various times were the Assistant CAO, the other DCAOs and key department heads.  Media and Public Relations staff, assisted by members of the County Media Team, supported the Policy Group by acting as Public Information Officers for the EOC. 
+
+Roles And Responsibilities  The Policy Group (also referred to as Management) is responsible for the overall emergency policy and coordination through the joint efforts of government agencies and private organizations.  They set priorities, establish any necessary constraints and limitations, keep the members of the
+
+Board of Supervisors informed of the progress of the response effort, provide emergency information to the public, coordinate with the cities, state and federal governments.
+
+Support staff included Public Information Officers (PIOs).  PIOs ensure that information support is provided upon request; that press releases and press briefings are consistent, accurate and timely; and that appropriate information is being provided to all required agencies.  Other support positions may include Liaison Officers, whose role is to coordinate with representatives from outside agencies present in the EOC, and the CAO Chief of Staff, who ensures that the County website reflects information the Policy Group wants disseminated and keeps CAO/DCAO staff informed of relevant developments. 
+
+Activities  The OES Director was the first Policy Group member to arrive at the EOC early Sunday morning. She immediately assumed her position of EOC Director. She received a short briefing from the CDF Division Chief via telephone which indicated that, at that time, reports indicated at least 30 homes had burned but the potential for much higher numbers was there and that mutual aid resources were requested but might not arrive as quickly as needed.  Based on that information, the EOC Director proclaimed a local emergency in accordance with County of San San Diego County Firestorms 2003  After Action Report 17 Diego ordinance and the County Emergency Plan. The local proclamation was signed at 07:50 on Sunday, October 26, 2003.
+
+The EOC Director notified the Deputy CAO, Public Safety Group and CAO of the emergency proclamation and both arrived on scene at the EOC shortly after. The CAO immediately assumed his role as head of the Policy Group and gathered information on the situation and made contact with elected officials.  The Chair of the Board of Supervisors also reported to the EOC as did the DCAO for Land Use and Environment Group.  Throughout the week-long activation, the ACAO and DCAOs for Health & Human Services Agency, Community Services Group and Finance & General Government also served at the EOC.
+
+The Policy Group was faced with several decisions during the EOC activations including: which county employees should report to work on Monday, 10/27 and how to contact them; how to set up informational systems to communicate with the public about fire information and county services and how to protect essential County employees in facilities impacted by smoke and ashes.
+
+By mid-morning, through media reports and information from the Sheriff™s Department, it became apparent that this disaster would far exceed local resources. Therefore, at 11:20 a.m. the proclamation of emergency was modified to request a Presidential declaration and add the new fire (Paradise) that had started, to the Proclamation. The CAO signed the proclamation, which was ratified by the Board of Supervisors on November 4th, 2003. 
+
+Throughout the week-long activation, the EOC Director set the operational periods for the incident action plan and developed the overall EOC objectives. The EOC Director also determined the briefing schedule. Briefings were held every one to two hours during the day shifts (0600-1800) and less frequently in the evening shifts. 
+
+VIP Visits  By the third day of the EOC activation, the EOC became the site for out-of-area dignitaries, elected officials and their staffs to visit. In some cases, the first hand observations these visitors received helped to facilitate requests for federal assistance. The CAO and DCAO of
+
+Public Safety were vigilant to mitigate the effects of these visits on EOC operations.  San Diego County Firestorms 2003  After Action Report 18 What Worked Well  Seven (7) exercises were conducted in the year prior.  One of the exercises was geared to the Policy Group. That exercise helped to familiarize policy makers with EOC operations and also demonstrated that the Policy Group needed to be fairly small to be effective. 
+
+Presence of the CAO, DCAOs of PSG and LUEG and the Chair of the Board of Supervisors in the EOC facilitated rapid resource requisition and decision-making. 
+
+CAO appointed a Recovery Director to begin the process of setting up Local Assistance Centers and handle recovery issues. This freed up the EOC staff to focus on response issues. Senior County management acted as buffer between EOC staff and elected officials.  Problem Areas EOC sometimes became overcrowded with visiting dignitaries and other ﬁinterested parties.ﬂ Policy makers were required to make decisions with the best information available. 
+
+Due to the erratic fire behavior, timely information on fire activities was not available. Policy Group (located outside the EOC proper) did not have adequate computer capability.  Recommendations Review designated Policy Group outlined in County Emergency Plan to determine if revision is necessary. Control traffic into the EOC more closely. 
+
+Consider a no-entry rule for out-of-area visitors for at least the first 2-3 days. Provide laptop computers for Policy Group.  2. Public Information Officer (PIO)
+
+The Public Information Officer role, performed by the Media and Public Relations staff and assisted by members of the County™s Media Team, provided press releases and scheduled press briefings throughout the week-long activation.  In addition, they also created content which was used to update the County™s web site.  What Worked Well  Press briefings conducted by Policy Group members helped put a face on the emergency. 
+
+The presence of the CAO, Sheriff, Chair of the Board of Supervisors, etc., lent credibility to the information being provided.  San Diego County Firestorms 2003  After Action Report 19 County™s website was updated whenever new information was available. 
+
+Development of web page unanticipated but readily accomplished. 
+
+Ability to get answers from EOC staff and provide to media/public. 
+
+Situation Reports and EOC Briefings were available and held in timely manner. 
+
+Interagency communication and coordination was great.  Problem Areas  PIO staff could not access Sheriff™s network. Department of Media and Public Relations ID badges did not allow access to COC or EOC doors, or Sheriff™s DOC. 
+
+Insufficient workspace and resources. 
+
+PIO staff was inundated with Rumor Control calls from public. 
+
+Multiple single agency press conferences were confusing to the public. 
+
+Recommendations Have PIO staff bring laptop computers to EOC to allow access to Sheriff™s network. 
+
+Recode ID badges to allow access to EOC and Sheriff™s DOC. 
+
+Move DMPR out of Policy room to adjacent Multi-Agency Coordination room and move the desktop computer in the library to this space.
+
+Have Chief Technology Officer and Pennant Alliance assign a full time Webmaster to EOC for incidents.  That person should bring a laptop computer with the software needed for web programming and should report to the CAO Chief of Staff. 
+
+Have DMPR assign a liaison to work with Board staff and CAO to provide information. Designate Non-DMPR staff to be assigned to rumor control for the public. 
+
+DMPR to work with counterparts in other agencies to coordinate information releases. 
+
+Notification of the Public The general public was kept informed through press releases and press briefings.  Sheriff deputies contacted those families and individuals who needed to evacuate by going door-to-door in the early morning hours of Sunday, October 26.  Other means of informing the public include use of the Emergency Alert System (EAS).
+
+Upon request from public safety agencies, OES can activate the EAS for Civil Emergency Messages. These messages could be emergency alerts regarding any threat to life and property which is deemed to be of such an emergent nature that immediate action is necessary by some segment of the County™s population in order to save lives.  In order to avoid panic, the messages must contain specific accurate information as to what the public is being asked to do.  If specific information is not available, activating the EAS could cause more harm than good by clogging roads and preventing access of emergency vehicles. San Diego County Firestorms 2003  After Action Report 20 When requested by a Public Safety Agency, OES contacts the radio station to activate EAS.  The station asks for password verification and then receives the message by fax or by voice over the phone.  They then record it and broadcast it to all of the other stations in San Diego County, including radio, television and cable TV.  Television stations will also convert the voice message to text and scroll it across the screen.
+
+The Sheriff considered the use of EAS as a mass notification tool when the evacuations began early Sunday morning.  There were several reasons why the system was not used:
+
+The fire was moving so rapidly that reliable information as to the fire™s location and path was not available.   o It is dangerous telling people to evacuate without providing them with routes and locations to go.  This can jam the few roads out of the area with people who do not need to evacuate, preventing those in danger from leaving in a timely manner.   o Without accurate travel route information, people could evacuate towards the fire, putting them in greater danger than if they had not evacuated. 
+
+There was concern that due to the time of day, people would not get the EAS message because they were sleeping, not watching TV or listening to the radio. 
+
+Deputies were already going door-to-door asking people to evacuate. 
+
+As a viable alternative to EAS, the Sheriff™s PIO attempted to contact each of the radio and television stations directly.  He was able to reach a live person only at KOGO radio and KGTV. 
+
+Both agreed to broadcast his information on evacuations. 
+
+Recommendations Review notification process, procedures and systems available for improvements needed.  3. Safety Officer The EOC Director appointed a safety officer to monitor activities within the EOC.  The safety officer provided a safety message for the EOC Action Plan and at each briefing and monitored EOC staff for signs of stress, overwork and exhaustion and developed safety information for County staff being deployed to the field.  4. Liaison/Agency Representative Representatives from the California Highway Patrol (CHP) and State OES were present in the EOC.  They provided a point of contact for their agencies, facilitating two-way communications between the EOC and their operations centers.  The CHP liaison(s) was instrumental in providing road conditions and closure information.  This was critical when moving equipment and supplies into or through the impacted areas.
+
+The State OES representatives acted as our conduit to the Regional EOC located at Los Alamitos in Orange County.  They processed our Proclamation of a Local Emergency and assisted in obtaining individuals through the Emergency Managers Mutual Aid (EMMA) system to augment San Diego County Firestorms 2003  After Action Report 21 EOC staff.  State OES also facilitated our request for federal support when we requested satellite GIS data to map the fire areas.  Although the Federal government never granted this request, State OES, Southern Region, worked hard on our behalf. 
+
+B. OPERATIONS  1. Fire Operations Upon activation of the EOC, the Fire Services Coordinator (FSC) contacted CDF as the Area Fire Coordinator, to request a representative to fill the Fire Operations Branch Leader function.  Because every available asset was dedicated to fire-fighting activities, a Fire representative was not available.  As a result, the OES Fire Services Coordinator acted as the Fire Operations Branch Leader until Monday, when a representative from CDF was assigned.  However, later in the week the CDF representative was reassigned out of the EOC as the result of the death of an out-of-area firefighter.  The OES FSC then resumed the role of Fire Operations Branch leader. 
+
+What Worked Well  The OES Fire Services Coordinator was granted access to the Fire Incident Briefing Forms (ICS 209) by CDF. (ICS 209 forms are only updated once a day).  The EOC also received updates from the damage assessment teams. 
+
+Problem Areas  Not having a true Fire representative in the EOC hampered our ability to receive current, updated information on the progress of the fires. 
+
+Recommended Actions Work with CDF as the Area Fire Coordinator and other local fire agencies to develop protocols to ensure there is a fire services representative in the EOC. 
+
+Provide a trained County employee to be the EOC™s representative at the Incident Command Post.   2. Law Enforcement Operations Upon activation of the EOC an Assistant Sheriff was assigned to the role of Law Enforcement Operations Branch Leader.  A deputy sheriff was also assigned to assist. This level of staffing was maintained throughout the activation.  In this role they coordinated with CHP, San Diego Police Department and other law enforcement agencies. fighting San Diego County Firestorms 2003  After Action Report 22 Towards the end of the activation, the Assistant Sheriff also functioned as the Operations Section Chief for the night shift.
+
+The field activities of the Sheriff and other area law enforcement agencies will be detailed in the After Action Report being prepared by the Sheriff.  This will be published as a separate document. 
+
+What Worked Well  Coordination between the Sheriff™s EOC representatives and their DOC. Coordination with CHP and other law enforcement agencies. 
+
+Providing current, accurate information regarding law enforcement field activities and road closures.  Problem Areas  Lack of fire intelligence caused significant problems.  The Law Enforcement Operations Branch Leader had to get fire location information from the Sheriff™s DOC, which was also experiencing a critical lack of timely information on fire location and behavior, especially during the first day when it was moving so rapidly. 
+
+The large number of different fire fronts was also problematic. 
+
+Too many extraneous personnel in the EOC slowed the work product of the Law Enforcement Branch.  3. Health and Human Services  a. Public Health / EMS The Emergency Medical Services (EMS) Duty Officer was notified of the fire at approximately 0115 hours on October 26. The Duty Officer remained in contact with the Sheriff™s Department Operations Center (DOC) throughout the night. At approximately 0730 hours, the Duty Officer was notified of the activation of the Emergency Operations Center (EOC), and two EMS Duty Officers arrived at the EOC at 0805 hours. The Health and Human Services Agency DOC was activated at this time and remained operational through October 27th. The EMS Duty Officers, Public Health Officer, and the Deputy Director for Public Health Services staffed the EOC until it was deactivated on November 1, 2003. 
+
+What Worked Well Deployed 85 nurses, who worked 115 shifts totaling 1020 hours at Red Cross and community-based evacuation shelters. 
+
+Sunday October 26, 2003  Sheriff™s pilot Gene Palos arrives at the south side of the Cedar Fire San Diego County Firestorms 2003  After Action Report 23 In collaboration with Department of Environmental Health, provided health care advisories to the public via the media, on air and water quality information, and the necessary steps to ensure public health and safety. Provided medications and supplies to clinics, evacuation shelters and hospitals in need. These included protective masks, oxygen and medications. 
+
+Developed contingency plans to evacuate five hospitals threatened by the fire if the need arose. 
+
+Organized staffing teams for day and night shifts in the EOC to achieve continuity of operations. Use of the Ambulance Coordinator to manage a shuttle system for public needing transportation to the evacuation sites. 
+
+Obtained waiver to allow EMS system to revert to one paramedic and one Emergency Medical Technician, thus freeing many firefighter/paramedics to work solely as firefighters. 
+
+Obtained waiver to allow transporting ambulance the option of taking an injured firefighter to a state-contracted Disaster Medical Assistance Team (DMAT) base for treatment instead of transporting them to a hospital emergency department, allowing fire personnel to be treated and rapidly returned to the fire lines. 
+
+Excellent collaboration with internal and external partners: o County Mental Health o County Environmental Health o County Parks and Recreation o Sheriff™s Department and California Highway Patrol o San Diego County Healthcare Association and Hospital EOCs o San Diego County Ambulance Association o American Red Cross, Navy Region Southwest and Naval Medical Center San Diego o California Department of Forestry and Fire Protection Problem Areas HHSA DOC did not activate in the first operational period, and after opening, closed after the second day. Communications from media telling employees to stay home affected hospital staffing levels. Not enough phone lines in EOC to take incoming calls. 
+
+Inadequate communications with hospitals, clinics and shelters. 
+
+Uncoordinated press conferences with City and County did not allow for health information to be disseminated accurately. 
+
+Essential medical and volunteer staff turned back by law enforcement. 
+
+Limited medical infrastructure in the rural areas. 
+
+Public Health Nurses at the Borrego Springs Shelter San Diego County Firestorms 2003  After Action Report 24 Overload of rural clinics as medical evacuation centers and their care of medically fragile patients (e.g. Alzheimer™s patients). 
+
+Unauthorized medical operations at Qualcomm Stadium. 
+
+Need to plan for childcare during disasters to ensure healthcare staffing levels. Need to clarify staffed versus non-staffed beds for hospitals and clinics. Requests for supplies that could not be met in first 24 hours and transportation of supplies and medications to hospitals/shelters/clinics. Lack of equipment in rural clinics and facilities. 
+
+Transportation of patients from lock down units or incarcerated patients. Perception that needs of medically fragile and special needs patients may go unmet. 
+
+Recommendations Open DOC in first operational period, and consider staffing levels and hours of operation for subsequent operational periods. Medical/Health information and messages to media should identify essential personnel who must report to work in order to maintain critical services. Utilize different communication methods (i.e. QANET, RCS radios, RACES/ARES and EMAN) to get information to hospitals, and clinics. 
+
+Improve communication by utilizing E Team, the Joint Information Center, and the PIO Network. Work with law enforcement on developing a protocol for allowing critical employees through roadblocks.  Coordinate media information releases through the HHSA PIO Network. Utilize external triage and treatment sites and coordinate with the EOC for more supplies and staff. 
+
+Work with the City of San Diego to identify authorized shelters and redeploy medical assets to these authorized shelters. 
+
+Encourage hospitals to contract with local preschool and after school programs to import day care into hospitals during a disaster.  Contract with local retirement homes for adult day care. 
+
+Provide clear definitions and review plans to ensure definitions are the same at each facility regarding staffed and non-staffed beds. Provide education to healthcare providers regarding requesting supplies and medications early to DOC/EOC in an emergency. 
+
+Assess clinic equipment and supply needs and consider regional mechanisms to provide temporary pharmacy capabilities and provide caches of medications and supplies for isolated/rural health care facilities used as shelters . 
+
+Inventory which hospitals have mental health patients and prisoners and review evacuation plans. Also consider skilled nursing facilities. 
+
+Work with home health agencies and fire departments to identify and recognize special needs patients.    San Diego County Firestorms 2003  After Action Report 25 b. Mental Health Services Mental Health Services (MHS) deployed to the EOC on a 24-hour basis on October 26, 2003. 
+
+Mental Health personnel also increased staffing for the 24-Hour Access and Crisis Line. 
+
+Personnel also deployed to Red Cross evacuation shelters, Local Assistance Centers, Community Resource Centers, and the community at large through mobile outreach. Staff was able to identify and analyze the needs of special target populations among the survivors, and develop educational materials targeting disaster survivors.
+
+What Worked Well  Staff was previously trained in disaster response. Collaboration between HHSA and Mental Health. Community very appreciative of assistance given. Collaboration between Mental Health Services and American Red Cross. Use of County vans for transportation. Capacity to respond to diverse ethnic communities. Partnering with contractors to augment County of San Diego Disaster Service Mental Health Workers improved services offered and reduced burnout of staff.  Problem Areas  Unable to contact staff with current technology including cell phones. ID Badges were area specific; had problem entering some areas. 
+
+Collaboration with National Organization for Victim Assistance (NOVA) could have been better. 
+
+Lack of mobility of staff in and to remote/rural areas such as Julian/Borrego Springs. Duplication of effort in researching and tracking data. Some staff worried about own homes and family members. 
+
+Need more staff to take on multiple logistical details of response and coordinating functions. Some field locations were stark, cold, not easily accessed and parking was difficult.
+
+Recommendations Issue satellite phones for use in rural areas Issue vests to ID staff; magnetic signs to mark private cars. 
+
+Provide knowledgeable liaison to interface with external agencies such as NOVA. 
+
+Provide mobile home for counseling team use while in rural areas to improve the mobility of staff and reduce travel time. 
+
+Implement protocol to have contractors contact MHS Administration with program status in event of disaster. Maintain list of emergency numbers for contract agency corporate administrators. 
+
+Update phone trees every three to six months and collect copies for a central file. Develop checklists for immediate response tasks. San Diego County Firestorms 2003  After Action Report 26 Develop evacuation plans and train managers on decision-making protocol for evacuation of programs. 
+
+Consider formally integrating other agency teams into Mental Health, such as Public Health Nurses. 
+
+Disaster Coordination support team should be formed and trained to support the Disaster Coordinator functions. Have protective masks available and shirts and jackets with County of San Diego logos.   4. Hazardous Materials/Environmental Health The Hazardous Materials and Environmental Health Branch was staffed by the County™s Department of Environmental Health (DEH).  DEH assisted in the damage assessment process while continuing to provide their normal day-to-day services to the residents of San Diego County.  In addition, DEH provided the following fire-related services:  Conducted damage assessments and provided guidance on recovery for retail food facilities, multi-family dwellings, and public swimming pools. Polled local agencies permitted for the use or storage of hazardous materials to determine if they had been impacted by the fire. 
+
+As the Local Enforcement Agency (LEA), DEH granted waivers to local landfills to allow them to accept increased waste tonnage.  DEH also advised other departments on debris removal. 
+
+The Household Hazardous Waste program planned and implemented three temporary events and expanded service at the Ramona facility. 
+
+The Vector Control program looked for inoperative pools for mosquito control and conducted rodent control and abatement activities.  The Occupational Health program assisted with evaluating air quality of County work locations and advising the public on home air quality. 
+
+Inspected permitted Small Water Systems that were affected by the fires. 
+
+Inspected mobile home parks damaged by the fires. 
+
+Inspected private water wells damaged by the fires. 
+
+Provided drinking water disinfection information to the public. 
+
+Responded to Effluent on the Ground (EOG) complaints to ensure public safety. Issued over-the-counter permits for repairs to septic systems for fire related re-builds of residences.
+
+Provided guidelines for septic system repairs for fire related re-builds of residences. 
+
+Provided guidelines and assisted in the issuance of Emergency Temporary Occupancy Permits (ETOP). 
+
+Provided staff to represent DEH at the Alpine Local Assistance Centers.  Ramona opened on 11/2/03 and Valley Center on 11/3/03. Assisted in the maintenance of the fire related web page. Burned drums in the Crest area San Diego County Firestorms 2003  After Action Report 27 What Worked Well  Under the emergency conditions, all departments that DEH interfaced with worked in a high level of coordination and cooperation.  Problem Areas  The implementation of an automated employee notification system would have saved time in contacting staffing by telephone. 
+
+Check-in procedures need to be implemented. 
+
+Recommendations Check in procedures should include: - An e-mail address unique to that position.  - An organization chart.   - Briefing on the E Team system.  5. Animal Services The County of San Diego™s Department of Animal Services reported to the Emergency Operations Center during the first shift on Sunday, October 26th. Animal Services personnel were present at both shifts for the first 72 hours of EOC operations, and worked day shifts thereafter until the EOC was deactivated.
+
+The Department of Animal Services is the lead agency in a disaster of any kind involving animals.  It is estimated that the Department, its supporting agencies and volunteers evacuated approximately 3000 large animals (horses and livestock) and 500 small animals during the course of the firestorms.
+
+After the animals had been evacuated from the disaster area, the next issue was where to house such a large number of animals.  The small animals (dogs, cats, birds, etc.) were housed at the Department™s three Animal Shelters located in Carlsbad, San Diego, and Bonita.  Horses and livestock evacuated from the fires were initially housed at staging areas in Lakeside and Ramona.  While many of the horse and livestock owners quickly made plans to move their animals from the staging areas, any unclaimed horses at the staging areas were subsequently transported to the Del Mar Fairgrounds for housing.  The unclaimed livestock were transported to the San Diego Humane Society™s large animal facility in Poway.  It should be noted that the majority of the transporting from the staging areas to the Del Mar Fairgrounds and/or the Poway facility was conducted through the use of volunteers organized by Mary™s Tack and Feed, a local feed and tack store based in Del Mar.  This volunteer assistance allowed the Department to keep their staff where they were needed most, namely in the evacuation areas. 
+
+In cases where owners had evacuated with their animals, staff from Animal Services and the Humane Society provided information to the owners, of volunteers in the area that could house their animals for them.  This helped eliminate overcrowding at the shelters and left space available for the stray animals from the fire zones.  Through donations from companies such as San Diego County Firestorms 2003  After Action Report 28 PETCO, many people were able to stay at evacuation areas such as Qualcomm Stadium, and keep their animals nearby in crates and cages donated by the business.  Only a few owned animals were housed at the County shelters until the owners could make other arrangements.
+
+Animal Services also coordinated the procurement and disbursement of animal feed and supplies to the staging areas and the evacuation centers.  In addition, the Department served as an information ﬁclearing houseﬂ between private companies such as PETCO and individuals wishing to donate supplies and the individuals in need. 
+
+Despite the overwhelming number of animals evacuated, all of the horses have been reclaimed by their owners and, as of December 12th, only two goats and one dog have been unclaimed. 
+
+Mutual Aid  To a very large degree, the Mutual Aid received from outside agencies worked extremely well. 
+
+Problems arose, however, when it came to communications between agencies.  To minimize this problem and to ensure that Mutual Aid agencies did not get lost while in the evacuation areas, they were paired with Animal Control Officers or San Diego Humane Society staff that were familiar with the areas and that had radio contact with the Department™s Dispatchers. 
+
+The Arizona Humane Society responded with two rescue ambulances and a mobile hospital to care for any animals injured in the fires.  They assisted with the care of the animals being brought into the Lakeside staging area for a total of four days. 
+
+The Imperial County Animal Control sent one officer to assist with evacuating animals. 
+
+Unfortunately when people started evacuating eastward to El Centro, the officer was ordered back to El Centro to handle the influx of animals there.
+
+Norco Animal Control initially responded with a total of 21 trucks and horse trailers to assist with the evacuation and transportation of horses.  Due to a miscommunication at a staging area, however, they returned to their base in Norco.  The following day, even though many of their people and vehicles were assigned to assist with other fires, a total of four trucks and trailers returned to San Diego County but were again turned back upon arriving at a staging area. 
+
+The San Diego Humane Society called in numerous agencies and organizations to assist with the evacuations.  Those agencies included: The Humane Society of the United States, S.E.A.A.C.A. (Southeast Area Animal Control Authority), Society for the Prevention of Cruelty to Animals (SPCA) Los Angeles, the San Diego Sheriff™s Mounted Unit, San Diego Police Mounted Unit, Chula Vista Police Mounted Unit, US Border Patrol and the Riverside County Sheriff Mounted Unit.  The Mounted Units were of a tremendous assistance as they were able to quickly and safely load horses that were spooked from the fires. 
+
+The 22nd District Agricultural Association - Del Mar Fairgrounds played an integral part during the firestorms.  On Sunday morning, when it became apparent that hundreds of horses were being evacuated from the areas, a suitable place to house and care for the animals was suddenly a necessity.  The Del Mar Fairgrounds was contacted and immediately agreed to receiving and caring for any horses evacuated as a result of the fires.  The Del Mar Fairgrounds coordinated the San Diego County Firestorms 2003  After Action Report 29 volunteers necessary for the care of the horses and was put in contact with a feed store nearby to obtain feed and supplies.  The Del Mar Fairgrounds handled the intake of all of the horses and also the claiming of horses that were identified as being ﬁownedﬂ.  Animal Services staff at the Fairgrounds handled the claiming of the ﬁstrayﬂ horses from the facility.
+
+In an effort to save time, the El Cajon Animal Shelter provided kennel space for a day for animals impounded by the Department.  This allowed the officers to quickly unload and return to the evacuation areas rather than have to drive further to kennel their animals at a County facility.  What Worked Well  Transportation of animals to the San Diego Humane Society™s large animal facility in Poway and to the Del Mar Fairgrounds. Volunteers organized by Mary™s Tack and Feed based in Del Mar provided the majority of the transporting. 
+
+The coordination of procurement and disbursement of animal feed and supplies to the staging areas and the evacuation centers. 
+
+Donations from PETCO and other companies. 
+
+The cooperation of numerous Mutual Aid agencies and organizations that assisted Animal Services. 
+
+Problem Areas Need for public education of animal owners on the necessity to have the means/equipment to move their animals in an emergency. 
+
+Owners need to have their animals micro-chipped for purposes of positive identification. 800-megahertz radio communication system was overwhelmed by amount of traffic, resulting in inability to quickly relay information to the officers in the field. 
+
+Recommendations Educate animal owners on crates and trailers necessary to move their animals in an emergency. 
+
+Encourage animal owners to microchip their animals for identification purposes. Seek additional 800-megahertz capability for Department for use in an emergency.  6. Construction And Engineering  a. Roads/Public Works The Department of Public Works (DPW) personnel reported to the EOC on the morning of October 26.
+
+Public Works personnel staffed the EOC during its entire activation and performed the following:
+
+Assisted law enforcement with road closures and opening in the burn areas. Road crews worked to keep roads free of obstructions such as burned trees and fallen signs. San Diego County Firestorms 2003  After Action Report 30 Provided regular reports to EOC staff and media regarding roadway status. 
+
+DPW engineers assisted the Department of Planning and Land Use (DPLU) with damage assessments. 
+
+Assisted CDF in setting up and operating the fire base camp at Gillespie Field. 
+
+Assessed roadway infrastructure damage. 
+
+Formulated and initiated plans to repair infrastructure damage. 
+
+Set up, stocked and staffed Homeowners Erosion Control Centers at five DPW Road Stations. Assessed issues concerning erosion control related to both private property and the public right-of-way. Formulated and implemented erosion control plans. 
+
+Assessed issues related to debris removal in the burn areas. 
+
+Formulated and implemented debris removal plans. 
+
+Assisted in the set up of the Local Assistance Centers. 
+
+What Worked Well Having the various agencies together in the EOC assisted greatly in the quick resolution of problems. 
+
+The DPW Emergency Response Plan.  The DPW Resource book was invaluable to DPW personnel staffing the EOC. The DPW callback system enhanced notifying staff and getting them in place to perform their duties in the EOC and in the field. The DPW Shift Change Policy was in place and assisted greatly in implementing 24-hour staffing.
+
+Problem Areas  Communications: Cell phone and 800mhz radio coverage was problematic. 
+
+Information Technology:  Into second day of firestorms before staff figured out how to access County e-mail. 
+
+Geographic Information Systems: Numerous IT problems encountered by DPW staff in providing GIS Mapping support at the EOC. 
+
+Desk space was cramped at the EOC, which made it difficult to keep reference material organized and accessible. 
+
+There was little time to monitor the TV, which seemed the best source to get information on the fire. There was initial difficulty in setting up charge numbers and sub-tasks to accurately track activities for accounting purposes. Over a long disaster, the depletion of trained DPW staff available to work in the EOC is a real possibility. No information provided to staff on contingency plans when the Fire threatened the EOC.   San Diego County Firestorms 2003  After Action Report 31 Recommendations Encourage additional 800mhz radio coverage of County. 
+
+Develop written procedures on accessing County e-mail for EOC responders. 
+
+Provide dedicated GIS workstation with appropriate hardware and software in the EOC. Increase workspace at each EOC workstation. Provide additional EOC/SEMS training to DPW staff. 
+
+Provide written contingency plan at EOC positions for possible threat to EOC.  b. Damage Assessment As a result of the fires of 2002, DPLU, working with the Office of Emergency Services, had previously created two standing  damage assessment teams.  The early response by these teams is unique in California and enabled the County to conduct windshield surveys of damaged areas and provide GIS mapping during the incident.  At the height of the fires, 20 teams were deployed on the Cedar Fire with an additional five teams on the Paradise Fire.  Approximately 75 field staff were assisted by an additional 28 support staff at the COC Annex.  The two standing Damage Assessment Teams are comprised of individuals from the San Diego County Department of Planning and Land Use and Rancho Santa Fe Fire Protection District. The team made early contact with representatives of the American Red Cross.  The American Red Cross was continually updated with loss data throughout the incident.  Red Cross staff accompanied the Damage Assessment Team and assisted in the overall inspection, along with select City of El Cajon staff. The Bureau of Indian Affairs (BIA) calculated damage and inspected for structural and other losses on reservation land.  This effort was completed in detail by individual tribes through reservation leadership.  Additionally, the Department of Parks and Recreation - Rancho Cuyamaca State Park conducted their own damage assessment.  Similarly, the City of San Diego and the City of Poway, in cooperation with the County Teams, provided their own individual Damage Assessment Teams and loss data for their respective cities.  All agency reports are incorporated within one complete Damage Assessment Report for the Cedar Incident.  All agencies used the County format to compile data. 
+
+The teams were assigned to inspect, photograph,
+
+GPS locate and document damage to structures, out buildings and vehicles and to identify agricultural impact to crops.  Additionally, the teams were asked to coordinate with all agencies affected by the fire.  The Damage Assessment personnel assigned to the Cedar Fire from the County of San Diego were from the Department of Planning and
+
+Land Use (DPLU) Building Division, Code Enforcement, and GIS sections.  Other County Harbison Canyon Area Looking towards Valley View Casino from Ahern Ranch Road San Diego County Firestorms 2003  After Action Report 32 Departments utilized were Environmental Health and the Agricultural Department.  The teams were enhanced with members from the Rancho Santa Fe Fire Protection District and the Red Cross for the Paradise Fire.  At the height of the inspection process, twenty-five (25) field teams and nearly one hundred (100) total personnel were supporting the incident, as requested by CDF. 
+
+For the Paradise Fire the team was assigned as for Cedar fire.  Additionally, they were asked to coordinate with the Indian Reservations (San Pasqual and Rincon).  The reservations would document their structures damaged and provide DPLU with their totals. The Damage Assessment personnel assigned to the Paradise Fire were from Building Division, Code Enforcement, GIS section, Environmental Health, Agriculture Weights and Measures (all from San Diego County), as well as from Rancho Santa Fe Fire Protection District and the Red Cross. 
+
+The Team™s observations regarding losses were that vegetation clearance was a major key to the loss of structures and improvements from this fire.
+
+It was observed that many of the homes in the area did not have good defensible space.  Many of the homes were located next to the edge of the ridge tops or brow of the slope with no setbacks and, as a result, the fire destroyed them.  In some areas the roads and driveways were narrow and steep possibly contributing to ingress/egress difficulty during the active burning period with much smoke, flame and heat in those areas.
+
+All known fire resistive construction methods helped reduce vulnerability to fire damage. 
+
+One area of concern was venting of attic and the under floor of residences with raised floors. 
+
+The presence of patio covers and decks appeared to contribute to fire spread in some instances.  These improvements allowed   combustion to spread to structures from the wildland through the improvements directly.
+
+The fire was influenced by two factors with topography also playing a major role in spread. 
+
+The first few days exhibited characteristics of a wind driven fire combined with fuels under drought conditions and steep topographic features.  Once the winds subsided, the fire became fuels driven with supplemental topographic conditions influencing the spread.
+
+Those areas in the Cedar Fire perimeter affected by the wind driven fire experienced limited fire resource availability compared to the number of dwellings in need of protection.  The fire was extremely fast moving during the first two days.  Structures with clearance of vegetation from the wildland fuels and other structures appeared to be saved both as stand-alone improvements and with fire service actions.
+
+The team members observed that where outbuildings were within normal setbacks and directly against flammable fences, they, through the flammable fence, contributed to spreading the fire to a structure and allowed the fire to spread to adjacent structures.  San Diego County Firestorms 2003  After Action Report 33 It was observed that most vegetation surrounding destroyed buildings was comprised of large trees within zero (0) to five (5) feet of said buildings.  Clearance appeared inadequate.  In these instances, it did not appear to matter what the construction type of the building was, it still became involved in fire. Field Team members reported that a majority of roofing on destroyed homes appeared to be composition shingles.  Newer roofs appeared to be tile.
+
+Observations by DPLU staff identified that siding of buildings (structures) appeared to be primarily stucco or wood.  In the mountainous areas, it preliminarily appears that wood siding was predominant.  Newer structures appeared to have stucco siding.  Areas in Julian had many singlewide mobile homes placed throughout the properties.  Cargo containers, outbuildings and carports were also scattered throughout these areas. 
+
+Inspectors reported that after the fire, topographic features of the land are now visible.  Homes were hidden and unseen due to dense vegetation prior to the fire.  Prior to the fire it was estimated that one could only see perhaps one to two hundred feet into the mountain communities. Team members reported that the heavily forested areas are now denuded.  The stage has been set for erosion and flooding potential.  Finally, team members reported that clearing and thinning of forest fuels for the future should be addressed.  Dense fuel loading contributed to the spread and intensity of the fire.
+
+What Worked Well DPLU had previously created 2 standing teams and the protocols for rapid damage assessment. 
+
+Damage assessment team field staff was assigned directly to the Incident Commander (IC). DPLU GIS staff were able to provide fire mapping directly to the IC and to the EOC. 
+
+Problem Areas  Field teams did not have sufficient 800 MHz radios. Damage Assessment Team Leaders were unable to communicate directly with fire service personnel via radio. Damage Assessment Team Leaders did not have adequate safety equipment or cell phones. DPLU EOC staff could not log on to the network.  Recommendations The information contained in the Damage Assessment Report should be evaluated for potential common factors leading to destruction based on fuels management, defensible space, access, water supply and construction elements.  ut House DefendableHomeSan Diego County Firestorms 2003  After Action Report 34 Homeowners need to take a more proactive role and assume primary responsibility to protect their property through proper fuels management by providing good defensible space that leads to survivable space. 
+
+Provide network access and training on any software used in the EOC to support response activities. Additional radios should be provided to the Damage Assessment Team Leaders.  7.  Medical Examiner The Medical Examiner™s Office (MEO) has the responsibility of taking temporary custody of deceased casualties that fall under the Coroner statute.  This is normally based on the manner or cause of death, such as unattended natural deaths, suicides, accidents, homicides, infectious disease cases, and sudden unexpected deaths of whatever cause.  The MEO is notified of these deaths through law enforcement, hospitals, nursing homes, hospices, or mortuaries/funeral homes.
+
+The role of the Coroner/Medical Examiner is to identify the deceased, determine the cause of death and render an opinion as to the manner of death based on the known or developed circumstances.  These parameters are key components of death certificate certification and registration.
+
+The most labor-intensive effort in mass disasters (beyond search and rescue or search and recovery) for the MEO is the identification of the decedents.  Where possible, a positive identification is sought based on the unique characteristics of the decedent using finger, palm or foot prints, dental examinations, medical radiographs or DNA profiling.  Positive identification requires access to both pre- and postmortem data unique to the individual or developed by family studies.  Many times a positive identification is not possible and certification is based on either presumptive techniques or by exclusion.  Presumptive techniques rely on class characteristics consistent with the decedents and include: Visual identifications,
+
+Personal effects,  Anthropometrics,
+
+Serology,  Body build,  Gender,  Age,  Height and weight,  Pre-existing conditions, etc.
+
+The cause of death is determined by a detailed postmortem examination, which usually translates to a full autopsy including radiographs, surgical examination, and toxicology studies.  The MEO has access to two forensic dentists and one forensic anthropologist through contracts.    San Diego County Firestorms 2003  After Action Report 35 Field Operations  The MEO was notified of confirmed casualties from the Paradise Fire (2) and the Cedar Fire (14) by the Sheriff™s Office.  They responded to Valley Center and Ramona/Lakeside/Barona Indian Reservation within minutes of notification and proceeded under Sheriff escort into the burn areas. The MEO recovered the casualties and any pertinent personal property believed to be of value in the identification of the deceased.  In the Cedar Fire this included a number of canine companions who were caught in the Firestorm with their owners while trying to escape in their automobiles.  The remains were subsequently collected and placed in an accompanying transport van under MEO contract.  The same van and staff along with the same MEO pathologist and investigator were used throughout the day to recover the majority of the Cedar Fire victims.  The Chief Medical Examiner (CME) made this decision based on resource availability, continuing fire threat, and periodic broken communications between field personnel, the MEO, and Office of Emergency Services (OES).
+
+The recovery effort continues with two additional potential fire-related casualties recovered since October.  One case recovered along I-15/Route 52 is a probable fire death whereas the other case found along I-8 appears to be a body exposed to the fire.  In these cases, both thought to be transients, determination of the cause and manner of death is added to the identification process.  These are the persistent John and Jane Does frequently referred to by the MEO or law enforcement. 
+
+The MEO, by virtue of its statutory functions, straddles both public health and safety government functions.  It was represented on a daily basis at the EOC, and interfaced with Public Health, all departments in the Public Safety Group (PSG), Environmental Health, GSA, and the County veterinarian.  The MEO also interacted with families and mortuaries several times each day.  The CME was available for pertinent questions at most press briefings at the request of the DCAO -PSG and the Board of Supervisors. 
+
+Mutual Aid  The MEO found itself providing mutual aid in ways it never imagined.  An MEO investigator assisted military police and San Diego Police Department (SDPD) personnel in the evacuation of areas near MCAS Miramar and along the I-15 corridor just north of SR-52.  An investigator assisted SDPD and California Highway Patrol officers by directing traffic in and around areas through which the fire raged.  The Medical Examiner™s Office was prepared to request, through appropriate channels, California Coroner™s mutual aid, if required. 
+
+The California Coroner™s mutual aid structure largely parallels that for law enforcement. 
+
+The trigger point for requesting mutual aid was determined by the number of casualties per day that exceeded the MEO™s ability to complete the accepted cases in a timely fashion.  The MEO frequently processes 15-25 cases per day.  While the MEO was in contact with the closest Medical Examiner/Coroner Offices within Region VI (Riverside and San Bernardino Counties) as well as the Orange County and Los Angeles County Coroner/Medical Examiner offices, the number of casualties never exceeded their capabilities.  San Diego County Firestorms 2003  After Action Report 36 Identification efforts in these types of cases involve considerable communication, collaboration, and cooperation amongst a variety of agencies at the city, county, state, and national levels, in addition to foreign consulates/embassies as necessary.  The contract forensic odontologists and anthropologist were critical in confirming many of the identifications and sorting co-mingled remains.  The San Diego County Sheriff™s Department (SDSD) Crime Laboratory provided DNA identification support as required. 
+
+What Worked Well  The confirmation of presumptive identifications was completed within 24 to 36 hours, pending the retrieval of medical and/or dental records.   o As of this writing, 14 of the 16 originally reported fatalities have been positively identified.   o The positive identification of the remaining two identities is in progress.  A collaborative multi-agency medico legal response.   o Palomar Medical Center offered the use of their facility as a temporary morgue, if needed.   o The Escondido Police Department offered the use of their command post to the Medical Examiner investigator assigned to the North County. The performance, quality, timeliness, professionalism, enthusiasm, camaraderie, and cooperation of the department was outstanding.   o Over a third of the staff and their families were evacuated during the fires yet they reported to work and carried out their responsibilities.   o For a short time, the MEO functioned as a temporary housing and feeding area for its employees, while maintaining day-to-day activities during most of the Firestorms. 
+
+Bottles of water proved to be the most valuable resource stocked in the MEO investigator vehicles.  The water was also used to put out small fires at some of the recovery scenes.  Problem Areas  Communications with field units. Contacting and recalling all MEO elements in a timely fashion. 
+
+Lack of an up-to-date phone tree. Insufficient transport capable of moving multiple casualties that could also function, if necessary, as a temporary morgue. 
+
+Temporary suspension of all MEO operations caused by the evacuation of the actual MEO building due to the approach of the fires.
+
+Limited radiographic capability was a major choke point in casualty processing. The procurement of required medical and dental records from family members or estates caused major delays in confirming identifications. 
+
+The need for a well-defined chain of command was identified.
+
+The CME was in the field and not able to communicate with the MEO.   San Diego County Firestorms 2003  After Action Report 37 The Chief Deputy Medical Examiner was out of the county and the Senior Deputy Medical Examiner, a resident of Scripps Ranch, was unavailable as he evacuated his family. 
+
+The caseload of homicides, suicides, motor vehicle accidents, drug overdoses, and natural deaths continued throughout and actually increased. Communications was a major problem, as radio transmissions were broken and cellular telephones were virtually useless in the remote areas. 
+
+Vehicles used by MEO investigators lacked supplies not normally used during the course of everyday business.
+
+Digital cameras failed at the fire scenes as a result of arid, windy, dusty, and hot conditions.
+
+Responding investigative staff was, at times, denied access to the burn area, even after showing identification cards.  One investigator was reluctantly allowed into the area by officers conducting perimeter security only after showing her badge, in addition to her identification card,  Medical Examiner investigators, on at least two occasions, were left to their own devices within the disaster zone; there were no armed law enforcement officers present.
+
+Recommendations Maintain the up-to-date phone tree that resulted from this event. 
+
+Continue efforts to pursue and obtain adequate, appropriate wireless communications and field teleforensic capabilities.
+
+Cross train clerical, forensic autopsy assistants (licensed morticians), and toxicology staff (to allow investigators to conduct as many on-scene investigations as possible).  Identify transport for multiple casualties that also could function, if necessary, as a temporary morgue. 
+
+Acquisition of a mini-command center. 
+
+Identify viable alternatives to the Medical Examiner™s Facility. 
+
+Form staff into medical teams to ensure the ability to continue to carry out every day functions. The firestorms revealed that shovels, goggles, respirators, sifters, and heavy-duty body pouches should be stocked in every vehicle. Conduct ﬁmass fatalityﬂ exercises.  Revise Annex F (Medical Examiner Operations) to the County™s Emergency Plan.   8. Care and Shelter  a. Shelter Operations The American Red Cross (ARC) opened its first shelter at approximately 1:15 a.m. at Ramona High School on October 26th.  ARC opened a total of 12 shelters, four of which were relocated because of the behavior of the fire. 
+
+ARC sheltered 6,259 people during the fire.   San Diego County Firestorms 2003  After Action Report 38 Because of the fires burning earlier in Southern California, most of the staff from neighboring chapters were already assigned to shelters in other areas. ARC trained volunteers were activated, and help from outside of California began to arrive three days into the event. The American Red Cross staffed the shelters for six days on a 24-hour basis. Hot meals and sleeping spaces were provided in all the shelters. Health services, Disaster Mental Health services and Spiritual Care services were provided.
+
+Sixty-nine (69) County of San Diego Public Health Nurses were utilized in the shelters. Nursing staff was available in each shelter on a 24-hour basis. Over $84,000 of medications and other health related services were provided, and over 10,000 health related contacts were documented.
+
+The County of San Diego™s Parks and Recreation Department™s Lake Morena Regional Campground and Pine Valley Regional Park were also used as shelters. The two sites served as evacuation centers for over 300 evacuees and vehicles from the communities of Crest, Harbison Canyon, Alpine and the surrounding areas over a four-day period.   b. Mass Feeding ARC provided over 122,000 meals and snacks during the disaster. Because of the generosity of vendors in San Diego County, a majority of the food was donated. Three hot meals a day were provided, as well as 24-hour access to hot and cold drinks and snacks. After the shelters closed down, ARC continued providing meal services to the LAC™s and in neighborhoods that were affected by the fires.  c. Disaster Assistance ARC provided caseworkers at ten service delivery sites, including the Local Assistance Centers, after the shelters were closed. 
+
+Those affected by the fires were issued pre-approved debit cards with a specified dollar amount for food, clothing and additional assistance. They were also provided with hotel rooms until they received FEMA funds to use for temporary housing. Rent or security assistance was provided to get them into new dwellings. Many houses suffered no damage, however, the power was out for an extended period of time. The Red Cross provided money for the replacement of groceries for those who suffered losses due to the lack of electrical power.   d. Other Voluntary/Community Agencies San Diego/Imperial Counties Voluntary Organizations Active In Disaster () assisted greatly in the first days of the fires, and will continue to do so for an extended period of time. The Salvation Army was very active in feeding and sheltering evacuees. The Tierra del Sol 4-Wheel Drive Club assisted Red Cross and County Damage Assessment teams by providing transportation and driving personnel everywhere. The Southern Baptists cooked thousands of meals. The Salvation Army and St. Vincent de Paul received tons of unsolicited donations. The San Diego Food Bank provided large quantities of food in the affected areas. San Diego County Mental Health Services coordinated counseling services from a number of agencies.   San Diego County Firestorms 2003  After Action Report 39 What Worked Well  Overall, an excellent job, with great assistance and coordination from County Mental Health. Outstanding coordination with and contributions from volunteer and community agencies, and vendors. Red Cross volunteers did a great job.  Problem Areas  Overload of volunteers wanting to help. Shortage of needed medications. 
+
+Shortage of trained and qualified shelter managers. 
+
+Procurement of needed medications was a challenge. 
+
+Recommendations Increase monitoring of volunteers. 
+
+Increase number of trained shelter volunteers. Increase number of trained shelter managers. 
+
+Increase Red Cross nursing capabilities. Improve system of replacing urgent medications. 
+
+Recommend SD VOAD improve its paging and call-down system. 
+
+Improve system for Voluntary Agencies operating out of Red Cross Disaster Operations Centers. Improve level of interaction with the FEMA Voluntary Agency Liaisons in the preparedness phase of disasters. Notification of Department of Parks and Recreation prior to establishing relief centers in facilities. 
+
+Although County Parks and Recreation is not tasked with Shelter Operations in the County™s Emergency Plan, because of their location in varied and diverse areas of the County, their facilities were greatly appreciated. Encourage that they be designated as Shelter Sites in an emergency. 
+
+Prepare a volunteer and donations management plan.  9.  Department of Agriculture, Weights and Measures  Agriculture, Weights and Measures (AWM) personnel reported to the EOC during the first shift on October 26, and assisted in Interagency Operations, GIS/Mapping, Public Information, Web Page, Resource Ordering and Damage Assessment. AWM coordinated with the following
+
+County and external agencies: LUEG departments, California Department of Food and Agriculture, San Diego Gas and Electric, United States Forest Service, California Department of Forestry and Fire Protection, County Public Health Department, County Animal Services, County Medical Examiner, State Veterinary in CDFA and San Diego County Humane Society.  San Diego County Firestorms 2003  After Action Report 40 What Worked Well  EOC was well organized and workstations adequately equipped. Strong leadership presence from OES. 
+
+Agency representatives were clearly identified by labeled vests, facilitating recognition of information sources. 
+
+Regular briefings provided by agency representatives were valuable in keeping all up to date on the incidents and response efforts, and restoring focus on the overall mission. 
+
+Problem Areas  Instruction in use of databases; log-in procedures and procedures for damage assessment data entry was insufficient. 
+
+Various agency representatives logged in under inaccurate agency identities. Difficulty in e-mail communications. 
+
+Difficulty in retrieving stored documents.  Recommendations Maintain, verify, and post list of agency representatives present together with telephone extensions to maximize internal communication. 
+
+Establish and publish, prior to the event, a number where County employees can call during an emergency event to find out when to return to work. Have an alternative site for EOC operation in case of damage or risk to the site and refurbish the building for safer operation during fire, toxic fumes and other potential disasters.  10. Utilities  San Diego Gas and Electric (SDG&E) performed the Utilities Branch function.  An SDG&E representative reported to the EOC early Sunday morning, October 26th.  As the Utilities branch they ably represented not only their agency, but also those utilities providing telephone, cable TV, and water service.  SDG&E provided timely updates on power and other utility outages, often with a detailed prognosis on how long the outage would last.  What Worked Well  EOC operated in clear phases (emergency/restoration/recovery). 
+
+Coordination with Sheriff/CHP to facilitate ingress of repair crews into the evacuated areas.  Problem Areas  Firewalls on the EOC™s network did not permit access to outside resources.  SDG&E provided a notebook computer and used the Sheriff™s wireless system to access their San Diego County Firestorms 2003  After Action Report 41 agency™s network via the web.  This precluded them from being able to use the printers in the EOC to provide hard copies of their reports. Utilities representative was not always assigned to the same desk. 
+
+The telephone number for Utilities was accidentally given out as the PIO/Rumor Control number. 
+
+Recommendations Develop a list of current contacts for other area EOCs and utilities. 
+
+Provide nametags. 
+
+Provide assigned seating.  C. PLANNING/INTELLIGENCE Roles and Responsibilities  The Planning/Intelligence Section (sometimes referred to as Plans/Intel) is responsible for gathering, analyzing, evaluating information and developing intelligence reports.  Two operational periods were established each day. 
+
+The initial periods were 12 hours long (0600 hours to 1800 hours and 1800 hours to 0600 hours).  As the fires were gradually brought under containment, these periods were shortened to eight hours each (0700 to 1600 hours and 1600 hours to midnight).     1. Situation Status Sit/Stat is responsible for developing the Action Plans based on the operational periods.  Action plans are plans prepared in the EOC and contain emergency response objectives that reflect the overall priorities for a designated period.  Sit/Stat developed the Action Plans for successive Operational Periods with input from each section within the EOC.
+
+Sit/Stat is also responsible for developing regular
+
+Situation Reports for distribution to EOC staff and external agencies.  The Sit/Stat Unit generated an average of three Situation Reports per day. 
+
+Some of the daily Situation Reports were further refined and tailored for use by the Chair of the Board of Supervisors in his briefings to the Media.  2. Documentation  The Documentation Unit is a functional unit within Plans/Intel responsible for collecting, recording and safeguarding all documents within the EOC.  The documentation is maintained in hard copy and electronic format to ensure proper tracking for reimbursement and after action reporting. This function was carried out effectively by staff from various departments. San Diego County Firestorms 2003  After Action Report 42 3. Advanced Plans The Advance Plan is another function within Plans/Intel and consists of actions that need to be taken days, if not weeks, ahead.  The Advance Plan was developed on the first day of the response and updated on a daily basis.  The Advance Plan included long-term risks; what actions were required to mitigate the risks and the agencies responsible for implementation of the actions.    4. Technical Support The Technical Support Unit is comprised of personnel with special skills or technical expertise that are requisite for the EOC to function properly. 
+
+The Air Pollution Control District provided regular updates on air quality and weather forecasts.  The Geographical Information Services (GIS) function was provided by staff from the Department of
+
+Public Works; Department of Planning and Land Use and SAIC.
+
+The GIS Unit developed numerous maps that outlined the boundaries of the fires as they progressed.  Satellite imaging data was requested from the Federal government in order to more accurately map the fire boundaries.  The County was ultimately approved to receive the data, however, the fees associated with this service were cost prohibitive. 
+
+Another critical function within Plans/Intel is the activation of the County Damage Assessment Team, whereby teams from the Department of Planning and Land Use perform field coordination of damage assessment activities, data collection and distribution of the information to the Incident Commander and County OES.  The initial Damage Assessment Team was activated on
+
+Sunday, October 26th.  Additional duties conducted by the Plans/Intel Section include the scheduling and conducting of regular EOC briefings, typically every two to three hours.  These EOC briefings provided an opportunity for each section to report on current activities, problem areas and mitigative actions. 
+
+This process supplied EOC staff with the latest information available as to the situation in the field and ongoing EOC activities thus providing for coordination of efforts.
+
+The Plans/Intel Section was also responsible for the development of staffing patterns for the EOC.  Because County OES staff was stretched so thin, a request for additional resources through the EMMA (Emergency Managers Mutual Aid) Program was made to the State Office of Emergency Services.  EMMA support was provided by two emergency management staff from San Luis Obispo County who augmented County OES staff in the Plans/Intel Section.
+
+Finally, the Plans/Intel Section was responsible for implementation of the Demobilization function.  A set of three triggers had been established by the Policy Group, all of which needed to be met, in order to deactivate the EOC:   San Diego County Firestorms 2003  After Action Report 43 1. Each of the three fires to be 60% contained with no structures threatened 2. No active evacuations  3. Favorable weather forecasts
+
+Announcements were made on Friday, October 31st that the EOC would most likely deactivate on Saturday, November 1st.  On Saturday at approximately 11:00 a.m., the decision was made to deactivate as of 4:00 p.m. that same afternoon. 
+
+The EOC Director generated a Demobilization Checklist that advised EOC staff to: 1) notify their agency/department of the time the EOC would be deactivated; 2) contact their agency/department to cancel staff coming in for the next shift; 3) complete final logs; 4) be prepared to attend an After Action Review meeting to be held within two weeks; and 5) provide contact names and phone numbers for follow-up purposes. 
+
+As the EOC began the demobilization process, an offer was again made by County Mental Health Services to provide Critical Incident Stress Debriefing for EOC staff.  It was left up to each individual to determine whether they wanted to take advantage of this offer. 
+
+What Went Well Use of EMMA (Emergency Managers Mutual Aid)
+
+EOC Briefings worked well, however, due to lack of experience, some EOC staff provided too much information while some staff did not provide enough. 
+
+Situation Status staff did an exceptional job of updating the Sit Reports, however, as discussed earlier, the format for the Status Boards proved to be inadequate.  It should be noted that a benefit of the Status Boards was that they served as a back-up for information in electronic format. 
+
+County Damage Assessment Process. 
+
+Technical Support provided by: o APCD provided timely and accurate information on meteorological forecasts and real-time and forecasted air quality conditions. o GIS provided timely maps and GIS services that enhanced the overall effectiveness of the EOC operation.
+
+Problem Areas The State™s Response Information Management System (RIMS) was inoperable. 
+
+Situation Reports in Word format Œ not user friendly; sometimes difficult to differentiate new information from old. 
+
+Demobilization Checklists were only given out to EOC staff on the day the EOC was deactivated.
+
+The GIS and IT support was provided to the EOC on an Ad Hoc basis. 
+
+Recommendations Develop EOC Briefing Guidelines and provide training to EOC Section Chiefs. 
+
+Work with the State and Federal government to streamline the process for accessing satellite image data. San Diego County Firestorms 2003  After Action Report 44 Ensure that Demobilization Checklists are provided to EOC staff that are leaving the EOC and are not returning for another shift.  Permanent Status Boards need to be designed and installed. 
+
+Establish provisions for permanent staffing of GIS and IT support positions in the Technical Support Unit.  This will require staff from both Pennant Alliance (for GIS and County Network support) as well as IT staff form the Sheriff who maintain the EOC network.  D. LOGISTICS The Units of Purchasing, Transportation and EOC Support comprise the Logistics Section of the EOC.  The Departments of Purchasing and Contracting (P&C) and General Services, along with support from other departments provided staffing to the Logistics Section.  1. Procurement  The Department of Purchasing and Contracting mobilized on the first day, Sunday, October 26th and performed all of the procurement functions during the firestorms. P&C procured requested services, equipment and materials to support operations throughout the fire emergency. P&C alerted key buyers the first day by calling US Bank to prepare for emergency P-Card use. P&C buyers or managers were assigned to the Logistics Chief role at the EOC on an around-the-clock basis. Additional procurement specialists also worked out of P&C offices to procure needed emergency materials and services. P&C buyers often drove needed items to sites where they were needed.  2. EOC Support EOC Support is responsible for providing personnel, equipment and supplies to support incident operations.  The County™s Operational Area Emergency Plan calls for the Department of Human Resources to provide personnel/staffing in the event of a disaster.  There was a need for additional staff to serve as Message Runners, however, the Department of Human Resources was not utilized to perform this function.  Additional staff was obtained from the
+
+Department of Environmental Health and Emergency Medical Services in that OES had relied on these departments in the past to provide Message Runners for previous emergency exercises. 
+
+What Worked Well Availability of Emergency P-Cards in P&C, at the EOC and later at Local Assistance Centers (LAC) to make rapid purchases with minimal paperwork. 
+
+Designation of named P&C buyer to support LAC requirements. 
+
+Naming of LAC managers as go-to persons to coordinate LAC requirements. 
+
+Availability of excess property for LAC use to save on rental costs. San Diego County Firestorms 2003  After Action Report 45 Positive attitudes, can-do spirit and high levels of conscientious effort were apparent among County emergency and recovery personnel. 
+
+Problem Areas  There were no procedures in place to adequately track the ordering and disbursement of resources. P&C needs to know FEMA reimbursement ground rules and accounting guidance on purchases. Process for requesting or purchasing goods and services above $100,000 and understanding legal aspects and documentation requirements. 
+
+Lack of communication between needs and wants of departmental staff in the field and communicating these requirements to the P&C staff. 
+
+Difficulty shifting on-going purchases from Emergency P-Cards to requisitions confirming PO™s without a gap in service, and invoice errors. Inability of suppliers and vendors to donate materials or services. P&C could not perform this function due to potential conflict of interest. 
+
+Appears to be no plan for pickup, return and accounting for County-owned property such as laptops, printers, fax/copy machines, when LAC™s closed. 
+
+Difficulty obtaining vehicles and qualified drivers on short notice and on weekends to transport equipment and materials to users in the field. 
+
+Recommendations Develop procedures to track the procurement and allocation of resources requested. P&C buyers attend a FEMA class on accounting and reimbursement procedures for purchasing of goods and services in an emergency. Develop form with an equivalent format for e-mail to capture necessary information regarding needed requisitions, justifications, who, when and where equipment or materials used. 
+
+Field staff communicates their requirements through chain of command to P&C unless directed to do otherwise. Develop protocols for the emergency use of P-Cards, and when to cease using.  Designate a County Point of Contact (POC) with authority to respond to suppliers and vendors wishing to donate supplies and materials. Develop procedure for pickup and return of equipment from LAC™s. Lists of equipment must to go to P&C to remove costs from list prepared for FEMA reimbursement. Identify Fleet resources and a list of County emergency drivers placed on standby during emergencies. Obtain the California Department of Forestry Blue Book of contracts and OES listings to facilitate procurement of needed emergency materials, facilities and services. The process for utilizing the Department of Human Resources to provide personnel/staffing from any County department needs to be formalized and documented and training on this process needs to be provided.  San Diego County Firestorms 2003  After Action Report 46 3. Facilities Status The Department of General Services personnel reported to the Emergency Operations Center during the first shift on October 26th, and was responsible for the maintenance and safety of all County facilities during the firestorms. In addition, the Department provided logistical support to all County departments and other emergency responders, including the providing of vehicle maintenance and fuel, and portable generators and lights. 
+
+What Worked Well  Raising of P-Card limits quickly. 
+
+Ability to maneuver personnel and assets to emergency locations. 
+
+Coordination of work with other County departments for logistical support, particularly Purchasing and Contracting. Availability of phones for immediate communications. 
+
+Monitoring of fire situation on multiple television stations for up-to-date information on fire progress. Cooperation of outside vendors for dedicated emergency equipment. 
+
+Problem Areas  Clarification of roles in areas of overlapping responsibilities (i.e. DPW, DGS, Red Cross). Up-to-date vendor information. 
+
+Improved stockpiles of equipment and supplies needed in an emergency. 
+
+Dedicated vehicles to deliver emergency equipment and supplies. 
+
+Clearer documentation of assets moved to emergency response sites. 
+
+Access to vendors for emergency drinking water. Need for additional ﬁwhite boardﬂ in EOC to list disposition of equipment dispatched to emergency sites. 
+
+Need for up-to-date callback rosters. 
+
+Need for written staffing plan for General Services EOC Facilities position. 
+
+Recommendations Clarify areas of overlapping responsibilities. Update General Services™ vendor list. Inventory equipment and supplies stockpiles for an emergency. 
+
+Identify vehicles to be dedicated to deliver equipment and supplies in an emergency. 
+
+Develop method to document all assets moved to response sites. 
+
+Identify method to contact vendors after hours. 
+
+Update General Services™ callback roster. 
+
+Develop staffing plan for General Services™ position in EOC.   San Diego County Firestorms 2003  After Action Report 47 E. FINANCE The Director of Finance for the Public Safety Group served as the Finance Section Chief for the duration of the activation. Her first action, after receiving a briefing of the situation and potential fiscal impact for the EOC and field operations, was to request increased spending authorization for designated emergency procurement cards up to $350,000.  These cards had been previously designated as Emergency P-cards and primarily were issued to Office of Emergency Services staff.  One card belonged to the Logistics staff person, a purchasing department employee, who was in the EOC.
+
+On the second day of the disaster, the Chief Financial Officer reported to the EOC with an activity code to be used to track time and other response costs. The County had just conducted a drill the Wednesday before the fires. During the drill the Finance Section Chief in the EOC had contacted the CFO and stated that an activity code would be necessary in the event of a real disaster. As a result, the CFO knew what was necessary when the EOC activated for the Firestorm.  The activity code was announced in briefings in the EOC and sent out to all County departments.
+
+Within the first two days of the activation the Finance Section Chief prepared a Board Letter to seek authorization from the Board of Supervisors to appropriate funding from the County™s Contingency Reserve.  This was done to provide funding for the Local Assistance Centers and to allow for the detailed tracking of other response and recovery costs.  In addition, a new organizational account was created within the Office of Emergency Services to further segregate recovery costs.  The Board authorized $3,000,000 in contingency reserves be appropriated to the Firestorms of 2003 organizational unit. 
+
+The County decided early on to involve its Audits Division in the compilation and reconciliation of costs being collected from Departments.  Audits Division staff worked with all departments to determine what documentation would be required to pass a federal audit should that occur. 
+
+What Worked Well  Finance Section Chief had just participated in a nuclear power plant exercise the Wednesday prior to the Firestorm activation (Sunday).  o She had simulated all the actions of requesting spending authorization.  o Communicated with the Chief Financial Officer as if it were a real event. 
+
+When both she and the CFO reported to the EOC, they were ready to take action immediately. 
+
+Having the majority of initial costs placed on procurement cards in the response phase segregated all emergency response costs onto a few cards. 
+
+Assigning one organizational unit for the initial recovery costs and the costs of the Local Assistance Centers made it easier to document those costs when it was time to prepare worksheets, facilitating the report to the Board on what had been spent to date. San Diego County Firestorms 2003  After Action Report 48 While it was difficult to do, it was helpful to have one financial point of contact in the initial recovery phases to make decisions and disseminate information to the County departments. 
+
+Having the Audits Division working with departments right from the start to capture costs using required documentation worked wonderfully.  Problem Areas  Finance and Logistics were not physically collocated near each other. This made it difficult for the Finance Section to assist Logistics. In the initial response, the Finance Section Chief has initial decisions to make, but once those decisions are made, he/she can provide support to another function.
+
+Because the need for equipment and purchases was coming so quickly in logistics, it was not possible to document all the acquisitions as they occurred, and much time was spent reconstructing what had occurred after the fact. It was difficult to stop departments from calling State OES/FEMA directly for information on what were eligible costs. 
+
+In the initial recovery phase, the numbers of questions were overwhelming for the Finance Section Chief.  This highlighted the need for at least one other Group Finance Director to be trained in EOC operations and be available to respond to the EOC in the event of a disaster. Once invoices started coming in for payment, there was confusion on who would be processing the invoices for payment. 
+
+Recommendations Modify the EOC layout to put Logistics next to or closer to Finance. 
+
+A minimum of one other Group Finance Director should be trained in EOC procedures and operations.  In future disasters, the ability to pay invoices and where they should be sent for payment should be decided early on and staff should be dedicated to this function. 
+
+Establish Activity Codes and Time Codes within the new ERP system to be used in the event of a disaster. 
+
+Develop similar activity and time codes for use during drills and exercises. Finance Section should have accountants assigned for the payment of invoices. San Diego County Firestorms 2003  After Action Report 49 Attachment 1 Œ EOC Organization Chart POLICY SECTIONCAOACAODCAO - Public SafetySheriffOther DCAOsKey Department HeadsEOC DirectorPublic InformationDir. M&PROperationsPlanning/IntelligenceLogisticsFinanceLaw EnforcementFire/RescueAnimal ControlCare & ShelterCHPM. E.HazMatHealthConst. &  Eng.Public HlthEMSMental HlthParks & RecUtilitiesAW&MSit StatDocumentaitonAdvanced PlansTech SupportPurchasingFacilitiesLiaisonsState OESEOC SupportCost AccountingSafety OfficerSan Diego County Firestorms 2003  After Action Report 50  Attachment 2 Proclamations of Local Emergency San Diego County Firestorms 2003  After Action Report 51  San Diego County Firestorms 2003  After Action Report 52 Attachment 3 Œ Map of Burn Area San Diego County Firestorms 2003  After Action Report 53 Attachment 4 Cedar Fire SpreadSan Diego County Firestorms 2003  After Action Report 53 Attachment 5 - List of Press Releases Oct. 26, 2003 County Proclaims Emergency, Activates Operations Center (County Health Officer Recommends Staying Indoors Due To Smoke From Wildfires)
+
+Oct. 26, 2003 Non-Essential County Employees Asked To Stay Home (County of San Diego Institutes Limited Operations Schedule Due to Fires)
+
+Oct. 26, 2003 Telephone Number Activated For Public Updates on Fires (Schools Closed, Animals Relocated)
+
+Oct. 26, 2003 Livestock Trailers Sought to Help Evacuate Animals (San Diego County Requests Trailers, Storage for Livestock Displaced by Fires)
+
+Oct. 27, 2003 Health Officer Recommends Caution With Ash-Filled Air (High-Risk People Advised to Stay Indoors; Others Advised to Avoid Strenuous Activity, Drink Fluids)
+
+Oct. 27, 2003 Horse Helpers Needed at Fairgrounds/Polo Field (Donations for Evacuated Animals Sought)
+
+Oct. 27, 2003 Keep Food Safe If The Power Goes Out (County Environmental Health Offers Tips to Keep Food Safe)
+
+Oct. 27, 2003 County To Open on Limited Basis (Employees Will Be Contacted If They Need to Report to Work; Public Urged to Call First)
+
+Oct. 27, 2003 What Do You Take When It™s Time To Evacuate? (Preplanning is Key to Taking What™s Important)
+
+Oct. 27, 2003 County Web Site Lists Closed Roads (Page Includes List of Roads in Unincorporated Areas of San Diego)
+
+Oct. 28, 2003 Meals Available to Homebound Seniors Affected by Fire (HHSA Works With Meals on Wheels to Deliver Food During Disaster)
+
+Oct. 28, 2003 Air Quality Alert Issued For San Diego Area (County Air Pollution Control District Forecasts Unhealthy Conditions for Tuesday, Wednesday)
+
+Oct. 28, 2003 What To Do When Ash Stops Falling (Tips for Cleaning Your Home and Yard)
+
+Oct. 28, 2003 Media Advisory (Cancellation: Demonstration of Portable Isolation Units)  San Diego County Firestorms 2003  After Action Report 54 Oct. 28, 2003 Horse Owners Sought To Identify Animals (200+ Horses at Del Mar Fairgrounds Unidentified)
+
+Oct. 28, 2003 Telephone Number Activated For Public Updates On Fire (Schools Closed, Animals Relocated)
+
+Oct. 29, 2003 County Reaches Out To Displaced Foster Families (Affected Families Who Share Their Homes With Foster Children Are Eligible for Assistance)
+
+Oct. 29, 2003 Anxiety, Worry Experienced in Aftermath of San Diego Fires (San Diego County Mental Health Offers Advice for Coping After the Disaster)
+
+Oct. 29, 2003 Hotline Numbers Available For The Public (County, Other Agencies Have Phone Lines for the Public to Call)
+
+Oct. 30, 2003 Health and Human Services Warns Against Contact With Bats (Wild Animals in General Should Be Avoided to Guard Against Rabies)
+
+Oct. 30, 2003 Fire Victims Can Pick Up Welfare Checks at Local Post Offices (County Helps Displaced Public Assistance Recipients Get Their Checks in the Aftermath of Wildfires)
+
+Oct. 31, 2003 Public Health Nurses Play Crucial Role at Fire Disaster Shelters (Nurses Provide Basic First Aid, Help People Use Community Resources to Obtain Medical Supplies)
+
+Oct. 31, 2003 Media Advisory: 12 Noon Briefing Set At County Operations Center (Sheriff Bill Kolender, Supervisor Greg Cox to Give Updates on Fires, Recovery Efforts)
+
+Oct. 31, 2003 Local Assistance Centers Opening This Weekend (Alpine Site Opens Saturday, Ramona Site on Sunday, Valley Center Site Next Week)
+
+Oct. 31, 2003 URGENT: Don™t Clear Property Until Damage Is Assessed (Clearing Before Assessment Finished Could Jeopardize Insurance Reimbursement)
+
+Nov. 01, 2003 County Emergency Operations Center Deactivated (Fires Near Containment Cited For Closure)
+
+Nov. 01, 2003 Homeowners Advised To Call Hotline For Property Status (Home Addresses Not Being Posted on County Web Site to Protect Homeowners from Scams)
+
+Nov. 01, 2003 Residents Advised Not To Go To Assistance Centers Early (Set-up Efforts Will Be Delayed by Visits)
+
+Nov. 01, 2003 Local Assistance Center Now Open In Alpine (Ramona Site Will Be Open on Sunday, Valley Center Site to Open Tuesday) San Diego County Firestorms 2003  After Action Report 53  SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS II. A. Notification Request County Executives and Department Heads assign designated staff to EOC Operations. 
+
+OES  Development of an EOC Activation Binder that includes instructions, forms, and lists of supplies and equipment for use by all EOC staff. 
+
+OES  Complete the configuration of CASS to allow for its use in notifying County staff.  Include appropriate names and contact numbers for all shifts. 
+
+OES - Complete  Establish formal EOC Check-in procedures.  This will help ensure staff is assigned to their appropriate function and avoid the initial confusion seen during the initial EOC activation. 
+
+OES  All County departments establish current call-back (notification) lists.  OES II. B. Access Consider the use of temporary access cards for EOC staff assigned during activations. OES  Improve parking provisions for the EOC. General Services Provide the Sheriff™s Watch Commander with a list of authorized EOC staff. 
+
+OES  Request assistance from the Sheriff or Probation in staffing the front desk to aid in site security and access control during activations. 
+
+OES II. C. Personnel Develop staffing pattern for EOC and limit access to those with an assigned role. OES  Request County departments to assign staff to the EOC in designated roles. OES  Provide training to County staff assigned a role in the EOC. OES Organize the EOC according to function, not department. OES - Complete II. D. Facilities & Infrastructure Provide training on the computer system to all staff assigned to the EOC. OES  Mark each EOC position with function title, e-mail address and log-on.  Password will be provided at the time of activation. 
+
+OES  Permanently install E Team in the EOC. OES Œ In Progress San Diego County Firestorms 2003  After Action Report 54 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS II. D. Facilities & Infrastructure Provide a separate server for the EOC to minimize internet connectivity and security issues.  This will also allow access to E Team for the Policy Group and PIOs. 
+
+OES - Complete  Request PIO Staff bring wireless laptops to provide them with access to the Sheriff™s network. OES  Improve the EOC telephone system to provide for a messaging capability. OES  Modify sound system to reduce/eliminate ﬁfeedback.ﬂ OES Develop and install permanent status boards. OES Provide a filtered air system for the EOC. General Services Limit access to the EOC to those individuals with an assigned role. OES/Sheriff Provide Copier in or adjacent to EOC. OES Provide private location for conference calls. OES III. A. 1. Policy Group Review designated Policy Group outlined in County Emergency Plan to determine if revision is necessary. 
+
+OES  Control traffic into the EOC more closely. Consider a no-entry rule for out-of-area visitors for at least the first 2-3 days. OES  Provide laptop computers for Policy Group. OES Have PIO staff bring wireless laptop computers to EOC to allow access to Sheriff™s network. 
+
+Media & Public Relations Recode ID badges to allow access to EOC and Sheriff™s DOC OES/General Services Move DMPR out of Policy room to adjacent Multi-Agency Coordination room and move the desktop computer in the library to this space. 
+
+OES Have Chief Technology Officer and Pennant Alliance assign a full time Webmaster to EOC for incidents. 
+
+CTO Have DMPR assign a liaison to work with Board staff to provide information. 
+
+DMPR Designate Non-DMPR staff to be assigned to rumor control for the public. DMPR DMPR to coordinate with PIOs at other agencies on protocols DMPR III. A. 2. PIO Investigate use of community notification systems. OES San Diego County Firestorms 2003  After Action Report 55 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III.B.1. Operations Work with CDF as the Area Fire Coordinator and other local fire agencies to develop protocols to ensure there is a fire services representative in the EOC. 
+
+OES  Provide a trained County employee to be the EOC™s representative at the Incident Command Post. 
+
+OES Open DOC in first operational period, and consider staffing levels and hours of operation for subsequent operational periods. HHSA Œ Public Health/EMS III. B. 3. a. HHSA Œ Public Health/EMS Medical/Health information and messages to media should identify essential personnel to report to work to maintain critical services. 
+
+HHSA Œ Public Health/EMS Utilize different communication methods (i.e. QANET, RCS radios, RACES and ARES, EMAN) to get information to hospitals, and clinics. 
+
+HHSA Œ Public Health/EMS Improve communication by utilizing E Team, the Joint Information Center, and the PIO Network. HHSA Œ Public Health/EMS Work with law enforcement on developing a protocol for allowing critical employees through roadblocks. Coordinate media information releases through the HHSA PIO Network. 
+
+HHSA Œ Public Health/EMS Utilize external triage and treatment sites and coordinate with the EOC for more supplies and staff HHSA Œ Public Health/EMS Work with the City of San Diego to identify authorized shelters and re-deploy medical assets to these authorized shelters. 
+
+HHSA Œ Public Health/EMS Encourage hospitals to contract with local preschool and after school programs to import day care into hospitals during a disaster. Contract with local retirement homes for adult day care. 
+
+HHSA Œ Public Health/EMS Provide clear definitions and review plans to ensure definitions are the same at each facility re: staffed and non-staffed beds. 
+
+HHSA Œ Public Health/EMS Provide education to healthcare providers regarding requesting supplies/medications early to DOC/EOC. 
+
+HHSA Œ Public Health/EMS Assess clinic equipment and supply needs and consider regional mechanisms to provide temporary pharmacy capabilities and provide caches of medications and supplies for isolated/rural health care facilities used as shelters. 
+
+HHSA Œ Public Health/EMS San Diego County Firestorms 2003  After Action Report 56 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III. B. 3. a. HHSA Œ Public Health/EMS Inventory which hospitals have mental health patients and prisoners and review evacuation plans. Also consider skilled nursing facilities. HHSA Œ Public Health/EMS Work with home health agencies and fire departments to identify and recognize special needs patients. HHSA Œ Public Health/EMS III. B.3.b. HHSA-Mental Health Issue satellite phones for use in rural areas. HHSA Œ Public Health/Mental Health Issue vests to ID staff; magnetic signs to mark private cars. HHSA Œ Public Health/Mental Health Provide knowledgeable liaison to interface with external agencies such as NOVA. HHSA Œ Public Health/Mental Health Provide mobile home for counseling team use while in rural areas to improve mobility of staff and reduce time. 
+
+HHSA Œ Public Health/Mental Health Implement protocol to have contractors contact MHS Administration with program status in event of disaster. HHSA Œ Public Health/Mental Health Maintain list of emergency numbers for contract agency corporate administrators. 
+
+HHSA Œ Public Health/Mental Health Update phone trees every 3 to 6 months and collect copies for a central file. 
+
+HHSA Œ Public Health/Mental Health Develop checklists for immediate response tasks. HHSA Œ Public Health/Mental Health Develop evacuation plans and train managers on decision-making protocol for evacuation of programs. 
+
+HHSA Œ Public Health/Mental Health Consider formally integrating other agency teams into Mental Health, such as Public Health Nurses. HHSA Œ Public Health/Mental Health Disaster Coordination support team should be formed and trained to support the Disaster Coordinator functions. HHSA Œ Public Health/Mental Health Have protective masks available and shirts and jackets with County of San Diego logos. HHSA Œ Public Health/Mental Health III. B. 4. HAZMAT-Environmental Health Check-in procedures should include:  An email address unique to that position; an organization chart; and briefing on the E Team system. 
+
+OES III.B. 5. a. Animal Services Educate animal owners on crates and trailers necessary to move their animals in an emergency. 
+
+Animal Services Encourage animal owners to microchip their animals for identification purposes Animal Services San Diego County Firestorms 2003  After Action Report 57 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III.B. 5. a. Animal Services See additional 800-megahertz capability for Department for use in an emergency. 
+
+Animal Services III. B. 6.a. Roads/Public  Encourage additional 800-megahertz radio coverage of County. RACES Works Develop written procedures on accessing County e-mail for EOC responders. OES  Provide dedicated GIS workstation with appropriate hardware and software in the EOC. CTO  Increase workspace at each EOC workstation OES Provide additional EOC/SEMS training to DPW staff. DPW Provide written EOC contingency plan. 
+
+III. B. 6.b.  Damage Assessment Evaluate information in Damage Assessment Report for potential common factors. 
+
+DPLU/Fire Agencies  Homeowners assume primary responsibility to protect their property through proper fuels management by providing defensible space. Homeowners Provide network access and provide training for any software applications used to support response activities. DPLU  Additional radios should be provided to Damage Assessment Team Leaders. DPLU III. B. 7.  Medical  Maintain the up-to-date phone tree that resulted from this event. Medical Examiner Examiner Continue efforts to pursue and obtain adequate, appropriate wireless communications and field teleforensic capabilities.
+
+Medical Examiner Cross train clerical, forensic autopsy assistants (licensed morticians), and toxicology staff. Medical Examiner Identify transport for multiple casualties that also could function as a temporary morgue. 
+
+Medical Examiner Acquisition of a mini-command center.
+
+Medical Examiner Identify viable alternatives to the Medical Examiner™s Facility. Medical Examiner Formation of three medical teams. Medical Examiner Shovels, goggles, respirators, sifters, and heavy-duty body pouches should be stocked in every vehicle. Medical Examiner Conduct ﬁmass fatalityﬂ exercises. Medical Examiner Revise Annex F to the Operational Area Emergency Plan. Medical Examiner San Diego County Firestorms 2003  After Action Report 58 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III. B. 8.  Care & Shelter Increase monitoring of volunteers. American Red Cross Increase number of trained shelter volunteers. American Red Cross Increase number of trained shelter managers. 
+
+Increase Red Cross nursing capabilities. American Red Cross Improve system of replacing urgent medications. American Red Cross/HHSA Recommend SD VOAD improve its paging and call-down system. SD VOAD Improve system for Voluntary Agencies operating out of Red Cross Disaster Operations Centers. 
+
+American Red Cross Improve level of interaction with the FEMA Voluntary Agency Liaisons in the preparedness phase of disasters. 
+
+American Red Cross Notification of Department of Parks and Recreation prior to establishing relief centers in facilities. 
+
+American Red Cross Revise Annex G to include designation of County Department of Parks and Recreation as Shelter Sites. 
+
+OES  Prepare a volunteer and donations management plan. OES III. B. 9. Agriculture, Weights & Measures Maintain, verify, and post list of agency representatives present together with telephone extensions to maximize internal communication. OES  Establish and publish, prior to the event, a number where County employees can call during an emergency event to find out when to return to work. 
+
+DMPR  Have an alternative site for EOC operation in case of damage or risk to the site and refurbish the building for safer operation during fire, toxic fumes and other potential disasters. 
+
+OES III. B. 10. Utilities Develop a list of current contacts for other area EOCs and utilities. SDG&E Provide nametags. OES Provide assigned seating. OES III. C. Planning & Intelligence Develop EOC Briefing Guidelines and provide training to EOC Section Chiefs. OES  Work with the State and Federal government to streamline the process for accessing satellite image data. 
+
+Pennant Alliance/DPW/DPLU San Diego County Firestorms 2003  After Action Report 59 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III. C. Planning & Intelligence Ensure that Demobilization Checklists are provided to EOC staff that are leaving the EOC and are not returning for another shift. 
+
+OES  Design and installation of permanent Status Boards. 
+
+Establish provisions for permanent staffing of GIS and IT support positions in the Technical Support Unit. 
+
+CTO III. D. 1.  Logistics- Procurement Develop procedures to track the procurement/allocation of resources requested. Purchasing and Contracting (P&C)
+
+P&C buyers attend a FEMA class on accounting and reimbursement procedures for purchasing of goods and services in an emergency. 
+
+P&C  Develop form with an equivalent format for e-mail to capture necessary information re: needed requisitions, justifications, who, when and where equipment or materials used. 
+
+P&C  Field staff communicates their requirements through chain of command to P&C unless directed to do otherwise. P&C  Develop protocols for the emergency use of P-Cards, and when to cease using. 
+
+P&C  Designate a County Point of Contact (POC) with authority to respond to suppliers and vendors wishing to donate supplies and materials. 
+
+P&C  Develop procedure for pickup and return of equipment from LAC™s. 
+
+Lists of equipment must to go to P&C to remove costs from list prepared for FEMA reimbursement. 
+
+P&C  Identify Fleet resources and a list of County emergency drivers placed on standby during emergencies. 
+
+General Services Obtain the California Division of Forestry Blue Book of contracts and OES listings to facilitate procurement of needed emergency materials, facilities and services. 
+
+P&C  The process for utilizing the Department of Human Resources to provide personnel/staffing from any County department needs to be formalized and documented and training provided. OES III. D. 3. Logistics-Facilities Status Clarify areas of overlapping responsibilities. OES Update General Services™ vendor list. General Services San Diego County Firestorms 2003  After Action Report 60 SECTION RECOMMENDATION RESPONSIBLE AGENCY/COMMENTS III. D. 3. Logistics-Facilities Status Inventory equipment and supplies stockpiles for an emergency. All County Departments Identify vehicles to be dedicated to deliver equipment and supplies in an emergency. 
+
+General Services Develop method to document all assets moved to response sites. OES Identify method to contact vendors after hours. P&C Update General Services™ callback roster. General Services Develop staffing plan for General Services™ position in EOC. OES-Completed III. E. Finance Modify the EOC layout to put Logistics next to or closer to Finance. OES A minimum of one other Group Finance Director is trained in EOC procedures and operations. Finance Director Public Safety Group  Decision made early on as to ability to pay invoices and where they should be sent for payment. 
+
+Chief Financial Officer/Auditor & Controller Establish Activity Codes and Time Codes within the new ERP system to be used in the event of a disaster.
+
+Chief Financial Officer Develop similar activity and time codes for use during drills and exercises. Chief Financial Officer Finance Section should have accountants assigned for the payment of invoices. Chief Financial Officer/Group Finance Director   

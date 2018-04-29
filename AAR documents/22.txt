@@ -1,0 +1,621 @@
+  1   2008  2009
+
+Salmonella Typhimurium Outbreak Response Nov 2008
+
+March 2009
+
+AFTER ACTION REPORT May 18, 2009               2
+
+ADMINISTRATIVE HANDLING 1.
+
+The title of this document is Salmonella Typhimurium After Action Report.
+
+The purpose of the Salmonella Typhimurium AAR is to identify and discuss the major strengths and areas for improvement during the -making during future outbreaks.
+
+It is not a scientific summary of the outbreak investigation.  2.
+
+Throughout the federal government, emergency management After Action Reviews are conducted as a means of providing agency leadership with direct insight into the emergency management preparedness and response readiness of the agency.  Through an extensive process involving the collection of a broad range of data, and analysis of that data against major strengths and areas of needed improvement.  This effort culminates in an
+
+After Action Report.    3.
+
+This AAR was developed in consultation with subject matter experts from the CDC organizations contributing to the response and has been reviewed for operational and elease Policy for After Action Reports. 
+
+CDC will develop and implement a Corrective Action Program1 (CAP) for this event. 
+
+Each Action will identify the responsible center, institute, or office (CIO), action agent, and action officer. 
+
+The Public Health Preparedness and Response Evaluation Program Steering Committee meets monthly to address relevant CAP issues, and senior CDC leadership are updated quarterly.   4.
+
+Points of Contact:
+
+CDC POC: , MPA Associate Director for Policy Office of Public Health Preparedness and Response Centers for Disease Control and Prevention 1600 Clifton Road Atlanta, Georgia 30333 (404) 639-0483
+
+AOconnor@cdc.gov                                                     1
+
+A Corrective Action Program is an element of improvement planning through which correctives actions from the AAR are prioritized, tracked, and analyzed until they have been fully implemented and validated. 
+
+The purpose of the CAP is to improve CDC public health preparedness and emergency response planning.
+
+HSEEP Volume I, Glossary (2007).  The CDC Corrective Action Program is an internal personnel and programmatic program implemented for operational and tracking purposes only.   3
+
+TABLE OF CONTENTS Administrative Handling  ...........................................................................1
+
+Table of Contents .......................................................................................5
+
+Executive Summary  ..................................................................................4
+
+Introduction ................................................................................................6
+
+Background on Salmonella
+
+Outbreak Investigations .............................8
+
+Figure 1: Salmonella Typhimurium
+
+Case Count By State ................ 10
+
+Figure 2: Salmonella Typhimurium
+
+Epidemic Curve ........................ 11
+
+Timeline of Events  .................................................................................. 12
+
+Figure 3:
+
+Timeline of Infections ............................................................. 15
+
+Evaluation Criteria  .................................................................................. 16
+
+DHS Target Capabilities List  .............................................................16
+
+Summary of DHS Target Capability Mission Areas ........................ 17
+
+Summary of Assessed Target Capabilities  .................................... 18
+
+Summary of CDC Preparedness Objectives  ................................... 21
+
+Analysis of Strengths and Areas for Improvement  ............................ 22
+
+Conclusion  .............................................................................................. 30
+
+Acronyms  ................................................................................................ 31       4
+
+EXECUTIVE SUMMARY Salmonella
+
+Typhimurium outbreak in 46 states and Canada over a four month period.  The purpose of this AAR is to analyze events, decisions, and outcomes; identify strengths to be maintained and enhanced; identify areas for further improvement; and support development of a Corrective Action Program (CAP).
+
+Initial CDC involvement occurred on November 10, 2008, and the CDC response heightened effort ceased on March 17, 2009.2
+
+A total of 691cases and nine deaths3 were reported during the heightened response (November 10, 2009
+
+March 17, 2009).  Response activities were initiated -Borne, and
+
+Enteric Diseases (NCZVED), and were transferred to the CDC Emergency Operations Center (EOC) upon activation of the EOC, on January 15, 2009.  Within CDC, approximately 40 personnel participated in the response and were supported by 148 volunteers (for call center operations only) and two observers/evaluators.  Participation from outside CDC included personnel from the Food and Drug Administration (FDA), the United States Department of Agriculture (USDA), and the affected states and local health departments.
+
+The major strengths identified as a result of the outbreak response activities were:
+
+Early coordination with federal external partners, particularly
+
+FDA; Creative communication strategies, including the use of social media; and
+
+Full integration of multiple
+
+CDC organizations into the investigative processes.
+
+The primary areas identified for improvement as a result of the outbreak response activities were:
+
+Greater evaluation of the challenges presented in an ingredient-based foodborne outbreak; New strategies for strengthening the aggregate timeliness of state case-patient  interviewing, and microbiological testing and analysis; and
+
+More effective streamlining of the clearance process for messaging.                                                      2
+
+CDC continued to closely monitor cases reported by the States.   3
+
+The nine deaths reported are linked to the Salmonella Typhimurium outbreak, but were not definitively caused by Salmonella.    5
+
+AFTER ACTION REPORT Introduction
+
+This After ActiSalmonella Typhimurium peanut-related outbreak in 46 states and Canada over a four month period. 
+
+Throughout the federal government, emergency management After Action Reviews are conducted as a means of providing agency leadership with direct insight into the emergency management preparedness and response readiness of the agency.  Through an extensive process involving the collection of a broad range of data, and analysis of that data against overarching agency anmajor strengths and areas of needed improvement.  This effort culminates in an After Action Report. 
+
+The purpose of the Salmonella Typhimurium AAR is to identify and discuss the major strengths and areas for improvement during the outbreak response and, -making during future outbreaks.
+
+It is not a scientific summary of the outbreak investigation.
+
+Initial CDC involvement occurred on November 10, 2008, and the CDC heightened response effort ceased on March 17, 2009.4
+
+A total of 691cases and nine deaths5 were reported during the response.  Within CDC, the following Coordinating Centers and Offices contributed to the response: Office of the Director (OD), Coordinating Center for Infectious Diseases (CCID), Coordinating Center for Health Information Service (CCHIS), and the Coordinating Office for Terrorism Preparedness and Emergency nter for Zoonotic, Vector-Borne, and Enteric Diseases (NCZVED), and were transitioned to the CDC Emergency Operations Center (EOC) upon activation of the EOC, on January 15, 2009.
+
+The CDC Director activated the CDC EOC based on the Preliminary Assessment recommendation. The Preliminary Assessment Team was comprised of senior personnel from CCID and COTPER and tasked with providing a situation assessment and appropriate recommendations to the CDC Director.
+
+The EOC was deactivated on January 26, 2009. Prior to EOC activation, operations were conducted at NCZVED workspaces, Building 1, CDC Clifton Campus, Atlanta, Georgia. Operations moved to the CDC EOC upon activation, and were re-established in Building 1 upon EOC deactivation on January 26, 2009.
+
+Outbreak response activities returned to baseline on decision to deactivate the EOC was premised on the conclusion that Salmonella Typhimurium exposure levels were nearing baseline levels.  The duration of  heightened response was 127 days.
+
+The CDC typically uses an Incident Management System (IMS) functional structure to conduct emergency responses to major national emergencies.  The IMS system is modeled after interagency use of the Incident Command System (ICS).  Both IMS and ICS organize emergency responses by common, standardized functional areas, such as                                                  4
+
+CDC continued to closely monitor cases reported by the States.   5
+
+The nine deaths reported are linked to the Salmonella Typhimurium outbreak, but were not definitively caused by Salmonella.    6    senior response management, communications, planning, and logistics.  Because of the development and nature of the Salmonella Typhimurium response, NCZVED did not adopt a formal IMS structure, though response operations did informally align with an IMS configuration. This configuration included the Incident Manager, Senior Science Officer, Laboratory Chief, Situational Awareness, Joint Information Center, Lead Liaison Officer, Operations, Logistics, and Technical Specialty Unit.
+
+Participating non-CDC Applied Nutrition and Center for Veterinary Medicine; USDAInspection Service; and the Public Health Departments of Alabama; Arkansas; Arizona; California; Colorado; Connecticut; Florida; Georgia; Hawaii; Idaho; Indiana; Illinois; Iowa; Kansas; Kentucky; Louisiana; Maine; Maryland; Massachusetts; Michigan; Minnesota; Missouri; Mississippi; Montana; Nebraska; Nevada; New Hampshire; New York; New Jersey; North Carolina; North Dakota; Oklahoma; Ohio; Oregon; Pennsylvania; Rhode Island; South Dakota; Tennessee; Texas; Utah; Vermont; Virginia; Washington; West Virginia; Wisconsin; Wyoming; Canada.  A total of 190 personnel supported the response, with approximately 40 participants, 148 volunteers, and 2 controller/evaluators.
+
+The information contained in this AAR was collected and analyzed via several data collection tools and methods, including electronic feedback, a formal hotwash6, and multiple small group meetings during and after the response. The data collection and analysis effort emphasized maximum input from both response participants and leadership.  This
+
+AAR has been cleared for content and release by all CDC Coordinating Centers, Institutes, and Offices, and the CDC Office of the Director.
+
+Background on Salmonella Outbreak Investigations Salmonella is the most commonly diagnosed bacterial cause of intestinal infection in the United States.  According to Mead, et al,7 approximately 40,000 Salmonella infections are reported to CDC each year, with a total number of 1,400,000 estimated in the United States.  Serotyping is the process by which Salmonella bacteria are distinguished from each other in laboratories. More than 2,500 different serotypes have been described, most of them very rare.  Serotyping is performed in nearly all state public health laboratories, and results are reported to CDC.
+
+Serotyping is a key factor in detecting Salmonella outbreaks.
+
+Serotype Typhimurium is the most common serotype of Salmonella in the United States, accounting for 19% of all Salmonella infections in humans.  Between 15 and 20 Typhimurium outbreaks occur per year from a wide variety of sources.  Approximately 7,000 infections with Salmonella Typhimurium are reported to CDC each year.
+
+The discussion below provides insight into the tools, processes, and procedures CDC                                                  6
+
+A hotwash is a facilitated discussion held immediately following a public health emergency response among participants from each functional area.  It is designed to capture initial feedback about any issues, concerns, or proposed improvements.  This facilitated meeting allows participants to take part in an assessment of the respo 7
+
+Food-Related Illness and Death in the United States, Emerg Infect Dis. 1999; 5:607-625.   7    epidemiologists use in response to Salmonella outbreaks.
+
+DNA Fingerprinting and PulseNet In the last decade, state public health laboratories have begun DNA fingerprinting Salmonella bacteria, as a supplement to serotyping.  This has proven particularly helpful for common serotypes such as Typhimurium because it allows the detection of increases otherwise would be obscured within the large number of Typhimurium strains identified every year.  This requires tracking individual DNA fingerprint patterns within a given serotype.  As part of a national network of laboratories known as PulseNet, developed and coordinated by CDC, nearly all state public health laboratories perform DNA fingerprinting on strains of Salmonella Typhimurium.  Testing is performed through pulsed field gel electrophoresis (PFGE), and fingerprinting results (referred to as patterns) are uploaded into the national PulseNet database maintained and reviewed daily by CDC.  All states, CDC, the Food and Drug Administration (FDA), and the United States Department of Agriculture (USDA) have access to posted patterns.  Through PulseNet International, countries such as Canada, Japan, Argentina and a number of European nations participate in a similar network and process.  The USDA maintains a similar database for isolates from meat, poultry, and animals, referred to as VetNet.
+
+More than 50,000 patterns of Salmonella are uploaded to PulseNet each year.  It is quite common for uploaded patterns to match other patterns within PulseNet, and many small "clusters" or groups of matching strains are identified and tracked routinely.  Local and state public health laboratories that identify clusters can notify the PulseNet network at any time by posting a notice about the cluster
+
+If the number of matches to a specific strain increases significantly above what would be expected, the CDC OutbreakNet8 team is notified by CDC PulseNet of the cluster. 
+
+At that point, the CDC OutbreakNet team may continue to monitor the cluster, or may begin an epidemiologic assessment at that point.
+
+CDC OutbreakNet tracks 20-30 small clusters at any given time, the majority of which subside.  Major investigative efforts are focused on clusters that do not subside or that increase rapidly in size and scope.
+
+This outbreak of Typhimurium infections was caused by three strains with very closely related DNA fingerprint patterns. An advanced laboratory test, Multiloci Variable Tandem Repeat Analysis (MLVA) confirmed that bacteria with all three patterns were indistinguishable by that test.  These three patterns are referred to collectively as "the outbreak strain".
+
+Inherent Time Lag in Reporting The identification and response to Salmonella outbreaks is especially susceptible to time lags.  A delay of 2-3 weeks from illness onset to PulseNet posting is typical. The average                                                  8
+
+The purpose of OutbreakNet Team is to ensure rapid, coordinated detection and response to multi-state outbreaks of enteric diseases and promote comprehensive outbreak surveillance. The OutbreakNet Team seeks to improve the collaboration and partnership among officials in local, state, and federal agencies who work with foodborne and diarrheal disease outbreak surveillance and response.    8    time between illness onset and pattern upload was 16 days during this outbreak. In the setting of a multi-state outbreak of salmonellosis, CDC typically becomes aware of cases once the PFGE patterns are uploaded by state public health laboratories to the PulseNet database.  The number of PulseNet uploads per week is therefore considered to provide the most accurate picture of the information that was actually available in real time to guide the outbreak response.
+
+Figure 1: Salmonella Typhimurium
+
+Case Count By State 9                                                       9
+
+Centers for Disease and Control and Prevention, http://www.cdc.gov/salmonella/typhimurium/map.html.
+
+It is not atypical for there to be a discrepancy in numbers between epidemic curves and case counts.  This is most often due to incomplete data on illness onset dates.   9
+
+FIGURE 2:
+
+SALMONELLA TYPHIMURIUM EPIDEMIC CURVE10                                                   10
+
+Centers for Disease and Control and Prevention,  http://www.cdc.gov/salmonella/typhimurium/epi_curve.html.  It is not atypical for there to be a discrepancy in numbers between epidemic curves and case counts.  This is most often due to incomplete data on illness onset dates.   10
+
+Timeline of Events November 10, 2008
+
+CDC PulseNet identifies the first multistate cluster of Salmonella Typhimurium infections, with 13 cases reported in 12 states.  CDC begins monitoring for additional reports of cases with the same DNA fingerprint.
+
+November 24, 2008
+
+CDC PulseNet posts the second multistate cluster of Salmonella Typhimurium infections, with 27 cases reported in 14 states. CDC begins monitoring for additional reports of cases with this second DNA fingerprint.
+
+November 25, 2008
+
+Epidemiologic assessment of the first Salmonella Typhimurium cluster begins, with 35 cases reported in 16 states.
+
+November 25, 2008
+
+January 2, 2009
+
+Detailed epidemiologic questionnaires are collected on approximately 90 cases in affected states.
+
+December 2, 2008
+
+Epidemiologic assessment of the second Salmonella Typhimurium cluster begins, with 41 cases reported in 17 states.
+
+December 4, 2008
+
+In coordination with the affected states, as the distribution in time, place, and person of the two clusters appears to be very similar, CDC epidemiologists decide to follow both clusters with parallel assessments and to pursue both clusters with the same hypothesis-generating questionnaire.
+
+December 28, 2008
+
+The Minnesota Department of Health learns of clusters of cases associated with different institutionalized settings (e.g., nursing homes, group homes), and begins assessment of foods that all the institutions may have received.
+
+January 3 & 4, 2009
+
+Center (EOC) provides the forum for the case control study.  Volunteers participate from across CDC and are trained by NCZVED epidemiologists prior to conducting the case control study.
+
+January 9, 2009
+
+The Minnesota Department of Health reports Salmonella from an opened container of one brand of institutional peanut butter (Brand A).  The Food and Drug Administration (FDA) begins investigation of the Peanut Corporation of America facility in Blakely, Georgia, where that brand of peanut butter was produced.    11
+
+January 10, 2009
+
+Brand A issues a recall of its peanut butter.
+
+January 12, 2009 infection association with consumption of peanut butter.  Minnesota Department of Health confirms outbreak strain in opened container of Brand A peanut butter.
+
+January 14, 2009
+
+Company Y announces a hold on its two major brands (Brands B and C) of peanut butter crackers.
+
+January 15, 2009
+
+The CDC Director activates the CDC Emergency Operations Center (EOC) in support of the outbreak response effort. The following daily staff rhythm is developed:    9:00 am -
+
+NCZVED staff meeting  10:30 am -
+
+CDC/FDA conference call  12:00 pm -
+
+CDC and FDA call with states  6:00 pm -
+
+Input to daily Situation Report due  6:00 pm  -
+
+Daily state case count updates due
+
+January 16, 2009
+
+The Connecticut Department of Health identifies the outbreak strain in an unopened container of Brand A peanut butter.  Peanut Corporation of America announces a recall of its peanut butter and peanut paste. 
+
+Company Y announces a recall of its B and C brands of peanut butter crackers. International Health Regulation Notice posted.
+
+January 17, 2009
+
+CDC and FDA issue a public health advisory regarding peanut butter and peanut butter-containing products.
+
+January 17  19, 2009
+
+CDC executes a second case control study data collection on 93 cases and 399 controls from 35 states.  The case control study is conducted in the CDC EOC.  Volunteers participate from across CDC and are trained by NCZVED epidemiologists prior to conducting the case control study.
+
+January 18, 2009
+
+The Public Health Agency of Canada reports Salmonella Typhimurium in intact packages of Brand B peanut butter crackers.
+
+January 19, 2009
+
+The results of the second case control study indicate association with consumption of peanut butter crackers and peanut butter eaten outside the home.
+
+January 26, 2009   12
+
+The CDC Director deactivates the CDC EOC.
+
+January 28, 2009
+
+Peanut Corporation of America expands its recall of products.
+
+January 29, 2009
+
+The North Carolina Department of Health and Human Services confirms that Salmonella Typhimurium has been isolated from a tanker truck at a cracker processing facility in North Carolina.  CDC publishes an early-release electronic MMWR article summarizing the outbreak investigation to date.
+
+January 30, 2009
+
+Colorado reports three cases resulting from consumption of in-store ground peanut butter purchased at different stores of the same chain (Chain D).
+
+Feb 2, 2009
+
+CDC PulseNet confirms that the Salmonella Typhimurium from a tanker truck in North Carolina is a match to the outbreak strain.
+
+February 4, 2009
+
+The Federal Emergency Management Agency (FEMA) confirms that a portion of the emergency meal kits provided to winter storm victims in Kentucky and Arkansas may contain recalled peanut butter.
+
+February 5, 2009
+
+Deputy Director of the NCZVED testifies before the Senate Committee on Agriculture, Nutrition and Forestry on the issue of federal food safety oversight in the wake of the peanut product recalls.  Colorado identifies a fifth case possibly associated with a fifth location of Chain D who reports consumption of Chain D in-store ground peanut butter from Peanut Corporation of America roasted peanuts.  The original source of the peanuts is under investigation by FDA.  This investigation ultimately leads to implication of P Plainview, Texas plant.
+
+February 8, 2009
+
+Oregon reports the first confirmed case of Salmonella Typhimurium in a dog that was fed a recalled dog treat product.  No family member is ill, which precludes a secondary infection in the dog.
+
+March 17, 200911
+
+Heightened outbreak response ends.  Close monitoring of newly uploaded cases continues.                                                    11
+
+The CDC Emergency Operations Center was deactivated on March 17, 2009.  The National Center for Zoonotic, Vector-Borne, and Enteric Diseases continued to monitor cases reported by the States.    13
+
+FIGURE 3:
+
+TIMELINE OF INFECTIONS12                                                    12
+
+Centers for Disease and Control and Prevention, http://www.cdc.gov/salmonella/typhimurium/salmonellaOutbreak_timeline.pdf.   14
+
+Evaluation Criteria The Department of Homeland Securifor achieving national preparedness.  As such, they are essential tools in planning and evaluating public health emergency exercises and responses. Assessing the linkage between target capabilities, preparedness objectives, and identified strengths and weaknesses provides CDC with an informed readiness assessment upon which to base revision and enhancement of its emergency preparedness and response strategies, plans, policies, and procedures.
+
+Department of Homeland Security Target Capabilities List Developed and published by the United States Department of Homeland Security, the National Preparedness Guidelines set forth the doctrine, priorities, and systematic supports the National Preparedness Guidelines by providing guidance on the specific capabilities and levels of capability the federal, state, local, tribal, and non-governmental entities should develop and maintain for all-hazards preparedness. 
+
+The list includes five common capabilities, and the others are grouped within four broad Mission Areas (Prevent, Protect, Respond, and Recover), the TCL is a dynamic list that is under continuous revision for optimal preparedness.
+
+The Target Capabilities and Mission Areas are:
+
+A. 
+
+COMMON TARGET CAPABILITIES   1. Planning  2. Communications  3. Risk Management  4. Community Preparedness and Participation  5. Intelligence and Information Sharing and Dissemination B. 
+
+PREVENT MISSION AREA   1.
+
+Information Gathering and Recognition of Indicators and Warning 2.
+
+Intelligence Analysis and Production 3.
+
+Counter-Terror Investigation and Law Enforcement  4.
+
+Chemical, Biological, Radiological, Nuclear and Explosive Detection  15
+
+C. 
+
+PROTECT MISSION AREA    1. Critical Infrastructure Protection  2. Food and Agriculture Safety and Defense  3. Epidemiological Surveillance and Investigation  4. Laboratory Testing D. 
+
+RESPOND MISSION AREA   1.
+
+Onsite Incident Management 2.
+
+Emergency Operations Center Management 3.
+
+Critical Resource Logistics and Distribution 4.
+
+Volunteer Management and Donations 5.
+
+Responder Safety and Health 6.
+
+Emergency Public Safety and Security Response  7.
+
+Animal Disease Emergency Support 8.
+
+Environmental Health 9.
+
+Explosive Device Response Operations 10.
+
+Fire Incident Response Support 11.
+
+Weapons of Mass Destruction and Hazardous Materials Response and Decontamination 12.
+
+Citizen Evacuation and Shelter-in-Place 13.
+
+Isolation and Quarantine 14.
+
+Search and Rescue (Land-Based) 15.
+
+Emergency Public Information and Warning 16.
+
+Emergency Triage and Pre-Hospital Treatment 17.
+
+Medical Surge 18.
+
+Medical Supplies Management and Distribution 19.
+
+Mass Prophylaxis 20.
+
+Mass Care (Sheltering, Feeding, and Related Services) 21.
+
+Fatality Management
+
+E. 
+
+RECOVER MISSION AREA 1.
+
+Structural Damage Assessment 2.
+
+Restoration of Lifelines 3.
+
+Economic and Community Recovery Summary of DHS Target Capability Mission Areas Prevent
+
+Actions taken to avoid an incident or to intervene to stop an incident from occurring, and to protect lives and property through applying intelligence and other information to a range of activities.  These activities may include countermeasures such as public health and agricultural surveillance and testing processes; immunizations, isolation, and quarantine; heightened inspections; and where appropriate, specific law enforcement operations.
+
+Protect Actions to reduce the vulnerability of critical infrastructure or key resources in   16    order to deter, mitigate, or neutralize terrorist attacks, major disasters, and other emergencies.  Protection requires coordinated action on the part of federal, state, and local governments, the private sector, and concerned citizens across the country. 
+
+Protection also includes continuity of governments and operations planning; understanding threats and vulnerabilities; identifying and promoting sector-specific protection practices and methodologies; and expanding voluntary security-related information between and among private and public sectors.
+
+Response
+
+Activities that address the short-term, direct effects of an incident. Response includes immediate actions to save lives, protect property, and meet basic human needs. 
+
+Response also includes activities designed to limit the loss of life, personal injury, property damage, and other unfavorable outcomes.  As appropriate, response activities include applying intelligence and other information to lessen the effects or consequences of an incident; increased security operations; continuing investigations into the nature and source of the threat; ongoing public health and agricultural surveillance and testing processes; immunizations, isolation, or quarantine; and certain law enforcement activities.
+
+Recovery -
+
+A group of actions aimed at reconstituting government operations and services; restoring services and sites; implementing public assistance programs to provide housing and promote restoration; providing long-term care and treatment for affected persons; evaluating incidents to identify lessons learned; post-incident reporting; developing initiatives to mitigate the effects of future incidents; and implementing additional measures for multi-sector restoration.
+
+The discussion below assesses the DHS Target Capabilities and CDC Preparedness Objectives relevant to the Salmonella Typhimurium outbreak.
+
+Summary of Assessed Target Capabilities The Target Capabilities at play and assessed during the Salmonella Typhimurium response were:
+
+Emergency Operations Center (EOC) Management is the capability to provide multi-agency coordination for incident management by activating and operating an EOC for a pre-planned or no-notice event. It includes a multitude of responsibilities including EOC activation, notification, staffing, and deactivation; management, direction, control and coordination of response and recovery activities; coordination with external government agencies and entities; and coordination of public information and warning.  The Division of Emergency Operations (DEO) supports this capability by maintaining and operating the EOC during steady state and response operations.
+
+Critical Resource Logistics and Distribution is the capability to identify, inventory, dispatch, mobilize, transport, recover and demobilize, and to accurately track and record, available human and material critical resources throughout all incident management phases.  The DEO Logistics Support Team supports this capability by mobilizing, deploying, equipping, outfitting, tracking, and demobilizing CDC personnel responding to public health incidents.    17
+
+Information Gathering and Recognition of Indicators and Warning entails the gathering, consolidation, and retention of raw data and information from sources to include human sources, observations, technical sources and unclassified materials.  Recognition of indicators and warnings is the ability to distill from the data potential trends, indicators, and/or warnings of criminal and/or terrorist activities.
+
+Intelligence and Information Sharing and Dissemination provides tools to enable efficient prevention, protection, response, and recovery activities.  It is the multi-jurisdictional, multi-disciplinary exchange and dissemination of information and intelligence at the federal, state, and local levels, within the private sector, and among cSituational Awareness Incident Management System (IMS) functional effort supports this capability, among others, by establisPicture; collecting, analyzing, and reporting public health and operational data; and providing regular briefings to CDC leadership and staff.
+
+Intelligence Analysis and Production is the merging of data and information for the purpose of analyzing, linking and disseminating timely and actionable intelligence, with emphasis on the larger public safety and homeland security threat picture. The process focuses on consolidating analytical products at the federal, state, and local levels for strategic, operational, and tactical use.
+
+Communications is the fundamental capability needed to perform the most routine and basic functions of emergency management. Communications interoperability is the ability of public safety agencies (e.g., fire, policy) and service agencies (e.g., hospitals, public works) to communicate with each other across agencies and jurisdictions on demand, in real time, when needed, and when authorized.  A continuity of operations supports this capability by proactively providing integrated communications systems and support to routine and incident management operations.
+
+Epidemiological Surveillance and Investigation is the capacity to rapidly conduct epidemiological investigations.  It includes exposure and disease detection (both deliberate release and naturally occurring), rapid implementation of active surveillance, maintenance of ongoing surveillance activities, epidemiological investigation, analysis, and communication with the public, dissemination of case definitions, disease risk and
+
+Technical Specialty Unit within the IMS structure supports this capability by collecting, analyzing, and reporting epidemiological disaster surveillance data in the most comprehensive, timely, and accurate manner possible.
+
+Emergency Public Information and Warning is the capability that includes public information, alert/warning, and notification.  It involves developing, coordinating, and disseminating information to the public, coordinating officials, incident management staff and leadership, and responders.  The CDC Joint Information Center response operations by providing timely, coordinated, and directly relevant information   18    to external partners and the American public.
+
+Food and Agriculture Safety and Defense is the capability to prevent, protect against, respond to, and recover from chemical, biological, and radiological contaminants, and other hazards that affect the safety of food and agricultural products.  This includes assessments of the integrity of the food producing industry, the removal and disposal of potentially compromised materials from the U.S. food supply, and decontamination of affected food manufacturing facilities or retail points.  This capability also includes appropriate laboratory surveillance to detect human foodborne illness or food product contamination. 
+
+The subject matter experts and programs within CCID and the Technical Specialty Unit within the IMS structure support this capability by conducting surveillance and investigation of potential and suspected foodborne outbreaks.
+
+Laboratory Testing is the ongoing surveillance, rapid detection, confirmatory testing, data reporting, investigative support, and laboratory networking to address potential or actual all-hazards exposure. 
+
+Interagency and interstate coordination is an important component of this capability.  The CCID and Technical Specialty Unit within the IMS structure supports this effort by conducting routine and crisis surveillance, detection, testing, reporting, investigative support and laboratory networking.
+
+Summary of CDC Preparedness Objectives The CDC's overarching preparedness goal is: People Prepared for Emerging Health Threats.  To help achieve this goal CDC defined five functionally based all-hazards preparedness objectives.  These objectives are the benchmarks for demonstrating achievement of CDC's public health goals. 
+
+CDC preparedness objectives are linked to and supported by the capabilities described in the Target Capability List.  The CDC preparedness objectives are:
+
+Health Monitoring and Surveillance: Integrate and enhance the existing surveillance systems at the local, state, national, and international levels to detect, monitor, report, and evaluate public health threats.
+
+Epidemiology and Other Assessment Sciences: Support and strengthen human and technological epidemiologic resources to prevent, investigate, mitigate, and control current, emerging, and new public health threats and to conduct research and development that lead to interventions for such threats.
+
+Public Health Laboratory Science and Service: Enhance and sustain nationwide and international laboratory capacity to gather, ship, screen, and test samples for public health threats and to conduct research and development that lead to interventions for such threats.
+
+Response and Recovery Operations: Assure an integrated, sustainable, nationwide response and recovery capacity to limit morbidity and mortality from public health threats.     19
+
+Public Health System Support: Expand and strengthen integrated, sustained, national foundational and surge capacities capable of reaching all individuals with effective assistance to address public health threats.
+
+The first four objectives listed above were relevant to, and assessed during, the Salmonella Typhimurium response.      20
+
+Analysis of
+
+Strengths and Areas for Improvement A fundamental component of any CDC AAR is the identification of strengths and areas for improvement nse to an event or exercise.  The following strengths and weaknesses emerged from the response in an effort to capture performance data and assess it against response objectives and operational missions. 
+
+Because strengths and weaknesses illuminate areas needing to be sustained or improved, they are critical to the and procedures.   the evaluation of an exercise or event in relation to overarching national-level guidelines for performance, including
+
+Target Capabilities and Preparedness Objectives in relation to strengths and weaknesses identified during the Salmonella Typhimurium outbreak response.
+
+Strength: Early Coordination with Federal External Partners The Salmonella Typhimurium outbreak response leadership took three key actions to ensure early and sustained coordination with federal external partners.  These actions included the early exchange of liaison officers between CDC and FDA, inclusion of a CDC epidemiologist on the FDA investigation team, and a high level of data sharing between CDC and FDA. These actions proved invaluable to the CDC investigation in that they directly accelerated the development and execution of the investigation.  As a result of the important strides made through these actions, CDC is committed to retaining, and evolving, these actions and their use in future investigations.
+
+Exchange of Liaison Officers Response leadership at both CDC and FDA determined early in the response that a Liaison Officer (LNO) exchange was merited, and exchanged staff scientist LNOs in mid-January, prior to activation of the EOC.
+
+This decision reflected understanding at the leadership level that Salmonella investigations require considerable interagency coordination, with both CDC and FDA central to the effort.
+
+The use of LNOs to facilitate this coordination is a long-standing interagency tool. Within emergency management, LNOs are representatives from governmental agencies who are deployed to sister agencies at the federal, state, or local level for the purpose of facilitating the direct, timely, and accurate flow of information and unity of agency actions relevant to emergency response operations.  Both the deployment location of LNOs, and the point at which they are deployed, are critical decisions.  Equally important is ensuring that deploying agencies provide their respective LNOs with timely and responsive information and support throughout the deployment.
+
+CDC Participation in FDA Plant Inspections
+
+In mid-January, a CDC foodborne illness epidemiologist traveled to the Peanut inspection.  Because of differing roles and responsibilities in a foodborne outbreak, it was historically atypical for a CDC epidemiologist to participate   21    in an FDA inspection. 
+
+This collaboration led to important and rapid recognition by both agencies that many cases might be caused by products other than Brand A peanut butter, and materially accelerated the epidemiological investigation that implicated other foods.
+
+As sister agencies under the Department of Health and Human Services (HHS), the FDA and CDC bring complementary perspectives and responsibilities to an outbreak response. 
+
+As a regulatory agency, the FDA is appropriately focused on implementing immediate control measures to prevent further exposure of consumers to contaminated products, determining precisely how, when, and where the food became contaminated, ascertaining industry compliance with governing regulations and statutes, as well as evaluating the need  to change regulatory policies and guidance to prevent future outbreaks. CDC has a focus on illnesses in people, which foods are associated with illness, and the gaps in food safety processes that may lead to illness.
+
+Both agencies aim to understand the circumstances under which food contamination may have occurred that caused the outbreak in order to refine the ongoing epidemiological investigation and most importantly to better understand how to prevent similar outbreaks in the future.
+
+During this outbreak, the decision to include a CDC epidemiologist on  investigation team reflected the understanding that a joint investigation best served the interests of both agencies and consumers, precisely because of the complementary roles and responsibilities of the respective agencies and the unique features of this outbreak. 
+
+The joint investigation provided critical on-site interagency coordination and, therefore, more rapid evolution of the overall investigation.
+
+High Level of Data Sharing Interagency coordination is essential to ensure a thorough, accurate, and timely investigation. 
+
+Despite their distinct missions, FDA and CDC have overlapping responsibilities, thus making interagency coordination and, specifically, data sharing critical. With this in mind, the CDC and FDA response determined early in the outbreak that a high level of data sharing was needed to ensure each agency executed its responsibilities in accordance with the most current data available. A daily staff rhythm was established by which all CDC and FDA personnel supporting the investigation communicated via conference call for the express purpose of exchanging data, and reviewing or revising investigative strategies. This exchange of data proved all the more essential to the investigation in light of the complexity of the investigations, involving a variety of different products, brands, and facilities.  Both CDC and FDA shared data openly and frequently, and both agencies acknowledged the clear contribution this made to the investigation overall, particularly in the early stages of the response.
+
+Target Capability and Preparedness Objective Assessment The DHS Emergency Operations Center Management Target Capability relates directly to the use of the CDC EOC to support the integration of NCZVED, COTPER, and National Center for Health Marketing (NCHM) operations.  The success with which this capability in Emergency Operations Center management. The use os facility to host a large telephone survey conducted by NCZVED and the integration of NCHM personnel into the EOC through the Joint Information Center are noteworthy examples of d Recovery Operations   22
+
+Preparedness Objective likewise assures an integrated and sustainable nationwide response and recovery capacity to limit morbidity and mortality from public health targeted and thorough interagency coordination directly supports this goal.
+
+Strength: Creative Communication Strategies New media messages and social channels were developed and executed during the Salmonella Typhimurium EOC activation and also transitioned back to CCID after deactivation of the EOC.
+
+For the first time in its investigation and management of Salmonella Typhimurium outbreaks, the CDC utilized social media as part of its communication strategy.  The results were so overwhelmingly favorable that social media will unquestionably remain a central future national outbreaks.  The need for this very broad communication approach is especially noteworthy in light of the unprecedented breadth of the FDA product recall (over 3,900 products).
+
+The first-time use of social media outlets such as Twitter, blogs, and podcasts, represents the addition of innovative communication tactics not used during previous Salmonella outbreaks, including the 2008 Salmonella Saintpaul outbreak. Through the use of these social media, along with CDC-INFO, Epi-X, Clinician Outreach Communications Activities, and a highlight banner on the Salmonella Typhimurium website, JIC, NCHM, and NCZVED were able to effectively disseminate critical information to distinct populations and communities on a comprehensive and widespread basis.
+
+Throughout the investigation, communication professionals strategized about how messages should be shaped and distributed to multiple audiences including CDC and DHHS leaders, the news media, clinicians, public health professions, community-based organizations, and consumers.  The JIC Media Team monitored reports and information -INFO), and reviewed web metrics and information exchanged between states and federal partners during daily conference calls to shape messages for all audiences.  Messages were distributed through many channels including joint telephone press conferences conducted with the FDA, regular web updates, Health Alert Network notices to public health professionals and clinicians, Clinical Outreach calls, Epi-X messages, as well as outreach to non-traditional audiences (e.g., food banks, bloggers(CDC-INFO).  As the investigation was tapering down, and clear calls for action were -health marketing team developed a number of social media strategies and e-tools for broadly disseminating these specific messages.
+
+Target Capability and Preparedness Objective Assessment Emergency Public Information and Warning is the capability of an agency to provide public information, alert/warning, and notification.  It involves developing, coordinating, and disseminating information to the public, coordinating officials, incident management   23    by providing timely, coordinated, and directly relevant information to external partners and the AmerResponse and Recovery Operations Preparedness Objective by developing and disseminating key messages essential to limiting the public health impacts of a Salmonella outbreak.
+
+Strength: Full integration of multiple CDC Organizations into the Investigative Processes The CDC Emergency Operations Center is well-situated to support the roles and responsibilities of multiple CDC organizations operating simultaneously and with unity of purpose.  Established EOC processes and procedures, combined with sophisticated integrative software, allowed Salmonella Typhimurium response participants from three different CDC Centers and Offices to function seamlessly together, COTPER, NCHM, and NCZVED.
+
+The full integration of the Joint Information Center, comprised largely of personnel from NCHM into the investigative operations of the subject matter experts from NCZVED resulted in an exceptionally strong communication and messaging capability throughout the response.  Clear, consistent, and streamlined messaging and document clearance processes emerged as the core successes and improvements from previous responses. The complicated nature of an ingredient-based outbreak and the vastness of the FDA recall underscores the importance of such a sustained and coordinated communication effort.
+
+The strength of the JIC messaging capability was evolved largely through the daily, integrated activities undertaken through the EOC, core staff provided by COTPER. 
+
+In addition, this messaging capability was extended beyond EOC deactivation, as JIC personnel continued to provide integrated support after deactivation. 
+
+As fully integrated participants in the outbreak response, JIC personnel regularly participated in affected-state calls, were able to correct inaccuracies in draft publications and press releases, and developed on-the-spot procedures for expediting the clearance process.  This represents a to retaining this lesson learned in future investigations.
+
+Target Capability and Preparedness Objective Assessment Full JIC integration into EOC operations furthers the Emergency Operations Center Management Target Capability by providing direct and timely coordination with external governmental, non-governmental, and private sector agencies and entities, and by coordinating public information and warning. This level of integration likewise furthers reamlining the process for developing and disseminating messages directly oriented toward limit the public health impact of Salmonella outbreaks.     24
+
+Area for Improvement: Greater Evaluation of Ingredient-Based Outbreak Challenges The 2009 Salmonella Typhimurium outbreak was an ingredient-driven outbreak. 
+
+Ingredient-driven Salmonella outbreaks are considered more difficult to detect than product-driven outbreaks because they do not involve one specific food (e.g., chicken), but rather an ingredient that is added to or on a variety of specific foods (e.g., ground pepper). 
+
+Salmonella investigations of both scenarios can be further complicated by differing understandings or impressions of the distinction between foods and ingredients (e.g., sprouts).  Ingredient-based outbreaks present significantly different challenges than single product-based outbreaks in that cluster assessments; trace back and trace forward strategies; coordination among federal and state agencies; and messaging may all require modification.
+
+CDC epidemiologists and their state colleagues used various methods and tools, including hypothesis-generating questionnaires and two call centers to narrow the investigation from initial wide ranging suspicions that included chicken in the Midwest to concerns about institutional food distribution, and finally to foods containing peanut butter. 
+
+The team of state and CDC epidemiologists was then able to define the source of contamination as peanut paste and related peanut product produced by PCA at its Blakely, Georgia, plant. Peanut paste and related peanut product are ingredients added to an exceedingly wide range of commercial foods beyond peanut butter, including salad dressings, Asian food seasonings, crackers, candy, ice cream, and pet food. Over 3,900 food products were recalled as a result of the PCA contamination.
+
+The CDC is committed to thoroughly evaluating the specific challenges presented during ingredient-driven outbreaks, and reviewing its plans, policies, processes, and procedures to ensure that these challenges are addressed, including evaluation of early traceback investigations with FDA when a product appears to be implicated, so that identification of component ingredients can begin as soon as possible.
+
+Target Capability and Preparedness Objective Assessment -driven Salmonella and Investigation Target Capability.  This capability is defined as the capacity to rapidly conduct epidemiological investigations, including exposure and disease detection, rapid implementation of active surveillance, maintenance of ongoing surveillance activities, providing recommendations for implementing control measures, and epidemiological investigation, analysis, and communication with the public. By focusing intently on appropriate modifications to existing plans, policies, processes, and procedures, CDC can establish the foundation for more streamlined consideration of the indicators of ingredient-based Salmonella outbreaks. In doing so, CDC furthers its Epidemiology and Other Assessment Sciences Preparedness Objective to support and strengthen human and technological epidemiologic resources to prevent, investigate, mitigate, and control current, emerging, and new public health threats.     25
+
+Area for Improvement: New Strategies for Strengthening the Timeliness of Interviewing, Testing, and Analysis The CDC values its robust relationship with the state departments of health across the nation. 
+
+Throughout the Salmonella Typhimurium outbreak investigation CDC and state epidemiologist and laboratarians worked intently and closely together, often communicating daily. 
+
+To augment coordination processes already in place, a daily staff rhythm of meetings, updates, and conference calls was established immediately upon activation of the CDC EOC.  The purpose of establishing a daily staff rhythm was to ensure regular and timely updates and exchange of information. At 9:00 am, NCZVED personnel met in the EOC for investigation updates and a review of strategies. At 10:30 am, CDC and FDA investigation and response personnel convened a conference call to exchange information, and to prepare for a 12:00 pm conference call with state health departments. its investigative strategies as new information surfaced.
+
+Despite the high degree of productive coordination between CDC and state health departments, significant challenges were evident, most notably in the collection and synthesis of data from the states. State public health departments have varying levels and methods of surveillance and laboratory detection; varying protocols and processes for reporting results; and varying resources and capabilities.  These variances may, in some investigation.
+
+To mitigate the effect of these variances in the future, CDC is committed to coordinating extensively with state health departments and with organizations such as the Council of State and Territorial Epidemiologists (CSTE), the Council to Improve Foodborne Outbreak Response (CIFOR), and the Association of Public Health Laboratories (APHL) to develop improved processes and procedures for a more centrally-based system of data collection, analysis, and reporting; more centralized and/or standardized interviewing and comparing of interview results across multiple counties and states; standardized hypothesis-generating questionnaires; and realistic estimates for the additional costs needed to implement and maintain more real-time specimen collection, testing, and analysis within the states.  The objective of these coordination efforts with state partners is to promote improved real-time epidemiological data collection and analysis.
+
+Target Capability and Preparedness Objective Assessment Strengthening the timeliness of Salmonella contribution to the Intelligence/Information Sharing and Dissemination Target Capability.  This capability provides the tools needed to enable efficient prevention, protection, response, and recovery activities.  It is the multi-jurisdictional, multi-disciplinary exchange and dissemination of information and intelligence at the federal, state, and local levels, within the private sector, and among citizens. By enhancing coordination processes between CDC and its state partners, CDC can promote stronger exchange and dissemination of information at all levels and in all sectors.  In doing so, CDC furthers its preparedness objective of Health Monitoring and Surveillance by   26    integrating and enhancing existing surveillance systems at the local, state, national, and international levels.
+
+Area for Improvement: Further Improvement of the Messaging Clearance Process By their nature, foodborne outbreaks prompt public calls for CDC information dissemination, with public interest in the Salmonella Typhimurium outbreak especially intense because of the expansive food recall and potential negative economic consequences for industry.
+
+As an investigative agency, CDC strives for both accuracy and timeliness in the information it conveys to the public, with communication outreach and responsible messaging playing vital roles in foodborne outbreaks. During the Salmonella Typhimurium outbreak, however, the combination of extensive clearance procedures and multi-faceted messaging presented significant challenges in the face of deadlines for press and other communication releases.13
+
+Despite the clear progress made during the Typhimurium outbreak, room for improvement remains.  Messages that are not cleared by all relevant parties risk conveying inaccurate information to the press, public, and agency leadership, and thus risk unnecessarily complicating the messaging effort.
+
+The reliance on email and printed media during the clearance process caused a significant delay because the procedure presumed (and relied on) continuous email and desk monitoring by response personnel and leadership.  To lessen the impact of electronic- and e-mail based clearance processes, CDC has implemented redundant clearance procedures that are based on both email and face-to-face communication.  This is expected to result in noticeably more expeditious document clearance.
+
+Target Capability and Preparedness Objective Assessment By actively evolving its Salmonella outbreak clearances processes, CDC will further its contribution to the Emergency Public Information and Warning Target Capability. More specifically, consistent efforts to streamline clearances processes, while taking care to ensure accuracy, will facilitate more timely and relevant communication with external partners and the American public. In doing so, CDC likewise furthers its Response and                                                  13
+
+The communications clearance procedures used for the Salmonella Typhimurium Situation Report and Web Update are representative of overall clearance processes.  These procedures were initiated by the Division of Food-Borne, Bacterial, documents with updated case numbers and other information to the DFBMD communications staff via email.  The communications staff used either email or printed media to obtain clearance and comments from the following people:  OutbreakNet Team Lead; DFBMD Division Director or Deputy Director; member of the NCZVED Food Safety Office; and a member of the NCZVED communications office. 
+
+Depending upon the nature of the content, document clearance was occasionally elevated beyond NCZVED to CDC and HHS leadership.  Comments were addressed, with revisions collated into new documents.  The Situation Report was then forwarded to EOC Reports for distribution to CDC leadership. 
+
+The web update was then forwarded to
+
+FDA for approval, if the change in information was significant. 
+
+Once FDA approval was received, the web update was uploaded to a new web page.  This web page was circulated once more to an OutbreakNet and FDA contact for final approval.  The web page was then posted on the live web server for public view.    27
+
+Recovery Operations Preparedness Objective by integrating and sustaining response communications processes and procedures that mitigate the impacts of Salmonella outbreaks.         28
+
+CONCLUSION The Salmonella Typhimurium foinvestigative capability considerably.  Recognition of this outbreak as ingredient-based, in particular, illuminated a series of challenges the response to which led to CDC-wide participation and early interaction with external partners. The CDC EOC was activated to provide the functional infrastructure for a portion of the response operations.  is outbreak and to identify areas of strength and improvement. The secondary objective was to provide the basis for modifying existing plans and procedures to ensure more effective and efficient response operations.  The AAR does not judge success or failure, but rather provides a vehicle so lessons can be learned and shared.
+
+The AAR identified three major areas of strength, and three areas for improvement.  The major strengths included (a) early coordination with federal external partners, particularly FDA; (b) creative communications strategies, including the use of social media; and (c) full integration of multiple CDC organizations into the investigative processes.  The primary areas identified for improvement were (a) greater evaluation of the challenges presented in an ingredient-based foodborne outbreak; (b) new strategies for strengthening the aggregate timeliness of state and local laboratory testing and analysis; and (c) greater improvement of the messaging clearance process.
+
+CDC will use the major strengths and areas for improvement discussed in this AAR to develop and implement a Corrective Action Program14 (CAP) for this event.  Each Action will identify the responsible CDC center, institute, or office, action agent, and action officer.  The CDC Public Health Preparedness and Response Evaluation Program Steering Committee will meet monthly to address relevant CAP issues, and update senior CDC leadership quarterly.                                                   14
+
+A Corrective Action Program is an element of improvement planning through which correctives actions from the AAR are prioritized, tracked, and analyzed until they have been fully implemented and validated. 
+
+The purpose of the CAP is to improve CDC public health preparedness and emergency response planning.
+
+HSEEP Volume I, Glossary (2007).  The CDC Corrective Action Program is an internal personnel and programmatic program implemented for operational and tracking purposes only.   29
+
+ACRONYMS A
+
+AAR After-Action Report APHL Association of Public Health Laboratories ASPR Assistant Secretary for Preparedness and Response C
+
+CAP Corrective Action Program CCEHIP Coordinating Center for Environmental Health and Injury Prevention CCHIS Coordinating Center for Health Information and Service CCHP Coordinating Center for Health Promotion CCID Coordinating Center of Infectious Disease CDC Centers for Disease Control and Prevention CDC EOC Centers for Disease Control and Prevention Emergency Operations Center CIFOR Council to Improve Foodborne Outbreak Response CIO Centers, Institute,
+
+Offices COTPER Coordinating Office of Terrorism Preparedness and Emergency Response CSTE Council of State and Territorial Epidemiologists D
+
+DEO Division of Emergency Response DHS Department of Homeland Security DSAT Division of Select Agents and Toxins DSLR Division of State and Local Readiness DSNS Division of the Strategic National Stockpile E
+
+ECS Emergency Communications System EDEB Enteric Diseases Epidemiology Branch EDLB Enteric Diseases Laboratory Branch EIS Epidemic Intelligence Service EOC Emergency Operations Center F
+
+H HHS Department of Health and Human Services   30
+
+HSEEP Homeland Security Exercise and Evaluation Program G
+
+I ICS Incident Command System IMS Incident Management System IP Improvement Plan IT Information Technology J
+
+JIC Joint Information Center L
+
+LNO Liaison Officer LST Logistics Support Team M
+
+MLVA Multiloci Variable Tandem Repeat Analysis N
+
+NCBDDD National Center for Birth Defects and Developmental Disabilities NCCDPHP National Center for Chronic Disease Prevention and Health Promotion
+
+NCEH National Center of Environmental Health NCHHSTP National Center for HIV/AIDS, Viral Hepatitis, STD and TB Prevention
+
+NCHM National Center for Health Marketing NCIRD National Center for Immunization and Respiratory Diseases NCPHI National Center for Public Health Informatics NCZVED National Center for Zoonotic, Vector-Borne and Enteric Diseases NIMS National Incident Management System NIOSH National Institute for Occupational Safety and Health NRF National Response Framework O
+
+OD Office of the Director OFRD Office of Field Readiness and Deployment OSHA Occupational Safety and Health Administration    31
+
+P PMP Portfolio Management Program POC Point Of Contact
+
+PTEE Plans, Training, Exercise and Evaluation R
+
+S SA Situational Awareness SITREP Situation Report SME Subject Matter Expert SMO Senior Management Official SNS Strategic National Stockpile SOP Standard Operating Procedure T
+
+TSU Technical Specialty Unit U
+
+USPHS United States Public Health Service    
